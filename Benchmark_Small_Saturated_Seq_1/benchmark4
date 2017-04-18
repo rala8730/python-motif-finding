@@ -1,0 +1,617 @@
+**************************************** 
+*                                      * 
+*      BioProspector Search Result     * 
+*                                      * 
+**************************************** 
+
+Try #1	3.529	TCCTTCTTCGCAAATCAGGC GCCTGATTTGCGAAGAAGGA	 	45
+Try #2	3.601	CAAATCAGGCGCGGTCGTTC GAACGACCGCGCCTGATTTG	 	84
+Try #3	3.430	AGACCGCGCCTGATTTGCGA TCGCAAATCAGGCGCGGTCT	 	81
+Try #4	3.143	GCGCCTGATTTGCGAAGCAG CTGCTTCGCAAATCAGGCGC	 	83
+Try #5	3.387	TCGCAAATCAGGCGCGGTAT ATACCGCGCCTGATTTGCGA	 	83
+Try #6	4.325	TCTTCGCAAATCAGGCGCGG CCGCGCCTGATTTGCGAAGA	 	46
+Try #7	2.824	GGTGCAAGCGTTCTTGGGAT ATCCCAAGAACGCTTGCACC	 	39
+Try #8	3.564	CCGCGCCTGATTTGCGAAGT ACTTCGCAAATCAGGCGCGG	 	82
+Try #9	3.161	AATCAGGCGCGGTACAACGC GCGTTGTACCGCGCCTGATT	 	45
+Try #10	3.770	CAAGAACGCTTGCACCTTAT ATAAGGTGCAAGCGTTCTTG	 	40
+Try #11	3.648	GAACGACCGCGCCTGATTTG CAAATCAGGCGCGGTCGTTC	 	84
+Try #12	2.965	CTGATTTGCGAAGAAGGACA TGTCCTTCTTCGCAAATCAG	 	45
+Try #13	3.601	CAAATCAGGCGCGGTCGTTC GAACGACCGCGCCTGATTTG	 	84
+Try #14	4.306	CCGCGCCTGATTTGCGAAGA TCTTCGCAAATCAGGCGCGG	 	46
+Try #15	3.564	CCGCGCCTGATTTGCGAAGT ACTTCGCAAATCAGGCGCGG	 	82
+Try #16	3.785	GTTAGACCGCGCCTGATTTG CAAATCAGGCGCGGTCTAAC	 	46
+Try #17	3.358	AGAACGACCGCGCCTGATTT AAATCAGGCGCGGTCGTTCT	 	83
+Try #18	3.328	AAATCAGGCGCGGTCGTTCT AGAACGACCGCGCCTGATTT	 	83
+Try #19	3.220	CCCTACAACGCTTGCACCTT AAGGTGCAAGCGTTGTAGGG	 	41
+Try #20	2.951	GGAGAACGACCGCGCCTGAT ATCAGGCGCGGTCGTTCTCC	 	84
+Try #21	3.314	AAATCAGGCGCGGTATTCGA TCGAATACCGCGCCTGATTT	 	82
+Try #22	3.367	CGCAAATCAGGCGCGGTATT AATACCGCGCCTGATTTGCG	 	84
+Try #23	3.564	CCGCGCCTGATTTGCGAAGT ACTTCGCAAATCAGGCGCGG	 	82
+Try #24	2.969	GGCGTTAGACCGCGCCTGAT ATCAGGCGCGGTCTAACGCC	 	46
+Try #25	3.161	TGAACGTTCGCAAATCAGGC GCCTGATTTGCGAACGTTCA	 	81
+Try #26	2.900	GCCATCTTCGCAAATCAGGC GCCTGATTTGCGAAGATGGC	 	80
+Try #27	3.750	AACGACCGCGCCTGATTTGC GCAAATCAGGCGCGGTCGTT	 	82
+Try #28	3.207	AATCAGGCGCGGTCGTTCTC GAGAACGACCGCGCCTGATT	 	83
+Try #29	4.303	CCGCGCCTGATTTGCGAAGA TCTTCGCAAATCAGGCGCGG	 	46
+Try #30	3.592	CGTTCGCAAATCAGGCGCGG CCGCGCCTGATTTGCGAACG	 	83
+Try #31	3.750	AACGACCGCGCCTGATTTGC GCAAATCAGGCGCGGTCGTT	 	82
+Try #32	2.862	ATCCCAAGAACGCTTGCACC GGTGCAAGCGTTCTTGGGAT	 	39
+Try #33	3.724	GCAAATCAGGCGCGGTCGTT AACGACCGCGCCTGATTTGC	 	82
+Try #34	4.539	ACGCTTGCACCTTATTCGAC GTCGAATAAGGTGCAAGCGT	 	38
+Try #35	3.772	AACCGCGCCTGATTTGCGAA TTCGCAAATCAGGCGCGGTT	 	83
+Try #36	4.543	GAACGCTTGCACCTTATTCG CGAATAAGGTGCAAGCGTTC	 	38
+Try #37	3.555	GACCGCGCCTGATTTGCGAA TTCGCAAATCAGGCGCGGTC	 	81
+Try #38	2.746	TCAGGCGCGGTCTAACGCCC GGGCGTTAGACCGCGCCTGA	 	45
+Try #39	4.083	TTCTTCGCAAATCAGGCGCG CGCGCCTGATTTGCGAAGAA	 	47
+Try #40	2.483	CAGGCGCGGTCCAACCCCCC GGGGGGTTGGACCGCGCCTG	 	47
+
+The highest scoring 5 motifs are:
+Motif #1: (GAACGCTTGCACCTTATTCG/CGAATAAGGTGCAAGCGTTC)
+******************************
+Width (20, 0); Gap [0, 0]; MotifScore 4.543; Sites 38
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1     28.94  18.43  31.57  21.06        G    C    R    Y
+2     99.86   0.05   0.05   0.04        A    T    A    T
+3     99.86   0.05   0.05   0.04        A    T    A    T
+4      0.04  99.87   0.05   0.04        C    G    C    G
+5      0.04   0.05  99.87   0.04        G    C    G    C
+6      0.04  99.87   0.05   0.04        C    G    C    G
+7      0.04   0.05   0.05  99.86        T    A    T    A
+8      0.04   0.05   0.05  99.86        T    A    T    A
+9      0.04   0.05  99.87   0.04        G    C    G    C
+10     0.04  99.87   0.05   0.04        C    G    C    G
+11    99.86   0.05   0.05   0.04        A    T    A    T
+12     0.04  99.87   0.05   0.04        C    G    C    G
+13     0.04  99.87   0.05   0.04        C    G    C    G
+14     0.04   0.05   0.05  99.86        T    A    T    A
+15     0.04   0.05   0.05  99.86        T    A    T    A
+16    99.86   0.05   0.05   0.04        A    T    A    T
+17     0.04   0.05   0.05  99.86        T    A    T    A
+18     0.04   0.05   0.05  99.86        T    A    T    A
+19     0.04  99.87   0.05   0.04        C    G    C    G
+20     0.04   0.05  99.87   0.04        G    C    G    C
+
+>seq_3	len 160	site #1	f 135
+AAACGCTTGCACCTTATTCG
+>seq_8	len 160	site #1	f 52
+AAACGCTTGCACCTTATTCG
+>seq_8	len 160	site #2	f 96
+CAACGCTTGCACCTTATTCG
+>seq_9	len 160	site #1	f 57
+AAACGCTTGCACCTTATTCG
+>seq_10	len 160	site #1	f 28
+AAACGCTTGCACCTTATTCG
+>seq_15	len 160	site #1	f 102
+GAACGCTTGCACCTTATTCG
+>seq_15	len 160	site #2	f 66
+CAACGCTTGCACCTTATTCG
+>seq_16	len 160	site #1	f 24
+AAACGCTTGCACCTTATTCG
+>seq_16	len 160	site #2	f 138
+AAACGCTTGCACCTTATTCG
+>seq_18	len 160	site #1	f 109
+CAACGCTTGCACCTTATTCG
+>seq_22	len 160	site #1	f 92
+AAACGCTTGCACCTTATTCG
+>seq_24	len 160	site #1	f 28
+GAACGCTTGCACCTTATTCG
+>seq_25	len 160	site #1	f 4
+GAACGCTTGCACCTTATTCG
+>seq_27	len 160	site #1	f 79
+TAACGCTTGCACCTTATTCG
+>seq_27	len 160	site #2	f 132
+CAACGCTTGCACCTTATTCG
+>seq_28	len 160	site #1	f 70
+CAACGCTTGCACCTTATTCG
+>seq_36	len 160	site #1	f 2
+AAACGCTTGCACCTTATTCG
+>seq_39	len 160	site #1	f 6
+CAACGCTTGCACCTTATTCG
+>seq_40	len 160	site #1	f 61
+GAACGCTTGCACCTTATTCG
+>seq_42	len 160	site #1	f 19
+GAACGCTTGCACCTTATTCG
+>seq_43	len 160	site #1	f 103
+GAACGCTTGCACCTTATTCG
+>seq_44	len 160	site #1	f 134
+AAACGCTTGCACCTTATTCG
+>seq_44	len 160	site #2	f 9
+TAACGCTTGCACCTTATTCG
+>seq_46	len 160	site #1	f 89
+TAACGCTTGCACCTTATTCG
+>seq_47	len 160	site #1	f 25
+TAACGCTTGCACCTTATTCG
+>seq_48	len 160	site #1	f 50
+GAACGCTTGCACCTTATTCG
+>seq_49	len 160	site #1	f 24
+TAACGCTTGCACCTTATTCG
+>seq_51	len 160	site #1	f 129
+GAACGCTTGCACCTTATTCG
+>seq_57	len 160	site #1	f 77
+CAACGCTTGCACCTTATTCG
+>seq_58	len 160	site #1	f 135
+TAACGCTTGCACCTTATTCG
+>seq_60	len 160	site #1	f 47
+TAACGCTTGCACCTTATTCG
+>seq_66	len 160	site #1	f 100
+GAACGCTTGCACCTTATTCG
+>seq_66	len 160	site #2	f 122
+TAACGCTTGCACCTTATTCG
+>seq_68	len 160	site #1	f 90
+AAACGCTTGCACCTTATTCG
+>seq_69	len 160	site #1	f 3
+GAACGCTTGCACCTTATTCG
+>seq_70	len 160	site #1	f 14
+GAACGCTTGCACCTTATTCG
+>seq_73	len 160	site #1	f 17
+GAACGCTTGCACCTTATTCG
+>seq_73	len 160	site #2	f 114
+AAACGCTTGCACCTTATTCG
+******************************
+
+Motif #2: (ACGCTTGCACCTTATTCGAC/GTCGAATAAGGTGCAAGCGT)
+******************************
+Width (20, 0); Gap [0, 0]; MotifScore 4.539; Sites 38
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1     99.86   0.05   0.05   0.04        A    T    A    T
+2      0.04  99.87   0.05   0.04        C    G    C    G
+3      0.04   0.05  99.87   0.04        G    C    G    C
+4      0.04  99.87   0.05   0.04        C    G    C    G
+5      0.04   0.05   0.05  99.86        T    A    T    A
+6      0.04   0.05   0.05  99.86        T    A    T    A
+7      0.04   0.05  99.87   0.04        G    C    G    C
+8      0.04  99.87   0.05   0.04        C    G    C    G
+9     99.86   0.05   0.05   0.04        A    T    A    T
+10     0.04  99.87   0.05   0.04        C    G    C    G
+11     0.04  99.87   0.05   0.04        C    G    C    G
+12     0.04   0.05   0.05  99.86        T    A    T    A
+13     0.04   0.05   0.05  99.86        T    A    T    A
+14    99.86   0.05   0.05   0.04        A    T    A    T
+15     0.04   0.05   0.05  99.86        T    A    T    A
+16     0.04   0.05   0.05  99.86        T    A    T    A
+17     0.04  99.87   0.05   0.04        C    G    C    G
+18     0.04   0.05  99.87   0.04        G    C    G    C
+19    99.86   0.05   0.05   0.04        A    T    A    T
+20    21.06  34.19  18.43  26.31        C    G    Y    R
+
+>seq_3	len 160	site #1	f 137
+ACGCTTGCACCTTATTCGAA
+>seq_8	len 160	site #1	f 54
+ACGCTTGCACCTTATTCGAT
+>seq_8	len 160	site #2	f 98
+ACGCTTGCACCTTATTCGAA
+>seq_9	len 160	site #1	f 59
+ACGCTTGCACCTTATTCGAA
+>seq_10	len 160	site #1	f 30
+ACGCTTGCACCTTATTCGAC
+>seq_15	len 160	site #1	f 68
+ACGCTTGCACCTTATTCGAT
+>seq_15	len 160	site #2	f 104
+ACGCTTGCACCTTATTCGAG
+>seq_16	len 160	site #1	f 26
+ACGCTTGCACCTTATTCGAC
+>seq_16	len 160	site #2	f 140
+ACGCTTGCACCTTATTCGAT
+>seq_18	len 160	site #1	f 111
+ACGCTTGCACCTTATTCGAC
+>seq_22	len 160	site #1	f 94
+ACGCTTGCACCTTATTCGAG
+>seq_24	len 160	site #1	f 30
+ACGCTTGCACCTTATTCGAC
+>seq_25	len 160	site #1	f 6
+ACGCTTGCACCTTATTCGAG
+>seq_27	len 160	site #1	f 81
+ACGCTTGCACCTTATTCGAG
+>seq_27	len 160	site #2	f 134
+ACGCTTGCACCTTATTCGAG
+>seq_28	len 160	site #1	f 72
+ACGCTTGCACCTTATTCGAT
+>seq_36	len 160	site #1	f 4
+ACGCTTGCACCTTATTCGAT
+>seq_39	len 160	site #1	f 8
+ACGCTTGCACCTTATTCGAC
+>seq_40	len 160	site #1	f 63
+ACGCTTGCACCTTATTCGAG
+>seq_42	len 160	site #1	f 21
+ACGCTTGCACCTTATTCGAT
+>seq_43	len 160	site #1	f 105
+ACGCTTGCACCTTATTCGAA
+>seq_44	len 160	site #1	f 136
+ACGCTTGCACCTTATTCGAT
+>seq_44	len 160	site #2	f 11
+ACGCTTGCACCTTATTCGAT
+>seq_46	len 160	site #1	f 91
+ACGCTTGCACCTTATTCGAG
+>seq_47	len 160	site #1	f 27
+ACGCTTGCACCTTATTCGAT
+>seq_48	len 160	site #1	f 52
+ACGCTTGCACCTTATTCGAA
+>seq_49	len 160	site #1	f 26
+ACGCTTGCACCTTATTCGAC
+>seq_51	len 160	site #1	f 131
+ACGCTTGCACCTTATTCGAC
+>seq_57	len 160	site #1	f 79
+ACGCTTGCACCTTATTCGAC
+>seq_58	len 160	site #1	f 137
+ACGCTTGCACCTTATTCGAA
+>seq_60	len 160	site #1	f 49
+ACGCTTGCACCTTATTCGAT
+>seq_66	len 160	site #1	f 124
+ACGCTTGCACCTTATTCGAC
+>seq_66	len 160	site #2	f 102
+ACGCTTGCACCTTATTCGAC
+>seq_68	len 160	site #1	f 92
+ACGCTTGCACCTTATTCGAA
+>seq_69	len 160	site #1	f 5
+ACGCTTGCACCTTATTCGAA
+>seq_70	len 160	site #1	f 16
+ACGCTTGCACCTTATTCGAC
+>seq_73	len 160	site #1	f 116
+ACGCTTGCACCTTATTCGAC
+>seq_73	len 160	site #2	f 19
+ACGCTTGCACCTTATTCGAC
+******************************
+
+Motif #3: (TCTTCGCAAATCAGGCGCGG/CCGCGCCTGATTTGCGAAGA)
+******************************
+Width (20, 0); Gap [0, 0]; MotifScore 4.325; Sites 46
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1     21.74  21.74  26.09  30.43        T    A    K    M
+2     17.40  39.11  17.40  26.08        C    G    Y    R
+3      0.04   0.04   0.04  99.89        T    A    T    A
+4      0.04   0.04   2.21  97.72        T    A    T    A
+5      0.04  97.72   2.21   0.04        C    G    C    G
+6      0.04   0.04  97.72   2.21        G    C    G    C
+7      0.04  99.89   0.04   0.04        C    G    C    G
+8     99.89   0.04   0.04   0.04        A    T    A    T
+9     99.89   0.04   0.04   0.04        A    T    A    T
+10    97.72   0.04   0.04   2.21        A    T    A    T
+11     0.04   0.04   0.04  99.89        T    A    T    A
+12     0.04  99.89   0.04   0.04        C    G    C    G
+13    99.89   0.04   0.04   0.04        A    T    A    T
+14     0.04   0.04  97.72   2.21        G    C    G    C
+15     0.04   0.04  99.89   0.04        G    C    G    C
+16     0.04  99.89   0.04   0.04        C    G    C    G
+17     0.04   0.04  99.89   0.04        G    C    G    C
+18     2.21  97.72   0.04   0.04        C    G    C    G
+19     0.04   2.21  97.72   0.04        G    C    G    C
+20     0.04   0.04  99.89   0.04        G    C    G    C
+
+>seq_1	len 160	site #1	r 27
+GGTTCGCAAATCAGGCGCGG
+>seq_2	len 160	site #1	r 133
+GTTTCGCAAATCAGGCGCGG
+>seq_5	len 160	site #1	r 92
+TGTTCGCAAATCAGGCGCGG
+>seq_7	len 160	site #1	r 41
+TGTTCGCAAATCAGGCGCGG
+>seq_8	len 160	site #1	r 20
+TATTCGCAAATCAGGCGCGG
+>seq_10	len 160	site #1	r 86
+CCTTCGCAAATCAGGCGCGG
+>seq_11	len 160	site #1	r 96
+TTTTCGCAAATCAGGCGCGG
+>seq_13	len 160	site #1	r 147
+AATTCGCAAATCAGGCGCGG
+>seq_14	len 160	site #1	r 37
+AATTCGCAAATCAGGCGCGG
+>seq_17	len 160	site #1	r 84
+TGTTCGCAAATCAGGCGCGG
+>seq_17	len 160	site #2	r 108
+CATTCGCAAATCAGGCGCGG
+>seq_19	len 160	site #1	r 48
+ACTTCGCAAATCAGGCGCGG
+>seq_19	len 160	site #2	r 156
+GTTTCGCAAATCAGGCGCGG
+>seq_20	len 160	site #1	r 119
+GTTTCGCAAATCAGGCGCGG
+>seq_21	len 160	site #1	r 38
+GCTTCGCAAATCAGGCGCGG
+>seq_21	len 160	site #2	r 157
+CCTTCGCAAATCAGGCGCGG
+>seq_24	len 160	site #1	r 84
+TCTTCGCAAATCAGGCGCGG
+>seq_24	len 160	site #2	r 24
+TTTTCGCAAATCAGGCGCGG
+>seq_24	len 160	site #3	r 155
+ACTTCGCAAATCAGGCGCGG
+>seq_28	len 160	site #1	r 141
+TGTTCGCAAATCAGGCGCGG
+>seq_29	len 160	site #1	r 68
+TCTTCGCAAATCAGGCGCGG
+>seq_31	len 160	site #1	r 124
+CCTTCGCAAATCAGGCGCGG
+>seq_33	len 160	site #1	r 71
+GATTCGCAAATCAGGCGCGG
+>seq_34	len 160	site #1	r 38
+CCTTCGCAAATCAGGCGCGG
+>seq_35	len 160	site #1	r 75
+GCTTCGCAAATCAGGCGCGG
+>seq_41	len 160	site #1	r 58
+ATTTCGCAAATCAGGCGCGG
+>seq_41	len 160	site #2	r 37
+AATTCGCAAATCAGGCGCGG
+>seq_42	len 160	site #1	r 92
+TATTCGCAAATCAGGCGCGG
+>seq_43	len 160	site #1	r 103
+CATTCGCAAATCAGGCGCGG
+>seq_44	len 160	site #1	r 105
+TCTTCGCAAATCAGGCGCGG
+>seq_45	len 160	site #1	r 60
+CCTTCGCAAATCAGGCGCGG
+>seq_46	len 160	site #1	r 134
+CTTTCGCAAATCAGGCGCGG
+>seq_47	len 160	site #1	r 85
+GTTTCGCAAATCAGGCGCGG
+>seq_48	len 160	site #1	r 32
+ATTTCGCAAATCAGGCGCGG
+>seq_49	len 160	site #1	r 158
+GGTTCGCAAATCAGGCGCGG
+>seq_50	len 160	site #1	r 63
+TTTTCGCAAATCAGGCGCGG
+>seq_50	len 160	site #2	r 26
+TTTTCGCAAATCAGGCGCGG
+>seq_51	len 160	site #1	f 41
+GGTGGTCAATTCATGCGACG
+>seq_53	len 160	site #1	r 149
+ATTTCGCAAATCAGGCGCGG
+>seq_56	len 160	site #1	r 125
+TCTTCGCAAATCAGGCGCGG
+>seq_56	len 160	site #2	r 69
+GGTTCGCAAATCAGGCGCGG
+>seq_62	len 160	site #1	r 42
+CCTTCGCAAATCAGGCGCGG
+>seq_62	len 160	site #2	r 140
+ACTTCGCAAATCAGGCGCGG
+>seq_64	len 160	site #1	r 33
+GCTTCGCAAATCAGGCGCGG
+>seq_68	len 160	site #1	r 61
+CCTTCGCAAATCAGGCGCGG
+>seq_72	len 160	site #1	r 32
+ACTTCGCAAATCAGGCGCGG
+******************************
+
+Motif #4: (CCGCGCCTGATTTGCGAAGA/TCTTCGCAAATCAGGCGCGG)
+******************************
+Width (20, 0); Gap [0, 0]; MotifScore 4.306; Sites 46
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1      0.04  99.89   0.04   0.04        C    G    C    G
+2      0.04  99.89   0.04   0.04        C    G    C    G
+3      0.04   0.04  99.89   0.04        G    C    G    C
+4      0.04  99.89   0.04   0.04        C    G    C    G
+5      0.04   2.21  97.72   0.04        G    C    G    C
+6      0.04  97.72   0.04   2.21        C    G    C    G
+7      2.21  97.72   0.04   0.04        C    G    C    G
+8      0.04   0.04   0.04  99.89        T    A    T    A
+9      0.04   0.04  99.89   0.04        G    C    G    C
+10    97.72   0.04   0.04   2.21        A    T    A    T
+11     0.04   0.04   0.04  99.89        T    A    T    A
+12     2.21   0.04   0.04  97.72        T    A    T    A
+13     0.04   0.04   0.04  99.89        T    A    T    A
+14     0.04   0.04  99.89   0.04        G    C    G    C
+15     0.04  99.89   0.04   0.04        C    G    C    G
+16     0.04   0.04  99.89   0.04        G    C    G    C
+17    97.72   0.04   0.04   2.21        A    T    A    T
+18    97.72   0.04   2.21   0.04        A    T    A    T
+19    28.26  15.23  39.11  17.40        G    C    R    Y
+20    30.43  23.92  23.92  21.74        A    T    A    T
+
+>seq_1	len 160	site #1	f 8
+CCGCGCCTGATTTGCGAACC
+>seq_2	len 160	site #1	f 114
+CCGCGCCTGATTTGCGAAAC
+>seq_5	len 160	site #1	f 73
+CCGCGCCTGATTTGCGAACA
+>seq_7	len 160	site #1	f 22
+CCGCGCCTGATTTGCGAACA
+>seq_8	len 160	site #1	f 1
+CCGCGCCTGATTTGCGAATA
+>seq_10	len 160	site #1	f 67
+CCGCGCCTGATTTGCGAAGG
+>seq_11	len 160	site #1	f 77
+CCGCGCCTGATTTGCGAAAA
+>seq_13	len 160	site #1	f 128
+CCGCGCCTGATTTGCGAATT
+>seq_14	len 160	site #1	f 18
+CCGCGCCTGATTTGCGAATT
+>seq_17	len 160	site #1	f 65
+CCGCGCCTGATTTGCGAACA
+>seq_17	len 160	site #2	f 89
+CCGCGCCTGATTTGCGAATG
+>seq_19	len 160	site #1	f 29
+CCGCGCCTGATTTGCGAAGT
+>seq_19	len 160	site #2	f 137
+CCGCGCCTGATTTGCGAAAC
+>seq_20	len 160	site #1	f 100
+CCGCGCCTGATTTGCGAAAC
+>seq_21	len 160	site #1	f 19
+CCGCGCCTGATTTGCGAAGC
+>seq_21	len 160	site #2	f 138
+CCGCGCCTGATTTGCGAAGG
+>seq_24	len 160	site #1	f 65
+CCGCGCCTGATTTGCGAAGA
+>seq_24	len 160	site #2	f 136
+CCGCGCCTGATTTGCGAAGT
+>seq_24	len 160	site #3	f 5
+CCGCGCCTGATTTGCGAAAA
+>seq_28	len 160	site #1	f 122
+CCGCGCCTGATTTGCGAACA
+>seq_29	len 160	site #1	f 49
+CCGCGCCTGATTTGCGAAGA
+>seq_31	len 160	site #1	f 105
+CCGCGCCTGATTTGCGAAGG
+>seq_33	len 160	site #1	f 52
+CCGCGCCTGATTTGCGAATC
+>seq_34	len 160	site #1	f 19
+CCGCGCCTGATTTGCGAAGG
+>seq_35	len 160	site #1	f 56
+CCGCGCCTGATTTGCGAAGC
+>seq_37	len 160	site #1	f 83
+CCGCCTATGTTATGCGTGAG
+>seq_41	len 160	site #1	f 39
+CCGCGCCTGATTTGCGAAAT
+>seq_41	len 160	site #2	f 18
+CCGCGCCTGATTTGCGAATT
+>seq_42	len 160	site #1	f 73
+CCGCGCCTGATTTGCGAATA
+>seq_43	len 160	site #1	f 84
+CCGCGCCTGATTTGCGAATG
+>seq_44	len 160	site #1	f 86
+CCGCGCCTGATTTGCGAAGA
+>seq_45	len 160	site #1	f 41
+CCGCGCCTGATTTGCGAAGG
+>seq_46	len 160	site #1	f 115
+CCGCGCCTGATTTGCGAAAG
+>seq_47	len 160	site #1	f 66
+CCGCGCCTGATTTGCGAAAC
+>seq_48	len 160	site #1	f 13
+CCGCGCCTGATTTGCGAAAT
+>seq_49	len 160	site #1	f 139
+CCGCGCCTGATTTGCGAACC
+>seq_50	len 160	site #1	f 44
+CCGCGCCTGATTTGCGAAAA
+>seq_50	len 160	site #2	f 7
+CCGCGCCTGATTTGCGAAAA
+>seq_53	len 160	site #1	f 130
+CCGCGCCTGATTTGCGAAAT
+>seq_56	len 160	site #1	f 106
+CCGCGCCTGATTTGCGAAGA
+>seq_56	len 160	site #2	f 50
+CCGCGCCTGATTTGCGAACC
+>seq_62	len 160	site #1	f 121
+CCGCGCCTGATTTGCGAAGT
+>seq_62	len 160	site #2	f 23
+CCGCGCCTGATTTGCGAAGG
+>seq_64	len 160	site #1	f 14
+CCGCGCCTGATTTGCGAAGC
+>seq_68	len 160	site #1	f 42
+CCGCGCCTGATTTGCGAAGG
+>seq_72	len 160	site #1	f 13
+CCGCGCCTGATTTGCGAAGT
+******************************
+
+Motif #5: (CCGCGCCTGATTTGCGAAGA/TCTTCGCAAATCAGGCGCGG)
+******************************
+Width (20, 0); Gap [0, 0]; MotifScore 4.303; Sites 46
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1      0.04  97.72   0.04   2.21        C    G    C    G
+2      0.04  97.72   0.04   2.21        C    G    C    G
+3      0.04   0.04  99.89   0.04        G    C    G    C
+4      0.04  99.89   0.04   0.04        C    G    C    G
+5      2.21   0.04  97.72   0.04        G    C    G    C
+6      0.04  99.89   0.04   0.04        C    G    C    G
+7      0.04  99.89   0.04   0.04        C    G    C    G
+8      0.04   0.04   0.04  99.89        T    A    T    A
+9      0.04   0.04  97.72   2.21        G    C    G    C
+10    99.89   0.04   0.04   0.04        A    T    A    T
+11     0.04   0.04   0.04  99.89        T    A    T    A
+12     0.04   0.04   0.04  99.89        T    A    T    A
+13     0.04   2.21   0.04  97.72        T    A    T    A
+14     0.04   0.04  99.89   0.04        G    C    G    C
+15     2.21  97.72   0.04   0.04        C    G    C    G
+16     0.04   0.04  99.89   0.04        G    C    G    C
+17    99.89   0.04   0.04   0.04        A    T    A    T
+18    97.72   0.04   2.21   0.04        A    T    A    T
+19    26.08  15.23  41.28  17.40        G    C    R    Y
+20    30.43  23.92  23.92  21.74        A    T    A    T
+
+>seq_1	len 160	site #1	f 8
+CCGCGCCTGATTTGCGAACC
+>seq_2	len 160	site #1	f 114
+CCGCGCCTGATTTGCGAAAC
+>seq_5	len 160	site #1	f 73
+CCGCGCCTGATTTGCGAACA
+>seq_7	len 160	site #1	f 22
+CCGCGCCTGATTTGCGAACA
+>seq_8	len 160	site #1	f 1
+CCGCGCCTGATTTGCGAATA
+>seq_10	len 160	site #1	f 67
+CCGCGCCTGATTTGCGAAGG
+>seq_11	len 160	site #1	f 77
+CCGCGCCTGATTTGCGAAAA
+>seq_13	len 160	site #1	f 128
+CCGCGCCTGATTTGCGAATT
+>seq_14	len 160	site #1	f 18
+CCGCGCCTGATTTGCGAATT
+>seq_17	len 160	site #1	f 65
+CCGCGCCTGATTTGCGAACA
+>seq_17	len 160	site #2	f 89
+CCGCGCCTGATTTGCGAATG
+>seq_19	len 160	site #1	f 29
+CCGCGCCTGATTTGCGAAGT
+>seq_19	len 160	site #2	f 137
+CCGCGCCTGATTTGCGAAAC
+>seq_20	len 160	site #1	f 100
+CCGCGCCTGATTTGCGAAAC
+>seq_21	len 160	site #1	f 19
+CCGCGCCTGATTTGCGAAGC
+>seq_21	len 160	site #2	f 138
+CCGCGCCTGATTTGCGAAGG
+>seq_24	len 160	site #1	f 65
+CCGCGCCTGATTTGCGAAGA
+>seq_24	len 160	site #2	f 136
+CCGCGCCTGATTTGCGAAGT
+>seq_24	len 160	site #3	f 5
+CCGCGCCTGATTTGCGAAAA
+>seq_27	len 160	site #1	f 85
+TTGCACCTTATTCGAGAGGG
+>seq_28	len 160	site #1	f 122
+CCGCGCCTGATTTGCGAACA
+>seq_29	len 160	site #1	f 49
+CCGCGCCTGATTTGCGAAGA
+>seq_31	len 160	site #1	f 105
+CCGCGCCTGATTTGCGAAGG
+>seq_33	len 160	site #1	f 52
+CCGCGCCTGATTTGCGAATC
+>seq_34	len 160	site #1	f 19
+CCGCGCCTGATTTGCGAAGG
+>seq_35	len 160	site #1	f 56
+CCGCGCCTGATTTGCGAAGC
+>seq_41	len 160	site #1	f 39
+CCGCGCCTGATTTGCGAAAT
+>seq_41	len 160	site #2	f 18
+CCGCGCCTGATTTGCGAATT
+>seq_42	len 160	site #1	f 73
+CCGCGCCTGATTTGCGAATA
+>seq_43	len 160	site #1	f 84
+CCGCGCCTGATTTGCGAATG
+>seq_44	len 160	site #1	f 86
+CCGCGCCTGATTTGCGAAGA
+>seq_45	len 160	site #1	f 41
+CCGCGCCTGATTTGCGAAGG
+>seq_46	len 160	site #1	f 115
+CCGCGCCTGATTTGCGAAAG
+>seq_47	len 160	site #1	f 66
+CCGCGCCTGATTTGCGAAAC
+>seq_48	len 160	site #1	f 13
+CCGCGCCTGATTTGCGAAAT
+>seq_49	len 160	site #1	f 139
+CCGCGCCTGATTTGCGAACC
+>seq_50	len 160	site #1	f 44
+CCGCGCCTGATTTGCGAAAA
+>seq_50	len 160	site #2	f 7
+CCGCGCCTGATTTGCGAAAA
+>seq_53	len 160	site #1	f 130
+CCGCGCCTGATTTGCGAAAT
+>seq_56	len 160	site #1	f 106
+CCGCGCCTGATTTGCGAAGA
+>seq_56	len 160	site #2	f 50
+CCGCGCCTGATTTGCGAACC
+>seq_62	len 160	site #1	f 121
+CCGCGCCTGATTTGCGAAGT
+>seq_62	len 160	site #2	f 23
+CCGCGCCTGATTTGCGAAGG
+>seq_64	len 160	site #1	f 14
+CCGCGCCTGATTTGCGAAGC
+>seq_68	len 160	site #1	f 42
+CCGCGCCTGATTTGCGAAGG
+>seq_72	len 160	site #1	f 13
+CCGCGCCTGATTTGCGAAGT
+******************************
+
+Total time 0:0:6.
