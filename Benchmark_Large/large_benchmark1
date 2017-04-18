@@ -1,0 +1,8233 @@
+**************************************** 
+*                                      * 
+*      BioProspector Search Result     * 
+*                                      * 
+**************************************** 
+
+Try #1	5.502	TTATTCGAAA TTTCGAATAA	 	1204
+Try #2	5.102	CGGATGTTCG CGAACATCCG	 	1738
+Try #3	4.964	TTAGCTAGAC GTCTAGCTAA	 	3026
+Try #4	5.051	CCGTCCCCAC GTGGGGACGG	 	2570
+Try #5	5.123	GTATGGCATA TATGCCATAC	 	1763
+Try #6	5.037	AGCTATAGTA TACTATAGCT	 	2467
+Try #7	6.770	AACCGCGCCT AGGCGCGGTT	 	1105
+Try #8	5.175	TCGTCGAATA TATTCGACGA	 	1423
+Try #9	5.091	ACGAACGCTT AAGCGTTCGT	 	2422
+Try #10	7.527	TGATTTGCGA TCGCAAATCA	 	905
+Try #11	4.964	AGACAGTGAC GTCACTGTCT	 	2375
+Try #12	5.665	GCAAGCGTTC GAACGCTTGC	 	979
+Try #13	5.076	TTCCCACGCT AGCGTGGGAA	 	2269
+Try #14	4.986	CCACTCTGTG CACAGAGTGG	 	1898
+Try #15	5.121	AACCATCGGA TCCGATGGTT	 	1964
+Try #16	5.100	ATTACAACAG CTGTTGTAAT	 	1827
+Try #17	7.782	TGATTTGCGA TCGCAAATCA	 	826
+Try #18	5.006	AGGAGGCAAG CTTGCCTCCT	 	2323
+Try #19	5.061	AAGTTTGTCC GGACAAACTT	 	2253
+Try #20	8.407	TGCAAGCGTT AACGCTTGCA	 	723
+Try #21	7.824	ACGCTTGCAC GTGCAAGCGT	 	877
+Try #22	5.114	ATTGCTTTCT AGAAAGCAAT	 	1773
+Try #23	7.816	GCCTGATTTG CAAATCAGGC	 	841
+Try #24	5.192	TGCGATAAAC GTTTATCGCA	 	1464
+Try #25	5.091	ACCCTACTTA TAAGTAGGGT	 	1821
+Try #26	5.077	GGACACCAGT ACTGGTGTCC	 	1905
+Try #27	5.487	GCGCGGTAAT ATTACCGCGC	 	1347
+Try #28	5.052	GGGATGAGGG CCCTCATCCC	 	2479
+Try #29	5.150	ATGGTCCGTG CACGGACCAT	 	1618
+Try #30	5.014	TTCGTCAACA TGTTGACGAA	 	2076
+Try #31	4.921	CGCTCCGTTG CAACGGAGCG	 	2957
+Try #32	5.042	ATTCGACCTG CAGGTCGAAT	 	1663
+Try #33	5.518	TTTCGAATAA TTATTCGAAA	 	1220
+Try #34	5.185	CCGTCTCGAG CTCGAGACGG	 	1416
+Try #35	5.114	CAACTCTACC GGTAGAGTTG	 	1738
+Try #36	5.187	AGCGTTCTCG CGAGAACGCT	 	2068
+Try #37	8.100	TGCAAGCGTT AACGCTTGCA	 	780
+Try #38	6.648	TACCGCGCCT AGGCGCGGTA	 	1178
+Try #39	5.086	GAAGCAGACC GGTCTGCTTC	 	2024
+Try #40	6.945	CTCGAATAAG CTTATTCGAG	 	1695
+
+The highest scoring 5 motifs are:
+Motif #1: (TGCAAGCGTT/AACGCTTGCA)
+******************************
+Width (10, 0); Gap [0, 0]; MotifScore 8.407; Sites 723
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1      0.97   0.00   0.14  98.89        T    A    T    A
+2      0.41   0.55  99.03   0.00        G    C    G    C
+3      0.00  99.45   0.28   0.28        C    G    C    G
+4     98.62   0.00   1.38   0.00        A    T    A    T
+5     99.72   0.00   0.28   0.00        A    T    A    T
+6      0.69   0.00  97.65   1.66        G    C    G    C
+7      0.00  99.58   0.00   0.41        C    G    C    G
+8      0.00   0.97  99.03   0.00        G    C    G    C
+9      0.00   0.00   0.28  99.72        T    A    T    A
+10     0.28   0.28   0.28  99.17        T    A    T    A
+
+>seq_9	len 160	site #1	r 54
+TGCAAGCGTT
+>seq_12	len 160	site #1	r 90
+TGCAAGCGTT
+>seq_17	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_30	len 160	site #1	r 73
+TGCAAGCGTT
+>seq_44	len 160	site #1	r 33
+TGCAAGCGTT
+>seq_46	len 160	site #1	r 116
+TGCAAGCGTT
+>seq_61	len 160	site #1	r 43
+TGCAAGCGTT
+>seq_65	len 160	site #1	r 86
+TGCAAGCGTT
+>seq_67	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_86	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_86	len 160	site #2	r 62
+TGCAAGCGTT
+>seq_92	len 160	site #1	f 59
+TGCAAGCGGT
+>seq_99	len 160	site #1	r 59
+TGCAAGCGTT
+>seq_124	len 160	site #1	r 132
+TGCAAGCGTT
+>seq_145	len 160	site #1	r 148
+TGCAAGCGTT
+>seq_151	len 160	site #1	r 55
+TGCAAGCGTT
+>seq_158	len 160	site #1	r 149
+TGCAAGCGTT
+>seq_162	len 160	site #1	r 46
+TGCAAGCGTT
+>seq_179	len 160	site #1	r 138
+TGCAAGCGTT
+>seq_180	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_218	len 160	site #1	r 95
+TGCAAGCGTT
+>seq_220	len 160	site #1	r 79
+TGCAAGCGTT
+>seq_225	len 160	site #1	r 155
+TGCAAGCGTT
+>seq_246	len 160	site #1	r 17
+TCCAAGCGTT
+>seq_250	len 160	site #1	r 142
+TGCAAGCGTT
+>seq_271	len 160	site #1	r 97
+TGCGATCGTT
+>seq_274	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_277	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_278	len 160	site #1	f 146
+TGCAGGCGTT
+>seq_279	len 160	site #1	r 97
+TGCAAGCGTT
+>seq_279	len 160	site #2	r 39
+TGCAAGCGTT
+>seq_311	len 160	site #1	r 21
+TGCAAGCGTT
+>seq_320	len 160	site #1	r 69
+TGCAAGCGTT
+>seq_322	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_330	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_342	len 160	site #1	r 33
+TGCAAGCGTT
+>seq_376	len 160	site #1	r 10
+TGCAAGCGTT
+>seq_383	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_398	len 160	site #1	r 38
+TGCAAGCGTT
+>seq_405	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_410	len 160	site #1	r 34
+TGCAAGCGTT
+>seq_433	len 160	site #1	r 83
+TGCAAGCGTT
+>seq_446	len 160	site #1	r 23
+TGCAAGCGTT
+>seq_447	len 160	site #1	r 146
+TGCAAGCGTT
+>seq_447	len 160	site #2	r 71
+TGCAAGCGTT
+>seq_454	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_465	len 160	site #1	r 12
+TGCAAGCGTT
+>seq_491	len 160	site #1	r 154
+TGCAAGCGTT
+>seq_517	len 160	site #1	r 147
+TGCAAGCGTT
+>seq_532	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_557	len 160	site #1	r 62
+TGCAAGCGTT
+>seq_569	len 160	site #1	r 116
+TGCAAGCGTT
+>seq_594	len 160	site #1	r 68
+TGCAAGCGTT
+>seq_602	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_613	len 160	site #1	r 60
+TGCAAGCGTT
+>seq_634	len 160	site #1	f 106
+TGCAAACGTT
+>seq_636	len 160	site #1	r 89
+TGCAAGCGTT
+>seq_650	len 160	site #1	r 130
+TGCAAGCGTT
+>seq_658	len 160	site #1	r 50
+TGCAAGCGTT
+>seq_659	len 160	site #1	r 46
+TGCAAGCGTT
+>seq_666	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_674	len 160	site #1	r 129
+TGCAAGCGTT
+>seq_683	len 160	site #1	r 113
+TGCAAGCGTT
+>seq_691	len 160	site #1	r 85
+TGCAAGCGTT
+>seq_702	len 160	site #1	r 112
+TGCAAGCGTT
+>seq_705	len 160	site #1	r 118
+TGCAAGCGTT
+>seq_709	len 160	site #1	r 123
+TGCAAGCGTT
+>seq_713	len 160	site #1	r 102
+TGCAAGCGTT
+>seq_755	len 160	site #1	r 52
+TGCAAGCGTT
+>seq_762	len 160	site #1	r 41
+TGCAAGCGTT
+>seq_777	len 160	site #1	r 129
+TGCAAGCGTT
+>seq_795	len 160	site #1	r 122
+TGCAAGCGTT
+>seq_796	len 160	site #1	r 153
+TGCAAGCGTT
+>seq_803	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_818	len 160	site #1	r 34
+TGCGATCGTT
+>seq_820	len 160	site #1	r 62
+TGCAAGCGTT
+>seq_827	len 160	site #1	r 27
+TGCAAGCGTT
+>seq_836	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_837	len 160	site #1	r 134
+TGCAAGCGTT
+>seq_842	len 160	site #1	r 135
+TGCAAGCGTT
+>seq_847	len 160	site #1	r 65
+TGCAAGCGTT
+>seq_850	len 160	site #1	r 89
+TGCAAGCGTT
+>seq_856	len 160	site #1	r 33
+TGCAAGCGTT
+>seq_865	len 160	site #1	r 104
+TGCAAGCGTT
+>seq_868	len 160	site #1	r 113
+TGCAAGCGTT
+>seq_875	len 160	site #1	f 124
+AGCGAGCGTT
+>seq_881	len 160	site #1	r 47
+TGCAAGCGTT
+>seq_884	len 160	site #1	r 57
+TGCAAGCGTT
+>seq_902	len 160	site #1	r 43
+TGCAAGCGTT
+>seq_903	len 160	site #1	r 40
+TGCAAGCGTT
+>seq_906	len 160	site #1	r 108
+TGCAAGCGTT
+>seq_909	len 160	site #1	r 141
+TGCAAGCGTT
+>seq_912	len 160	site #1	r 71
+TGCAAGCGTT
+>seq_921	len 160	site #1	r 152
+TGCAAGCGTT
+>seq_958	len 160	site #1	r 18
+TGCAAGCGTT
+>seq_964	len 160	site #1	r 159
+TGCAAGCGTT
+>seq_969	len 160	site #1	r 134
+TGCAAGCGTT
+>seq_970	len 160	site #1	r 102
+TGCAAGCGTT
+>seq_980	len 160	site #1	r 72
+TGCAAGCGTT
+>seq_981	len 160	site #1	r 132
+TGCAAGCGTT
+>seq_987	len 160	site #1	f 19
+TGCAGGCGTT
+>seq_988	len 160	site #1	r 95
+TACAAGCGTT
+>seq_999	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_1001	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_1002	len 160	site #1	r 48
+TACAAGCGTT
+>seq_1020	len 160	site #1	r 138
+TGCAAGCGTT
+>seq_1021	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_1032	len 160	site #1	r 81
+TGCAAGCGTT
+>seq_1033	len 160	site #1	r 120
+TGCAAGCGTT
+>seq_1040	len 160	site #1	r 34
+TGCAAGCGTT
+>seq_1047	len 160	site #1	r 21
+TGCAAGCGTT
+>seq_1055	len 160	site #1	r 41
+TGCAAGCGTT
+>seq_1067	len 160	site #1	r 12
+TGCAAGCGTT
+>seq_1074	len 160	site #1	r 64
+TGCAAGCGTT
+>seq_1081	len 160	site #1	r 70
+TGCAAGCGTT
+>seq_1086	len 160	site #1	r 154
+TGCAAGCGTT
+>seq_1092	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_1098	len 160	site #1	r 38
+TGCAAGCGTT
+>seq_1102	len 160	site #1	f 71
+TGCAAGCGTA
+>seq_1107	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_1110	len 160	site #1	r 113
+TGCAAGCGTT
+>seq_1113	len 160	site #1	r 143
+TGCAAGCGTT
+>seq_1118	len 160	site #1	r 57
+TGCAAGCGTT
+>seq_1122	len 160	site #1	r 38
+TGCAAGCCTT
+>seq_1124	len 160	site #1	r 47
+AGCGAGCGTT
+>seq_1152	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_1157	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_1215	len 160	site #1	r 80
+TGCAAGCGTT
+>seq_1216	len 160	site #1	r 37
+TGCAAGCGTT
+>seq_1219	len 160	site #1	r 118
+TGCAAGCGTT
+>seq_1219	len 160	site #2	r 42
+TGCAAGCGTT
+>seq_1219	len 160	site #3	r 20
+TGCAAGCGTT
+>seq_1229	len 160	site #1	r 17
+TGCAAGCGTT
+>seq_1232	len 160	site #1	r 135
+TGCAAGCGTT
+>seq_1237	len 160	site #1	r 24
+TGCAAGCGTT
+>seq_1244	len 160	site #1	r 83
+TGCAAGCGTT
+>seq_1252	len 160	site #1	r 126
+TGCAAGCGTT
+>seq_1256	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_1265	len 160	site #1	r 62
+TGCAAGCGTT
+>seq_1268	len 160	site #1	r 45
+TGCAAGCGTT
+>seq_1276	len 160	site #1	r 96
+TGCAAGCGTT
+>seq_1278	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_1280	len 160	site #1	f 30
+TCCGAGCGTT
+>seq_1288	len 160	site #1	r 140
+TGCAAGCGTT
+>seq_1296	len 160	site #1	r 78
+TGCAAGCGTT
+>seq_1300	len 160	site #1	r 137
+TGCAAGCGTT
+>seq_1305	len 160	site #1	r 98
+TGCAAGCGTT
+>seq_1309	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_1316	len 160	site #1	f 39
+TGCGAGCGTT
+>seq_1324	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_1329	len 160	site #1	r 153
+TGCAAGCGTT
+>seq_1336	len 160	site #1	r 89
+TGCAAGCGTT
+>seq_1343	len 160	site #1	r 28
+TGCAAGCGTT
+>seq_1353	len 160	site #1	r 49
+TGCAAGCGTT
+>seq_1361	len 160	site #1	r 56
+TGCAAGCGTT
+>seq_1368	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_1369	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_1373	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_1403	len 160	site #1	r 51
+TGCAAGCGTT
+>seq_1430	len 160	site #1	r 150
+TGCAAGCGTT
+>seq_1431	len 160	site #1	r 59
+TGCAAGCGTT
+>seq_1433	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_1440	len 160	site #1	r 76
+TGCAAGCGTT
+>seq_1456	len 160	site #1	r 12
+TGCAAGCGTT
+>seq_1469	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_1482	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_1504	len 160	site #1	r 43
+TGCAAGCGTT
+>seq_1508	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_1509	len 160	site #1	r 76
+TGCAAGCGTT
+>seq_1525	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_1545	len 160	site #1	r 13
+TGCAAGCGTT
+>seq_1556	len 160	site #1	r 65
+TGCAAGCGTT
+>seq_1557	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_1571	len 160	site #1	r 44
+TGCAAGCGTT
+>seq_1583	len 160	site #1	r 31
+TGCAAGCGTT
+>seq_1584	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_1600	len 160	site #1	r 147
+TGCAAGCGTT
+>seq_1605	len 160	site #1	r 27
+TGCAAGCGTT
+>seq_1613	len 160	site #1	r 28
+TGCAAGCGTT
+>seq_1618	len 160	site #1	r 152
+TGCAAGCGTT
+>seq_1626	len 160	site #1	f 102
+TGCAAGCGGT
+>seq_1640	len 160	site #1	r 31
+AGCAATCGTT
+>seq_1651	len 160	site #1	r 120
+TGCAAGCGTT
+>seq_1653	len 160	site #1	r 125
+TGCAAGCGTT
+>seq_1657	len 160	site #1	r 106
+TGCAAGCGTT
+>seq_1663	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_1670	len 160	site #1	r 49
+TGCAAGCGTT
+>seq_1683	len 160	site #1	r 102
+TGCAAGCGTT
+>seq_1685	len 160	site #1	r 97
+TGCAAGCGTT
+>seq_1692	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_1693	len 160	site #1	r 126
+TGCAAGCGTT
+>seq_1715	len 160	site #1	r 23
+TGCAAGCGTT
+>seq_1723	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_1739	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_1766	len 160	site #1	r 132
+TGCAAGCGTT
+>seq_1769	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_1773	len 160	site #1	r 13
+TGCAAGCGTT
+>seq_1779	len 160	site #1	r 158
+TGCAAGCGTT
+>seq_1781	len 160	site #1	r 78
+TGCAAGCGTT
+>seq_1783	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_1792	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_1796	len 160	site #1	r 24
+TGCAAGCGTT
+>seq_1797	len 160	site #1	r 10
+AGCAATCGTT
+>seq_1806	len 160	site #1	r 18
+TGCAAGCGTT
+>seq_1808	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_1846	len 160	site #1	r 146
+TGCAAGCGTT
+>seq_1851	len 160	site #1	r 44
+TGCAAGCGTT
+>seq_1855	len 160	site #1	f 48
+TGCAAGCGTG
+>seq_1866	len 160	site #1	r 68
+TGCAAGCGTT
+>seq_1876	len 160	site #1	f 98
+TGCAATCGTT
+>seq_1879	len 160	site #1	r 102
+TGCAAGCGTT
+>seq_1880	len 160	site #1	r 94
+TGCAAACGTT
+>seq_1882	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_1888	len 160	site #1	r 75
+TGCAAGCGTT
+>seq_1889	len 160	site #1	r 89
+TGCAAGCGTT
+>seq_1913	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_1942	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_1966	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_1970	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_1998	len 160	site #1	r 79
+TGCAAGCGTT
+>seq_2002	len 160	site #1	r 24
+TGCAAGCGTT
+>seq_2004	len 160	site #1	r 59
+TGCAAGCGTT
+>seq_2005	len 160	site #1	r 109
+TGCAAGCGTT
+>seq_2017	len 160	site #1	r 42
+TGCAAGCGTT
+>seq_2020	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_2041	len 160	site #1	r 134
+TGCAAGCCTT
+>seq_2047	len 160	site #1	r 25
+TGCAAGCGTT
+>seq_2055	len 160	site #1	r 97
+TGCAAGCGTT
+>seq_2056	len 160	site #1	r 151
+TGCAAGCGTT
+>seq_2060	len 160	site #1	r 73
+TGCAAGCGTT
+>seq_2070	len 160	site #1	r 49
+TGCAAGCGTT
+>seq_2078	len 160	site #1	f 52
+TGCGATCGTT
+>seq_2094	len 160	site #1	r 104
+TGCAAGCGTT
+>seq_2094	len 160	site #2	r 11
+TGCAAGCGTT
+>seq_2096	len 160	site #1	r 125
+TGCAAGCGTT
+>seq_2106	len 160	site #1	r 114
+TGCAAGCGTT
+>seq_2107	len 160	site #1	r 137
+TGCAAGCGTT
+>seq_2111	len 160	site #1	r 13
+TGCAAGCGTT
+>seq_2122	len 160	site #1	r 91
+TGCAAGCGTT
+>seq_2124	len 160	site #1	r 49
+TGCAAGCGTT
+>seq_2132	len 160	site #1	r 88
+TGCAAGCGTT
+>seq_2138	len 160	site #1	r 136
+TGCAAGTGTT
+>seq_2142	len 160	site #1	r 48
+TGCAAGCGTT
+>seq_2146	len 160	site #1	r 86
+TGCAAGCGTT
+>seq_2146	len 160	site #2	r 26
+TGCAAGCGTT
+>seq_2147	len 160	site #1	r 63
+TGCAAGCGTT
+>seq_2149	len 160	site #1	r 36
+TGCAAGCGTT
+>seq_2150	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_2150	len 160	site #2	r 59
+TGCAAGCGTT
+>seq_2152	len 160	site #1	r 146
+TGCGATCGTT
+>seq_2161	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_2165	len 160	site #1	r 52
+TGCAAGCGTT
+>seq_2170	len 160	site #1	r 103
+AGCAATCGTT
+>seq_2181	len 160	site #1	r 70
+TGCAAGCGTT
+>seq_2188	len 160	site #1	r 99
+TGCAAGCGTC
+>seq_2189	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_2201	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_2205	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_2215	len 160	site #1	r 156
+TGCAAGCGTT
+>seq_2231	len 160	site #1	r 25
+TGCAAGCGTT
+>seq_2268	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_2297	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_2317	len 160	site #1	r 37
+TGCAAGCGTT
+>seq_2325	len 160	site #1	r 102
+TGCAAGCCTT
+>seq_2329	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_2336	len 160	site #1	r 104
+TGCAAGCGTT
+>seq_2341	len 160	site #1	r 92
+TGCAAGCGTT
+>seq_2342	len 160	site #1	r 75
+TGCAAGCGTT
+>seq_2348	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_2379	len 160	site #1	r 156
+TGCAAGCGTT
+>seq_2390	len 160	site #1	r 62
+TGCAAGCGTT
+>seq_2404	len 160	site #1	r 24
+TGCAAGCGTT
+>seq_2409	len 160	site #1	r 31
+TGCAAGCGTT
+>seq_2426	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_2429	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_2433	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_2441	len 160	site #1	r 138
+TGCAAGCGTT
+>seq_2456	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_2478	len 160	site #1	r 88
+TGCAAGCGTT
+>seq_2479	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_2481	len 160	site #1	r 122
+TGCAAGCGTT
+>seq_2482	len 160	site #1	r 43
+TGCAAGCGTT
+>seq_2485	len 160	site #1	r 53
+TGCAAGCGTT
+>seq_2492	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_2506	len 160	site #1	r 23
+TGCAAGCGTT
+>seq_2514	len 160	site #1	r 114
+TGCAAGCGTT
+>seq_2520	len 160	site #1	r 68
+TGCAAGCGTT
+>seq_2527	len 160	site #1	r 17
+TGCAAGCGTT
+>seq_2545	len 160	site #1	r 140
+TGCAAGCGTT
+>seq_2552	len 160	site #1	r 48
+TGCAAGCGTT
+>seq_2554	len 160	site #1	r 69
+TGCAAGCGTT
+>seq_2560	len 160	site #1	r 123
+TGCAAGCGTT
+>seq_2562	len 160	site #1	r 47
+TGCAAGCGTT
+>seq_2564	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_2567	len 160	site #1	r 39
+TGCAAGCGTT
+>seq_2569	len 160	site #1	r 121
+TGCAAGCGTT
+>seq_2576	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_2576	len 160	site #2	r 65
+TGCAAGCGTT
+>seq_2584	len 160	site #1	r 17
+TGCAAGCGTT
+>seq_2591	len 160	site #1	r 40
+TGCAAGCGTT
+>seq_2596	len 160	site #1	r 160
+TGCAAGCGTT
+>seq_2596	len 160	site #2	r 73
+TGCAAGCGTT
+>seq_2597	len 160	site #1	r 149
+TGCAAGCGTT
+>seq_2600	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_2601	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_2602	len 160	site #1	r 83
+TGCAAGCGTT
+>seq_2607	len 160	site #1	r 23
+TGCAAGCGTT
+>seq_2617	len 160	site #1	r 95
+TGCAAGCGTT
+>seq_2634	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_2637	len 160	site #1	r 62
+TGCAAGCGTT
+>seq_2643	len 160	site #1	r 45
+AGTAATCCTT
+>seq_2644	len 160	site #1	r 96
+TGCAAGCGTT
+>seq_2662	len 160	site #1	r 109
+TGCAAGCGTT
+>seq_2665	len 160	site #1	r 44
+TGCAAGCGTT
+>seq_2690	len 160	site #1	r 17
+TGCAAGCGTT
+>seq_2695	len 160	site #1	r 126
+TGCGAGCGTT
+>seq_2696	len 160	site #1	r 127
+TGCAAGCGTT
+>seq_2709	len 160	site #1	f 146
+TGCAAGCGTA
+>seq_2715	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_2717	len 160	site #1	r 39
+TGCAAGCGTT
+>seq_2719	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_2722	len 160	site #1	r 128
+TGCAAGCGTT
+>seq_2735	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_2744	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_2749	len 160	site #1	r 51
+TGCAAGCGTT
+>seq_2750	len 160	site #1	r 158
+TGCAAGCGTT
+>seq_2750	len 160	site #2	r 132
+TGCAAGCGTT
+>seq_2761	len 160	site #1	r 102
+TGCAAGCGTT
+>seq_2764	len 160	site #1	r 121
+TGCAAGCGTT
+>seq_2769	len 160	site #1	r 146
+TGCAAGCGTT
+>seq_2774	len 160	site #1	r 11
+TGCAAGCGTT
+>seq_2775	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_2788	len 160	site #1	r 76
+TGCAAGCGTT
+>seq_2788	len 160	site #2	r 23
+TGCAAGCGTT
+>seq_2799	len 160	site #1	r 50
+TGCAAGCGTT
+>seq_2800	len 160	site #1	r 75
+TGCAAGCGTT
+>seq_2811	len 160	site #1	r 140
+TGCAAGCGTT
+>seq_2814	len 160	site #1	r 108
+TACAAGCGTT
+>seq_2818	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_2822	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_2823	len 160	site #1	r 88
+TGCAAGCGTT
+>seq_2830	len 160	site #1	r 24
+TGCAAGCGTT
+>seq_2850	len 160	site #1	r 121
+TGCAAGCGTT
+>seq_2888	len 160	site #1	r 85
+GGCAAGCGTT
+>seq_2903	len 160	site #1	r 122
+TGCAAGCGTT
+>seq_2910	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_2912	len 160	site #1	r 70
+TGCAAGCGTT
+>seq_2912	len 160	site #2	r 17
+TGCAAGCGTT
+>seq_2914	len 160	site #1	r 13
+TGCAAGCGTT
+>seq_2926	len 160	site #1	r 126
+TGCAAGCGTT
+>seq_2927	len 160	site #1	r 25
+TGCAAGCGTT
+>seq_2929	len 160	site #1	r 40
+TGCAAGCGTT
+>seq_2936	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_2954	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_2966	len 160	site #1	r 152
+TGCAAGCGTT
+>seq_2968	len 160	site #1	r 10
+TGCAAGCGTT
+>seq_2968	len 160	site #2	f 75
+TGCAAACGTT
+>seq_2993	len 160	site #1	r 74
+TGCAAGCGTT
+>seq_3015	len 160	site #1	r 11
+TGCAAGCGTT
+>seq_3026	len 160	site #1	r 73
+TGCAAGCGTT
+>seq_3035	len 160	site #1	r 50
+TGCAAGCCTT
+>seq_3044	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_3046	len 160	site #1	r 109
+TGCAAGCGTT
+>seq_3053	len 160	site #1	r 140
+TGCAAGCGTT
+>seq_3061	len 160	site #1	r 11
+TGCAAGCGTT
+>seq_3064	len 160	site #1	r 10
+TGCAAGCGTT
+>seq_3066	len 160	site #1	r 47
+TGCAAGCGTT
+>seq_3074	len 160	site #1	r 74
+TGCAAGCGTT
+>seq_3103	len 160	site #1	r 127
+TGCAAGCGTT
+>seq_3108	len 160	site #1	r 38
+TGCAAGCGTT
+>seq_3118	len 160	site #1	r 42
+TGCAAGCGTT
+>seq_3128	len 160	site #1	r 19
+TGCAAGCGTT
+>seq_3130	len 160	site #1	r 18
+TGCAAGCGTT
+>seq_3134	len 160	site #1	r 14
+TGCAAGCGTT
+>seq_3136	len 160	site #1	r 58
+TGCAAGCGTT
+>seq_3141	len 160	site #1	r 140
+TGCAAGCGTT
+>seq_3163	len 160	site #1	r 75
+TGCAAGCGTT
+>seq_3165	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_3180	len 160	site #1	r 43
+TGCAAGCGTT
+>seq_3192	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_3212	len 160	site #1	r 36
+TGCAAGCGTT
+>seq_3223	len 160	site #1	r 61
+TGCAAGCGTT
+>seq_3226	len 160	site #1	r 14
+TGCAAGCGTT
+>seq_3234	len 160	site #1	r 18
+TGCAAGCGTT
+>seq_3242	len 160	site #1	r 153
+TGCAAGCGTT
+>seq_3243	len 160	site #1	r 109
+TGCAAGCGTT
+>seq_3264	len 160	site #1	r 130
+TGCAATCGTT
+>seq_3270	len 160	site #1	r 110
+TGCAAGCGTT
+>seq_3279	len 160	site #1	r 106
+TGCAAGCGTT
+>seq_3281	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_3293	len 160	site #1	r 90
+TGCAAGCGTT
+>seq_3327	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_3344	len 160	site #1	r 67
+TGCAAGCGTT
+>seq_3359	len 160	site #1	r 38
+TGCAAGCGTT
+>seq_3364	len 160	site #1	r 40
+TGCAAGCGTT
+>seq_3385	len 160	site #1	r 116
+TGCAAGCGTT
+>seq_3404	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_3405	len 160	site #1	r 76
+TGCAAGCGTT
+>seq_3411	len 160	site #1	r 135
+TGCAAGCGTT
+>seq_3446	len 160	site #1	r 28
+TGCAAGCGTT
+>seq_3452	len 160	site #1	r 144
+TGCAAGCGTT
+>seq_3452	len 160	site #2	r 93
+TGCAAGCGTT
+>seq_3467	len 160	site #1	r 92
+TGCAAGCGTT
+>seq_3469	len 160	site #1	r 134
+TGCAAGCGTT
+>seq_3472	len 160	site #1	r 33
+TGCAAGCGTT
+>seq_3474	len 160	site #1	r 75
+TGCAAGCGTT
+>seq_3490	len 160	site #1	r 18
+TGCAAGCGTT
+>seq_3499	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_3502	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_3503	len 160	site #1	r 81
+TGCAAGCGTT
+>seq_3513	len 160	site #1	r 41
+TGCAAGCGTT
+>seq_3525	len 160	site #1	r 129
+TGCAAGCGTT
+>seq_3525	len 160	site #2	r 62
+TGCAAGCGTT
+>seq_3537	len 160	site #1	r 16
+TGCAAGCGTT
+>seq_3538	len 160	site #1	r 156
+TGCAAGCGTT
+>seq_3549	len 160	site #1	r 147
+TGCAAGCGTT
+>seq_3553	len 160	site #1	r 61
+TGCAAGCGTT
+>seq_3570	len 160	site #1	f 124
+TGTAAGCGTT
+>seq_3589	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_3591	len 160	site #1	r 70
+TGCAAGCGTT
+>seq_3608	len 160	site #1	r 122
+TGCAAGCGTT
+>seq_3619	len 160	site #1	r 78
+TGCAAGCGTT
+>seq_3641	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_3658	len 160	site #1	r 80
+TGCAAGCGTT
+>seq_3661	len 160	site #1	r 27
+TGCAAGCGTT
+>seq_3673	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_3693	len 160	site #1	r 102
+TGCAAGCGTT
+>seq_3701	len 160	site #1	r 158
+TGCAAGCGTT
+>seq_3712	len 160	site #1	r 73
+TGCAAGCGTT
+>seq_3713	len 160	site #1	r 25
+TGCAAGCGTT
+>seq_3714	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_3729	len 160	site #1	r 45
+TGCAAGCGTT
+>seq_3730	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_3733	len 160	site #1	r 93
+TGCAAGCGTT
+>seq_3745	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_3747	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_3762	len 160	site #1	r 80
+TGCAAGCGTT
+>seq_3787	len 160	site #1	r 99
+TGCAAGCGTT
+>seq_3809	len 160	site #1	r 95
+TGCAAGCGTT
+>seq_3816	len 160	site #1	r 57
+TGCAAGCGTT
+>seq_3817	len 160	site #1	r 91
+TGCAAGCGTT
+>seq_3829	len 160	site #1	r 19
+TGCAAGCGTT
+>seq_3837	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_3847	len 160	site #1	r 64
+TGCAAGCGTT
+>seq_3854	len 160	site #1	r 34
+TGCAAGCGTT
+>seq_3869	len 160	site #1	r 123
+TGCAAGCGTT
+>seq_3879	len 160	site #1	r 28
+TGCAAGCGTT
+>seq_3898	len 160	site #1	r 67
+TGCAAGCGTT
+>seq_3910	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_3924	len 160	site #1	r 153
+TGCAAGCGTT
+>seq_3925	len 160	site #1	r 152
+TGCAAGCGTT
+>seq_3925	len 160	site #2	r 36
+TGCAAGCGTT
+>seq_3951	len 160	site #1	r 135
+TGCAAGCGTT
+>seq_3961	len 160	site #1	r 53
+TGCAAGCGTT
+>seq_3972	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_4007	len 160	site #1	r 80
+TGCAAGCGTT
+>seq_4025	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_4028	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_4033	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_4040	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_4052	len 160	site #1	r 86
+TGCGAGCGTT
+>seq_4057	len 160	site #1	r 90
+TGCAAGCGTT
+>seq_4070	len 160	site #1	r 113
+TGCAAGCGTT
+>seq_4078	len 160	site #1	r 148
+TGCAAGCGTT
+>seq_4089	len 160	site #1	r 134
+TGCAAGCGTT
+>seq_4093	len 160	site #1	r 122
+TGCAAGCGTT
+>seq_4094	len 160	site #1	r 130
+TGCAAGCGTT
+>seq_4107	len 160	site #1	r 81
+TGCAAGCGTT
+>seq_4108	len 160	site #1	r 18
+TGCAAGCGTT
+>seq_4113	len 160	site #1	r 42
+TGCAAGCGTT
+>seq_4118	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_4119	len 160	site #1	r 107
+TGCAAGCGTT
+>seq_4137	len 160	site #1	r 64
+TGCAAGCGTT
+>seq_4159	len 160	site #1	r 59
+TGCAAGCGTT
+>seq_4163	len 160	site #1	r 37
+TGCAAGCGTT
+>seq_4175	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_4192	len 160	site #1	r 121
+TGCAAGCGTT
+>seq_4192	len 160	site #2	r 24
+TGCAAGCGTT
+>seq_4201	len 160	site #1	r 127
+TGCAAGCGTT
+>seq_4210	len 160	site #1	r 41
+TGCAAGCGTT
+>seq_4229	len 160	site #1	r 123
+TGCAAGCGTT
+>seq_4231	len 160	site #1	r 38
+TGCAAGCGTT
+>seq_4243	len 160	site #1	r 59
+TGCAAGCGTT
+>seq_4244	len 160	site #1	r 12
+TGCAAGCGTT
+>seq_4266	len 160	site #1	r 60
+TGCAAGCGTT
+>seq_4278	len 160	site #1	r 27
+TGCAAGCGTT
+>seq_4281	len 160	site #1	r 67
+TGCAAGCGTT
+>seq_4305	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_4308	len 160	site #1	r 23
+TGCAAGCGTT
+>seq_4320	len 160	site #1	r 142
+TGCAAGCGTT
+>seq_4324	len 160	site #1	f 50
+TCCAAGCGTT
+>seq_4325	len 160	site #1	r 40
+TGCAAGCGTT
+>seq_4326	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_4331	len 160	site #1	r 149
+TGCAAGCGTT
+>seq_4335	len 160	site #1	r 83
+TGCAAGCGTT
+>seq_4336	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_4340	len 160	site #1	r 137
+TGCAAGCGTT
+>seq_4345	len 160	site #1	r 72
+TGCAAGCGTT
+>seq_4357	len 160	site #1	f 131
+TGCAAGCCTT
+>seq_4376	len 160	site #1	r 14
+TGCAAGCGTT
+>seq_4381	len 160	site #1	r 153
+TGCAAGCGTT
+>seq_4385	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_4400	len 160	site #1	r 71
+TGCAAGCGTT
+>seq_4421	len 160	site #1	r 50
+TGCAAGCGTT
+>seq_4422	len 160	site #1	r 19
+TGCAAGCGTT
+>seq_4430	len 160	site #1	r 79
+TGCAAGCGTT
+>seq_4434	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_4437	len 160	site #1	r 44
+TGCAAGTGTT
+>seq_4443	len 160	site #1	r 65
+TGCAAGCGTT
+>seq_4448	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_4450	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_4451	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_4464	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_4471	len 160	site #1	r 25
+TGCAAGCGTT
+>seq_4472	len 160	site #1	r 77
+TGCAAGCGTT
+>seq_4486	len 160	site #1	r 51
+TGCAAGCGTT
+>seq_4493	len 160	site #1	r 144
+TGCAAGCGTT
+>seq_4502	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_4505	len 160	site #1	r 114
+TGCAAGCGTT
+>seq_4517	len 160	site #1	r 151
+TGCAAGCGTT
+>seq_4526	len 160	site #1	r 159
+TGCAAGCGTT
+>seq_4548	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_4551	len 160	site #1	r 12
+TGCAAGCGTT
+>seq_4559	len 160	site #1	r 33
+TGCAAGCGTT
+>seq_4571	len 160	site #1	r 136
+TGCAAGCGTT
+>seq_4586	len 160	site #1	r 108
+TGCAAGCGTT
+>seq_4610	len 160	site #1	r 135
+TGCAAGCGTT
+>seq_4625	len 160	site #1	r 158
+TGCAAGCGTT
+>seq_4641	len 160	site #1	r 83
+TGCAAGCGTT
+>seq_4643	len 160	site #1	r 56
+TGCAAGCGTT
+>seq_4649	len 160	site #1	r 114
+TGCAAGCGTT
+>seq_4656	len 160	site #1	r 55
+TGCAAGCGTT
+>seq_4659	len 160	site #1	r 79
+TGCAAGCGTT
+>seq_4660	len 160	site #1	r 141
+TGCAAGCGTT
+>seq_4675	len 160	site #1	r 109
+TGCAAGCGTT
+>seq_4682	len 160	site #1	r 52
+TGCAAGCGTT
+>seq_4690	len 160	site #1	r 134
+TGCAAGCGTT
+>seq_4696	len 160	site #1	r 95
+TGCAAGCGTT
+>seq_4709	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_4720	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_4732	len 160	site #1	r 31
+TGCAAGCGTT
+>seq_4740	len 160	site #1	r 128
+TGCAAGCGTT
+>seq_4740	len 160	site #2	r 108
+TGCAAGCGTT
+>seq_4749	len 160	site #1	r 12
+TGCAAGCGTT
+>seq_4764	len 160	site #1	r 72
+TGCAAGCGTT
+>seq_4775	len 160	site #1	r 152
+TGCAAGCGTT
+>seq_4777	len 160	site #1	r 114
+TGCAAGCGTT
+>seq_4786	len 160	site #1	r 106
+TGCAAGCGTT
+>seq_4787	len 160	site #1	r 31
+TGCAAGCGTC
+>seq_4789	len 160	site #1	r 39
+TGCAAGCGTT
+>seq_4803	len 160	site #1	r 58
+TGCAAGCGTT
+>seq_4805	len 160	site #1	r 90
+TGCAAGCGTT
+>seq_4813	len 160	site #1	r 158
+TGCAAGCGTT
+>seq_4823	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_4831	len 160	site #1	r 34
+TGCAAGTGTT
+>seq_4838	len 160	site #1	r 105
+TGCAAGCGTT
+>seq_4839	len 160	site #1	r 46
+TGCAAGCGTT
+>seq_4846	len 160	site #1	r 92
+TGCAAGCGTT
+>seq_4857	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_4860	len 160	site #1	r 43
+TGCAAGCGTT
+>seq_4872	len 160	site #1	r 147
+TGCAAGCGTT
+>seq_4888	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_4900	len 160	site #1	r 31
+TGCAAGCGTT
+>seq_4903	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_4908	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_4917	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_4931	len 160	site #1	r 36
+TGCAAGCGTT
+>seq_4942	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_4955	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_4962	len 160	site #1	r 16
+TGCAAGCGTT
+>seq_4966	len 160	site #1	r 119
+TGCAAGCGTT
+>seq_4974	len 160	site #1	r 21
+TGCAAGCGTT
+>seq_4976	len 160	site #1	r 22
+TGCAAGCGTT
+>seq_4977	len 160	site #1	r 150
+TGCAAGCGTT
+>seq_4996	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_5002	len 160	site #1	r 34
+TGCAAGCGTT
+>seq_5008	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_5009	len 160	site #1	r 135
+TGCAAGCGTT
+>seq_5011	len 160	site #1	r 36
+TGCAAGCGTT
+>seq_5012	len 160	site #1	r 61
+TGCAAGCGTT
+>seq_5017	len 160	site #1	r 95
+TGCAAGCGTT
+>seq_5021	len 160	site #1	r 116
+TGCAAGCGTT
+>seq_5027	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_5042	len 160	site #1	r 25
+TGCAAGCGTT
+>seq_5047	len 160	site #1	r 114
+TGCAAGCGTT
+>seq_5068	len 160	site #1	r 37
+TGCAAGCGTT
+>seq_5105	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_5106	len 160	site #1	r 77
+TGCAAGCGTT
+>seq_5118	len 160	site #1	r 38
+TGCAAGCGTT
+>seq_5120	len 160	site #1	r 46
+TGCAAGCGTT
+>seq_5149	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_5159	len 160	site #1	r 78
+TGCAAGCGTT
+>seq_5165	len 160	site #1	r 144
+TGCAAGCGTT
+>seq_5175	len 160	site #1	r 96
+TGCAAGCGTT
+>seq_5186	len 160	site #1	f 116
+TGCAAGCGTG
+>seq_5196	len 160	site #1	r 83
+TGCAAGCGTT
+>seq_5200	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_5201	len 160	site #1	r 16
+TGCAAGCGTT
+>seq_5204	len 160	site #1	r 125
+TGCAAGCGTT
+>seq_5204	len 160	site #2	r 18
+TGCAAGCGTT
+>seq_5211	len 160	site #1	r 57
+TGCAAGCGTT
+>seq_5214	len 160	site #1	r 27
+TGCAAGCGTT
+>seq_5222	len 160	site #1	r 118
+TGCAAGCGTT
+>seq_5231	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_5267	len 160	site #1	r 158
+TGCAAGCGTT
+>seq_5268	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_5270	len 160	site #1	r 91
+TGCAAGCGTT
+>seq_5271	len 160	site #1	r 33
+TGCAAGCGTT
+>seq_5294	len 160	site #1	r 100
+TGCAAGCGTT
+>seq_5302	len 160	site #1	r 51
+TGCAAGCGTT
+>seq_5306	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_5314	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_5314	len 160	site #2	r 26
+TGCAAGCGTT
+>seq_5331	len 160	site #1	r 105
+TGCAAGCGTT
+>seq_5332	len 160	site #1	f 62
+TCCAAGCGTT
+>seq_5335	len 160	site #1	r 55
+TGGAAGCGTT
+>seq_5339	len 160	site #1	r 50
+TGCAAGCGTT
+>seq_5349	len 160	site #1	r 23
+TGCAAGCGTT
+>seq_5376	len 160	site #1	r 111
+TGCAAACGTT
+>seq_5382	len 160	site #1	r 60
+TGCAAGCGTT
+>seq_5401	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_5409	len 160	site #1	r 119
+TGCAAGCGTT
+>seq_5410	len 160	site #1	r 146
+TGCAAGCGTT
+>seq_5413	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_5413	len 160	site #2	r 50
+TGCAAGCGTT
+>seq_5426	len 160	site #1	r 143
+TGCAAGCGTT
+>seq_5427	len 160	site #1	r 36
+TGCAAGCGTT
+>seq_5436	len 160	site #1	r 129
+TGCAAGCGTT
+>seq_5437	len 160	site #1	r 89
+TGCAAGCGTT
+>seq_5465	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_5478	len 160	site #1	r 138
+TGCAAGCGTT
+>seq_5484	len 160	site #1	r 50
+TGCAAGCGTT
+>seq_5495	len 160	site #1	r 98
+TGCAAGCGTT
+>seq_5500	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_5506	len 160	site #1	r 28
+TGCAAGCGTT
+>seq_5508	len 160	site #1	r 99
+TGCAAGCGTT
+>seq_5521	len 160	site #1	r 27
+TGCAAGCGTT
+>seq_5526	len 160	site #1	r 127
+TGCAAGCGTT
+>seq_5533	len 160	site #1	r 14
+TGCAAGCGTT
+>seq_5538	len 160	site #1	r 86
+TGCAAGCGTT
+>seq_5548	len 160	site #1	r 98
+TGCAAGCGTT
+>seq_5560	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_5570	len 160	site #1	r 49
+TGCAAGCGTT
+>seq_5571	len 160	site #1	r 95
+TGCAAGCGTT
+>seq_5582	len 160	site #1	r 56
+TGCAAGCGTT
+>seq_5585	len 160	site #1	r 48
+TGCAAGCGTT
+>seq_5587	len 160	site #1	r 10
+TGCAAGCGTT
+>seq_5623	len 160	site #1	r 52
+TGCAAGCGTT
+>seq_5641	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_5643	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_5660	len 160	site #1	r 107
+TGCAAGCGTT
+>seq_5673	len 160	site #1	r 44
+TGCAATCGTT
+>seq_5680	len 160	site #1	r 73
+TGCAAGCGTT
+>seq_5689	len 160	site #1	r 58
+TGCAAGCGTT
+>seq_5690	len 160	site #1	r 21
+TGCAAGCGTT
+>seq_5707	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_5709	len 160	site #1	r 49
+TGCAAGCGTT
+>seq_5717	len 160	site #1	r 72
+TGCAAGCGTT
+>seq_5720	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_5724	len 160	site #1	r 160
+TGCAAGCGTT
+>seq_5728	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_5730	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_5748	len 160	site #1	r 45
+TGCAAGCGTT
+>seq_5760	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_5761	len 160	site #1	r 92
+TGCAAGCGTT
+>seq_5762	len 160	site #1	r 85
+TGCAAGCGTT
+>seq_5771	len 160	site #1	r 130
+TGCAAGCGTT
+>seq_5777	len 160	site #1	r 112
+TGCAAGCGTT
+>seq_5779	len 160	site #1	r 126
+TGCAAGCGTT
+>seq_5800	len 160	site #1	r 123
+TGCAAGCGTT
+>seq_5806	len 160	site #1	r 126
+TGCAAGCGTT
+>seq_5806	len 160	site #2	r 15
+TGCAAGCGTT
+>seq_5837	len 160	site #1	r 17
+TGCAAGCGTT
+>seq_5848	len 160	site #1	r 100
+TGCAAACGTT
+>seq_5892	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_5896	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_5909	len 160	site #1	r 109
+TGCAAGCGTT
+>seq_5911	len 160	site #1	r 68
+TGCAAGCGTT
+>seq_5911	len 160	site #2	r 16
+TGCAAGCGTT
+>seq_5912	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_5920	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_5941	len 160	site #1	r 31
+TGCAAGCGTT
+>seq_5966	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_5993	len 160	site #1	r 120
+TGCAAGCGTT
+>seq_5994	len 160	site #1	r 81
+TGCAAGCGTT
+>seq_6025	len 160	site #1	r 96
+TGCAAGCGTT
+>seq_6046	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_6059	len 160	site #1	r 147
+TGCAAGCGTT
+>seq_6062	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_6064	len 160	site #1	r 125
+TGCAAGCGTT
+>seq_6064	len 160	site #2	r 80
+TGCAAGCGTT
+>seq_6085	len 160	site #1	r 31
+TGCAAGCGTT
+>seq_6100	len 160	site #1	r 77
+TGCAAGCGTT
+>seq_6107	len 160	site #1	r 59
+TGCAAGCGTT
+>seq_6124	len 160	site #1	r 108
+TGCAAGCGTT
+>seq_6125	len 160	site #1	r 105
+TGCAAGCGTT
+>seq_6130	len 160	site #1	r 63
+TGCAATCGTT
+>seq_6134	len 160	site #1	r 35
+TGCAAGCGTT
+>seq_6141	len 160	site #1	r 40
+TGCAAGCGTT
+>seq_6148	len 160	site #1	r 52
+TGCAAGCGTT
+>seq_6162	len 160	site #1	r 152
+TGCAAGCGTT
+>seq_6174	len 160	site #1	r 19
+TGCAAGCGTT
+>seq_6182	len 160	site #1	r 60
+TGCAAGCGTT
+>seq_6188	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_6199	len 160	site #1	r 132
+TGCAAGCGTT
+>seq_6199	len 160	site #2	r 101
+TGCAAGCGTT
+>seq_6204	len 160	site #1	r 37
+TGCAAGCGTT
+>seq_6209	len 160	site #1	r 76
+TGCAAGCGTT
+>seq_6222	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_6222	len 160	site #2	r 33
+TGCAAGCGTT
+>seq_6229	len 160	site #1	r 116
+TGCAAGCGTT
+>seq_6229	len 160	site #2	r 80
+TGCAAGCGTT
+>seq_6252	len 160	site #1	r 137
+TGCAAGCGTT
+>seq_6255	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_6256	len 160	site #1	r 35
+TGCAAGCGTT
+>seq_6269	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_6273	len 160	site #1	r 118
+TGCAAGCGTT
+>seq_6275	len 160	site #1	r 127
+TGCAAGCGTT
+>seq_6279	len 160	site #1	r 140
+TGCAAGCGTT
+>seq_6302	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_6310	len 160	site #1	f 16
+TGCAAGCCTT
+>seq_6321	len 160	site #1	r 114
+AGCAAGCGTT
+>seq_6325	len 160	site #1	r 62
+TGGAAGCGTT
+******************************
+
+Motif #2: (TGCAAGCGTT/AACGCTTGCA)
+******************************
+Width (10, 0); Gap [0, 0]; MotifScore 8.100; Sites 780
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1      1.03   0.26   2.44  96.28        T    A    T    A
+2      0.00   3.08  96.92   0.00        G    C    G    C
+3      0.00  97.82   0.38   1.79        C    G    C    G
+4     97.18   0.51   2.31   0.00        A    T    A    T
+5     98.85   0.00   0.00   1.15        A    T    A    T
+6      0.77   0.26  94.87   4.10        G    C    G    C
+7      0.00  100.00   0.00   0.00        C    G    C    G
+8      0.00   1.41  96.67   1.92        G    C    G    C
+9      0.13   0.00   0.00  99.87        T    A    T    A
+10     0.26   1.54   0.38  97.82        T    A    T    A
+
+>seq_9	len 160	site #1	r 54
+TGCAAGCGTT
+>seq_12	len 160	site #1	r 90
+TGCAAGCGTT
+>seq_17	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_30	len 160	site #1	r 73
+TGCAAGCGTT
+>seq_44	len 160	site #1	r 33
+TGCAAGCGTT
+>seq_46	len 160	site #1	r 116
+TGCAAGCGTT
+>seq_61	len 160	site #1	r 43
+TGCAAGCGTT
+>seq_65	len 160	site #1	r 86
+TGCAAGCGTT
+>seq_67	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_86	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_86	len 160	site #2	r 62
+TGCAAGCGTT
+>seq_99	len 160	site #1	r 59
+TGCAAGCGTT
+>seq_103	len 160	site #1	r 31
+GGCATGCGTT
+>seq_124	len 160	site #1	r 132
+TGCAAGCGTT
+>seq_145	len 160	site #1	r 148
+TGCAAGCGTT
+>seq_151	len 160	site #1	r 55
+TGCAAGCGTT
+>seq_158	len 160	site #1	r 149
+TGCAAGCGTT
+>seq_162	len 160	site #1	r 46
+TGCAAGCGTT
+>seq_172	len 160	site #1	r 159
+GGCAAGCTTT
+>seq_179	len 160	site #1	r 138
+TGCAAGCGTT
+>seq_180	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_218	len 160	site #1	r 95
+TGCAAGCGTT
+>seq_220	len 160	site #1	r 79
+TGCAAGCGTT
+>seq_225	len 160	site #1	r 155
+TGCAAGCGTT
+>seq_246	len 160	site #1	r 17
+TCCAAGCGTT
+>seq_250	len 160	site #1	r 142
+TGCAAGCGTT
+>seq_271	len 160	site #1	r 97
+TGCGATCGTT
+>seq_274	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_277	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_279	len 160	site #1	r 97
+TGCAAGCGTT
+>seq_279	len 160	site #2	r 39
+TGCAAGCGTT
+>seq_289	len 160	site #1	f 75
+CGCAAGCGTT
+>seq_311	len 160	site #1	r 21
+TGCAAGCGTT
+>seq_320	len 160	site #1	r 69
+TGCAAGCGTT
+>seq_322	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_330	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_342	len 160	site #1	r 33
+TGCAAGCGTT
+>seq_345	len 160	site #1	f 21
+TCCAAGCTTT
+>seq_365	len 160	site #1	f 84
+TGCGAGCGTC
+>seq_376	len 160	site #1	r 10
+TGCAAGCGTT
+>seq_383	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_398	len 160	site #1	r 38
+TGCAAGCGTT
+>seq_405	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_410	len 160	site #1	r 34
+TGCAAGCGTT
+>seq_433	len 160	site #1	r 83
+TGCAAGCGTT
+>seq_446	len 160	site #1	r 23
+TGCAAGCGTT
+>seq_447	len 160	site #1	r 146
+TGCAAGCGTT
+>seq_447	len 160	site #2	r 71
+TGCAAGCGTT
+>seq_454	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_465	len 160	site #1	r 12
+TGCAAGCGTT
+>seq_491	len 160	site #1	r 154
+TGCAAGCGTT
+>seq_510	len 160	site #1	f 108
+TGCAATCGTC
+>seq_517	len 160	site #1	r 147
+TGCAAGCGTT
+>seq_532	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_557	len 160	site #1	r 62
+TGCAAGCGTT
+>seq_569	len 160	site #1	r 116
+TGCAAGCGTT
+>seq_594	len 160	site #1	r 68
+TGCAAGCGTT
+>seq_602	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_613	len 160	site #1	r 60
+TGCAAGCGTT
+>seq_633	len 160	site #1	r 80
+TCCATGCGTT
+>seq_634	len 160	site #1	f 106
+TGCAAACGTT
+>seq_636	len 160	site #1	r 89
+TGCAAGCGTT
+>seq_650	len 160	site #1	r 130
+TGCAAGCGTT
+>seq_658	len 160	site #1	r 50
+TGCAAGCGTT
+>seq_659	len 160	site #1	r 46
+TGCAAGCGTT
+>seq_666	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_674	len 160	site #1	r 129
+TGCAAGCGTT
+>seq_683	len 160	site #1	r 113
+TGCAAGCGTT
+>seq_691	len 160	site #1	r 85
+TGCAAGCGTT
+>seq_702	len 160	site #1	r 112
+TGCAAGCGTT
+>seq_704	len 160	site #1	r 104
+TGCAATCTTT
+>seq_705	len 160	site #1	r 118
+TGCAAGCGTT
+>seq_709	len 160	site #1	r 123
+TGCAAGCGTT
+>seq_713	len 160	site #1	r 102
+TGCAAGCGTT
+>seq_730	len 160	site #1	r 121
+TGCGAGCCTT
+>seq_755	len 160	site #1	r 52
+TGCAAGCGTT
+>seq_762	len 160	site #1	r 41
+TGCAAGCGTT
+>seq_777	len 160	site #1	r 129
+TGCAAGCGTT
+>seq_795	len 160	site #1	r 122
+TGCAAGCGTT
+>seq_796	len 160	site #1	r 153
+TGCAAGCGTT
+>seq_803	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_818	len 160	site #1	r 34
+TGCGATCGTT
+>seq_820	len 160	site #1	r 62
+TGCAAGCGTT
+>seq_827	len 160	site #1	r 27
+TGCAAGCGTT
+>seq_836	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_837	len 160	site #1	r 134
+TGCAAGCGTT
+>seq_842	len 160	site #1	r 135
+TGCAAGCGTT
+>seq_847	len 160	site #1	r 65
+TGCAAGCGTT
+>seq_850	len 160	site #1	r 89
+TGCAAGCGTT
+>seq_856	len 160	site #1	r 33
+TGCAAGCGTT
+>seq_865	len 160	site #1	r 104
+TGCAAGCGTT
+>seq_868	len 160	site #1	r 113
+TGCAAGCGTT
+>seq_881	len 160	site #1	r 47
+TGCAAGCGTT
+>seq_884	len 160	site #1	r 57
+TGCAAGCGTT
+>seq_893	len 160	site #1	r 66
+TGCATGCTTT
+>seq_902	len 160	site #1	r 43
+TGCAAGCGTT
+>seq_903	len 160	site #1	r 40
+TGCAAGCGTT
+>seq_906	len 160	site #1	r 108
+TGCAAGCGTT
+>seq_909	len 160	site #1	r 141
+TGCAAGCGTT
+>seq_912	len 160	site #1	r 71
+TGCAAGCGTT
+>seq_921	len 160	site #1	r 152
+TGCAAGCGTT
+>seq_958	len 160	site #1	r 18
+TGCAAGCGTT
+>seq_964	len 160	site #1	r 159
+TGCAAGCGTT
+>seq_964	len 160	site #2	r 17
+TGTGAGCGTT
+>seq_968	len 160	site #1	f 76
+TGTAAGCTTT
+>seq_969	len 160	site #1	r 134
+TGCAAGCGTT
+>seq_970	len 160	site #1	r 102
+TGCAAGCGTT
+>seq_980	len 160	site #1	r 72
+TGCAAGCGTT
+>seq_981	len 160	site #1	r 132
+TGCAAGCGTT
+>seq_999	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_1001	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_1006	len 160	site #1	f 124
+TGCGAGCTTT
+>seq_1020	len 160	site #1	r 138
+TGCAAGCGTT
+>seq_1021	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_1032	len 160	site #1	r 81
+TGCAAGCGTT
+>seq_1033	len 160	site #1	r 120
+TGCAAGCGTT
+>seq_1033	len 160	site #2	f 67
+AGCAAGCGTC
+>seq_1040	len 160	site #1	r 34
+TGCAAGCGTT
+>seq_1047	len 160	site #1	r 21
+TGCAAGCGTT
+>seq_1055	len 160	site #1	r 41
+TGCAAGCGTT
+>seq_1067	len 160	site #1	r 12
+TGCAAGCGTT
+>seq_1074	len 160	site #1	r 64
+TGCAAGCGTT
+>seq_1081	len 160	site #1	r 70
+TGCAAGCGTT
+>seq_1086	len 160	site #1	r 154
+TGCAAGCGTT
+>seq_1092	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_1098	len 160	site #1	r 38
+TGCAAGCGTT
+>seq_1102	len 160	site #1	f 71
+TGCAAGCGTA
+>seq_1107	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_1110	len 160	site #1	r 113
+TGCAAGCGTT
+>seq_1113	len 160	site #1	r 143
+TGCAAGCGTT
+>seq_1118	len 160	site #1	r 57
+TGCAAGCGTT
+>seq_1121	len 160	site #1	f 26
+TCCCAGCGTT
+>seq_1122	len 160	site #1	r 38
+TGCAAGCCTT
+>seq_1137	len 160	site #1	f 38
+GGCAATCGTT
+>seq_1152	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_1157	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_1174	len 160	site #1	f 71
+TGCAATCTTT
+>seq_1177	len 160	site #1	r 119
+GGCAAGCCTT
+>seq_1215	len 160	site #1	r 80
+TGCAAGCGTT
+>seq_1216	len 160	site #1	r 37
+TGCAAGCGTT
+>seq_1219	len 160	site #1	r 118
+TGCAAGCGTT
+>seq_1219	len 160	site #2	r 42
+TGCAAGCGTT
+>seq_1219	len 160	site #3	r 20
+TGCAAGCGTT
+>seq_1229	len 160	site #1	r 17
+TGCAAGCGTT
+>seq_1232	len 160	site #1	r 135
+TGCAAGCGTT
+>seq_1237	len 160	site #1	r 24
+TGCAAGCGTT
+>seq_1244	len 160	site #1	r 83
+TGCAAGCGTT
+>seq_1252	len 160	site #1	r 126
+TGCAAGCGTT
+>seq_1256	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_1265	len 160	site #1	r 62
+TGCAAGCGTT
+>seq_1268	len 160	site #1	r 45
+TGCAAGCGTT
+>seq_1276	len 160	site #1	r 96
+TGCAAGCGTT
+>seq_1278	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_1280	len 160	site #1	f 30
+TCCGAGCGTT
+>seq_1287	len 160	site #1	r 41
+TCCATGCGTT
+>seq_1288	len 160	site #1	r 140
+TGCAAGCGTT
+>seq_1294	len 160	site #1	f 136
+GGTAAGCGTT
+>seq_1296	len 160	site #1	r 78
+TGCAAGCGTT
+>seq_1300	len 160	site #1	r 137
+TGCAAGCGTT
+>seq_1305	len 160	site #1	r 98
+TGCAAGCGTT
+>seq_1309	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_1316	len 160	site #1	f 39
+TGCGAGCGTT
+>seq_1324	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_1329	len 160	site #1	r 153
+TGCAAGCGTT
+>seq_1336	len 160	site #1	r 89
+TGCAAGCGTT
+>seq_1343	len 160	site #1	r 28
+TGCAAGCGTT
+>seq_1353	len 160	site #1	r 49
+TGCAAGCGTT
+>seq_1361	len 160	site #1	r 56
+TGCAAGCGTT
+>seq_1368	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_1369	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_1373	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_1403	len 160	site #1	r 51
+TGCAAGCGTT
+>seq_1430	len 160	site #1	r 150
+TGCAAGCGTT
+>seq_1431	len 160	site #1	r 59
+TGCAAGCGTT
+>seq_1433	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_1440	len 160	site #1	r 76
+TGCAAGCGTT
+>seq_1446	len 160	site #1	r 124
+TGCAATCTTT
+>seq_1456	len 160	site #1	r 12
+TGCAAGCGTT
+>seq_1464	len 160	site #1	r 22
+GGCAATCGTT
+>seq_1469	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_1482	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_1482	len 160	site #2	f 46
+CGCAAGCGTT
+>seq_1504	len 160	site #1	r 43
+TGCAAGCGTT
+>seq_1508	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_1509	len 160	site #1	r 76
+TGCAAGCGTT
+>seq_1525	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_1545	len 160	site #1	r 13
+TGCAAGCGTT
+>seq_1546	len 160	site #1	r 52
+TGTAATCGTT
+>seq_1556	len 160	site #1	r 65
+TGCAAGCGTT
+>seq_1557	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_1571	len 160	site #1	r 44
+TGCAAGCGTT
+>seq_1583	len 160	site #1	r 31
+TGCAAGCGTT
+>seq_1584	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_1600	len 160	site #1	r 147
+TGCAAGCGTT
+>seq_1605	len 160	site #1	r 27
+TGCAAGCGTT
+>seq_1611	len 160	site #1	f 129
+TGTAAGCGTC
+>seq_1613	len 160	site #1	r 28
+TGCAAGCGTT
+>seq_1618	len 160	site #1	r 152
+TGCAAGCGTT
+>seq_1633	len 160	site #1	f 73
+TGCGAGCGTC
+>seq_1640	len 160	site #1	r 31
+AGCAATCGTT
+>seq_1651	len 160	site #1	r 120
+TGCAAGCGTT
+>seq_1653	len 160	site #1	r 125
+TGCAAGCGTT
+>seq_1657	len 160	site #1	r 106
+TGCAAGCGTT
+>seq_1663	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_1670	len 160	site #1	r 49
+TGCAAGCGTT
+>seq_1683	len 160	site #1	r 102
+TGCAAGCGTT
+>seq_1685	len 160	site #1	r 97
+TGCAAGCGTT
+>seq_1692	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_1693	len 160	site #1	r 126
+TGCAAGCGTT
+>seq_1708	len 160	site #1	r 159
+TGTAAGCTTT
+>seq_1715	len 160	site #1	r 23
+TGCAAGCGTT
+>seq_1723	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_1724	len 160	site #1	f 136
+TCTAAGCGTT
+>seq_1734	len 160	site #1	r 31
+TGCAATCCTT
+>seq_1739	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_1766	len 160	site #1	r 132
+TGCAAGCGTT
+>seq_1769	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_1773	len 160	site #1	r 13
+TGCAAGCGTT
+>seq_1779	len 160	site #1	r 158
+TGCAAGCGTT
+>seq_1781	len 160	site #1	r 78
+TGCAAGCGTT
+>seq_1783	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_1792	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_1796	len 160	site #1	r 24
+TGCAAGCGTT
+>seq_1797	len 160	site #1	r 10
+AGCAATCGTT
+>seq_1806	len 160	site #1	r 18
+TGCAAGCGTT
+>seq_1808	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_1846	len 160	site #1	r 146
+TGCAAGCGTT
+>seq_1851	len 160	site #1	r 44
+TGCAAGCGTT
+>seq_1855	len 160	site #1	f 48
+TGCAAGCGTG
+>seq_1866	len 160	site #1	r 68
+TGCAAGCGTT
+>seq_1876	len 160	site #1	f 98
+TGCAATCGTT
+>seq_1877	len 160	site #1	f 133
+GGCGAGCGTT
+>seq_1879	len 160	site #1	r 102
+TGCAAGCGTT
+>seq_1880	len 160	site #1	r 94
+TGCAAACGTT
+>seq_1882	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_1888	len 160	site #1	r 75
+TGCAAGCGTT
+>seq_1889	len 160	site #1	r 89
+TGCAAGCGTT
+>seq_1913	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_1942	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_1966	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_1969	len 160	site #1	r 19
+TGCAACCGTT
+>seq_1970	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_1998	len 160	site #1	r 79
+TGCAAGCGTT
+>seq_2002	len 160	site #1	r 24
+TGCAAGCGTT
+>seq_2004	len 160	site #1	r 59
+TGCAAGCGTT
+>seq_2005	len 160	site #1	r 109
+TGCAAGCGTT
+>seq_2017	len 160	site #1	r 42
+TGCAAGCGTT
+>seq_2020	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_2041	len 160	site #1	r 134
+TGCAAGCCTT
+>seq_2047	len 160	site #1	r 25
+TGCAAGCGTT
+>seq_2055	len 160	site #1	r 97
+TGCAAGCGTT
+>seq_2056	len 160	site #1	r 151
+TGCAAGCGTT
+>seq_2060	len 160	site #1	r 73
+TGCAAGCGTT
+>seq_2070	len 160	site #1	r 49
+TGCAAGCGTT
+>seq_2078	len 160	site #1	f 52
+TGCGATCGTT
+>seq_2081	len 160	site #1	r 124
+TCCAAGCCTT
+>seq_2094	len 160	site #1	r 104
+TGCAAGCGTT
+>seq_2094	len 160	site #2	r 11
+TGCAAGCGTT
+>seq_2096	len 160	site #1	r 125
+TGCAAGCGTT
+>seq_2106	len 160	site #1	r 114
+TGCAAGCGTT
+>seq_2107	len 160	site #1	r 137
+TGCAAGCGTT
+>seq_2111	len 160	site #1	r 13
+TGCAAGCGTT
+>seq_2119	len 160	site #1	r 75
+ACCAAGCGTT
+>seq_2122	len 160	site #1	r 91
+TGCAAGCGTT
+>seq_2124	len 160	site #1	r 49
+TGCAAGCGTT
+>seq_2132	len 160	site #1	r 88
+TGCAAGCGTT
+>seq_2142	len 160	site #1	r 48
+TGCAAGCGTT
+>seq_2146	len 160	site #1	r 86
+TGCAAGCGTT
+>seq_2146	len 160	site #2	r 26
+TGCAAGCGTT
+>seq_2147	len 160	site #1	r 63
+TGCAAGCGTT
+>seq_2149	len 160	site #1	r 36
+TGCAAGCGTT
+>seq_2150	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_2150	len 160	site #2	r 59
+TGCAAGCGTT
+>seq_2152	len 160	site #1	r 146
+TGCGATCGTT
+>seq_2160	len 160	site #1	f 92
+TCCAAGCCTT
+>seq_2161	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_2163	len 160	site #1	r 125
+TGCAAGCTTT
+>seq_2165	len 160	site #1	r 52
+TGCAAGCGTT
+>seq_2170	len 160	site #1	r 103
+AGCAATCGTT
+>seq_2181	len 160	site #1	r 70
+TGCAAGCGTT
+>seq_2188	len 160	site #1	r 99
+TGCAAGCGTC
+>seq_2189	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_2201	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_2202	len 160	site #1	r 143
+ACCAAGCGTT
+>seq_2205	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_2212	len 160	site #1	r 67
+TGTAAGCGAT
+>seq_2215	len 160	site #1	r 156
+TGCAAGCGTT
+>seq_2231	len 160	site #1	r 25
+TGCAAGCGTT
+>seq_2268	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_2297	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_2317	len 160	site #1	r 37
+TGCAAGCGTT
+>seq_2325	len 160	site #1	r 102
+TGCAAGCCTT
+>seq_2329	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_2336	len 160	site #1	r 104
+TGCAAGCGTT
+>seq_2341	len 160	site #1	r 92
+TGCAAGCGTT
+>seq_2342	len 160	site #1	r 75
+TGCAAGCGTT
+>seq_2348	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_2379	len 160	site #1	r 156
+TGCAAGCGTT
+>seq_2390	len 160	site #1	r 62
+TGCAAGCGTT
+>seq_2404	len 160	site #1	r 24
+TGCAAGCGTT
+>seq_2409	len 160	site #1	r 31
+TGCAAGCGTT
+>seq_2426	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_2429	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_2433	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_2441	len 160	site #1	r 138
+TGCAAGCGTT
+>seq_2456	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_2478	len 160	site #1	r 88
+TGCAAGCGTT
+>seq_2479	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_2481	len 160	site #1	r 122
+TGCAAGCGTT
+>seq_2482	len 160	site #1	r 43
+TGCAAGCGTT
+>seq_2485	len 160	site #1	r 53
+TGCAAGCGTT
+>seq_2492	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_2496	len 160	site #1	f 42
+TCCAATCGTT
+>seq_2506	len 160	site #1	r 23
+TGCAAGCGTT
+>seq_2514	len 160	site #1	r 114
+TGCAAGCGTT
+>seq_2520	len 160	site #1	r 68
+TGCAAGCGTT
+>seq_2527	len 160	site #1	r 17
+TGCAAGCGTT
+>seq_2545	len 160	site #1	r 140
+TGCAAGCGTT
+>seq_2552	len 160	site #1	r 48
+TGCAAGCGTT
+>seq_2554	len 160	site #1	r 69
+TGCAAGCGTT
+>seq_2560	len 160	site #1	r 123
+TGCAAGCGTT
+>seq_2562	len 160	site #1	r 47
+TGCAAGCGTT
+>seq_2564	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_2567	len 160	site #1	r 39
+TGCAAGCGTT
+>seq_2569	len 160	site #1	r 121
+TGCAAGCGTT
+>seq_2570	len 160	site #1	f 88
+TCCAAGCGTC
+>seq_2576	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_2576	len 160	site #2	r 65
+TGCAAGCGTT
+>seq_2584	len 160	site #1	r 17
+TGCAAGCGTT
+>seq_2591	len 160	site #1	r 40
+TGCAAGCGTT
+>seq_2596	len 160	site #1	r 160
+TGCAAGCGTT
+>seq_2596	len 160	site #2	r 73
+TGCAAGCGTT
+>seq_2597	len 160	site #1	r 149
+TGCAAGCGTT
+>seq_2600	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_2601	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_2602	len 160	site #1	r 83
+TGCAAGCGTT
+>seq_2607	len 160	site #1	r 23
+TGCAAGCGTT
+>seq_2617	len 160	site #1	r 95
+TGCAAGCGTT
+>seq_2634	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_2637	len 160	site #1	r 62
+TGCAAGCGTT
+>seq_2644	len 160	site #1	r 96
+TGCAAGCGTT
+>seq_2662	len 160	site #1	r 109
+TGCAAGCGTT
+>seq_2665	len 160	site #1	r 44
+TGCAAGCGTT
+>seq_2690	len 160	site #1	r 17
+TGCAAGCGTT
+>seq_2695	len 160	site #1	r 126
+TGCGAGCGTT
+>seq_2696	len 160	site #1	r 127
+TGCAAGCGTT
+>seq_2709	len 160	site #1	f 146
+TGCAAGCGTA
+>seq_2715	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_2717	len 160	site #1	r 39
+TGCAAGCGTT
+>seq_2719	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_2722	len 160	site #1	r 128
+TGCAAGCGTT
+>seq_2735	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_2744	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_2749	len 160	site #1	r 51
+TGCAAGCGTT
+>seq_2750	len 160	site #1	r 158
+TGCAAGCGTT
+>seq_2750	len 160	site #2	r 132
+TGCAAGCGTT
+>seq_2761	len 160	site #1	r 102
+TGCAAGCGTT
+>seq_2764	len 160	site #1	r 121
+TGCAAGCGTT
+>seq_2769	len 160	site #1	r 146
+TGCAAGCGTT
+>seq_2774	len 160	site #1	r 11
+TGCAAGCGTT
+>seq_2775	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_2788	len 160	site #1	r 76
+TGCAAGCGTT
+>seq_2788	len 160	site #2	r 23
+TGCAAGCGTT
+>seq_2799	len 160	site #1	r 50
+TGCAAGCGTT
+>seq_2800	len 160	site #1	r 75
+TGCAAGCGTT
+>seq_2811	len 160	site #1	r 140
+TGCAAGCGTT
+>seq_2812	len 160	site #1	f 111
+TCCAAGCGTC
+>seq_2818	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_2822	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_2823	len 160	site #1	r 88
+TGCAAGCGTT
+>seq_2830	len 160	site #1	r 24
+TGCAAGCGTT
+>seq_2850	len 160	site #1	r 121
+TGCAAGCGTT
+>seq_2888	len 160	site #1	r 85
+GGCAAGCGTT
+>seq_2903	len 160	site #1	r 122
+TGCAAGCGTT
+>seq_2910	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_2912	len 160	site #1	r 70
+TGCAAGCGTT
+>seq_2912	len 160	site #2	r 17
+TGCAAGCGTT
+>seq_2914	len 160	site #1	r 13
+TGCAAGCGTT
+>seq_2926	len 160	site #1	r 126
+TGCAAGCGTT
+>seq_2927	len 160	site #1	r 25
+TGCAAGCGTT
+>seq_2928	len 160	site #1	f 99
+GGCAAGCTTT
+>seq_2929	len 160	site #1	r 40
+TGCAAGCGTT
+>seq_2936	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_2954	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_2966	len 160	site #1	r 152
+TGCAAGCGTT
+>seq_2968	len 160	site #1	r 10
+TGCAAGCGTT
+>seq_2968	len 160	site #2	f 75
+TGCAAACGTT
+>seq_2993	len 160	site #1	r 74
+TGCAAGCGTT
+>seq_3015	len 160	site #1	r 11
+TGCAAGCGTT
+>seq_3026	len 160	site #1	r 73
+TGCAAGCGTT
+>seq_3035	len 160	site #1	r 50
+TGCAAGCCTT
+>seq_3044	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_3046	len 160	site #1	r 109
+TGCAAGCGTT
+>seq_3053	len 160	site #1	r 140
+TGCAAGCGTT
+>seq_3061	len 160	site #1	r 11
+TGCAAGCGTT
+>seq_3064	len 160	site #1	r 10
+TGCAAGCGTT
+>seq_3066	len 160	site #1	r 47
+TGCAAGCGTT
+>seq_3074	len 160	site #1	r 74
+TGCAAGCGTT
+>seq_3103	len 160	site #1	r 127
+TGCAAGCGTT
+>seq_3108	len 160	site #1	r 38
+TGCAAGCGTT
+>seq_3118	len 160	site #1	r 42
+TGCAAGCGTT
+>seq_3128	len 160	site #1	r 19
+TGCAAGCGTT
+>seq_3130	len 160	site #1	r 18
+TGCAAGCGTT
+>seq_3134	len 160	site #1	r 14
+TGCAAGCGTT
+>seq_3136	len 160	site #1	r 58
+TGCAAGCGTT
+>seq_3141	len 160	site #1	r 140
+TGCAAGCGTT
+>seq_3163	len 160	site #1	r 75
+TGCAAGCGTT
+>seq_3165	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_3180	len 160	site #1	r 43
+TGCAAGCGTT
+>seq_3192	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_3192	len 160	site #2	f 20
+TGCCATCGTT
+>seq_3209	len 160	site #1	r 141
+TGTAATCGTT
+>seq_3212	len 160	site #1	r 36
+TGCAAGCGTT
+>seq_3223	len 160	site #1	r 61
+TGCAAGCGTT
+>seq_3226	len 160	site #1	r 14
+TGCAAGCGTT
+>seq_3234	len 160	site #1	r 18
+TGCAAGCGTT
+>seq_3242	len 160	site #1	r 153
+TGCAAGCGTT
+>seq_3243	len 160	site #1	r 109
+TGCAAGCGTT
+>seq_3264	len 160	site #1	r 130
+TGCAATCGTT
+>seq_3270	len 160	site #1	r 110
+TGCAAGCGTT
+>seq_3279	len 160	site #1	r 106
+TGCAAGCGTT
+>seq_3281	len 160	site #1	r 87
+TGCAAGCGTT
+>seq_3293	len 160	site #1	r 90
+TGCAAGCGTT
+>seq_3327	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_3344	len 160	site #1	r 67
+TGCAAGCGTT
+>seq_3359	len 160	site #1	r 38
+TGCAAGCGTT
+>seq_3364	len 160	site #1	r 40
+TGCAAGCGTT
+>seq_3385	len 160	site #1	r 116
+TGCAAGCGTT
+>seq_3404	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_3405	len 160	site #1	r 76
+TGCAAGCGTT
+>seq_3411	len 160	site #1	r 135
+TGCAAGCGTT
+>seq_3411	len 160	site #2	f 59
+TGCGATCGTT
+>seq_3427	len 160	site #1	f 33
+GGTAAGCGTT
+>seq_3446	len 160	site #1	r 28
+TGCAAGCGTT
+>seq_3452	len 160	site #1	r 144
+TGCAAGCGTT
+>seq_3452	len 160	site #2	r 93
+TGCAAGCGTT
+>seq_3467	len 160	site #1	r 92
+TGCAAGCGTT
+>seq_3469	len 160	site #1	r 134
+TGCAAGCGTT
+>seq_3472	len 160	site #1	r 33
+TGCAAGCGTT
+>seq_3474	len 160	site #1	r 75
+TGCAAGCGTT
+>seq_3490	len 160	site #1	r 18
+TGCAAGCGTT
+>seq_3499	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_3502	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_3503	len 160	site #1	r 81
+TGCAAGCGTT
+>seq_3513	len 160	site #1	r 41
+TGCAAGCGTT
+>seq_3525	len 160	site #1	r 129
+TGCAAGCGTT
+>seq_3525	len 160	site #2	r 62
+TGCAAGCGTT
+>seq_3537	len 160	site #1	r 16
+TGCAAGCGTT
+>seq_3538	len 160	site #1	r 156
+TGCAAGCGTT
+>seq_3549	len 160	site #1	r 147
+TGCAAGCGTT
+>seq_3553	len 160	site #1	r 61
+TGCAAGCGTT
+>seq_3570	len 160	site #1	f 124
+TGTAAGCGTT
+>seq_3589	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_3591	len 160	site #1	r 70
+TGCAAGCGTT
+>seq_3608	len 160	site #1	r 122
+TGCAAGCGTT
+>seq_3618	len 160	site #1	r 72
+TGCAATCGTC
+>seq_3619	len 160	site #1	r 78
+TGCAAGCGTT
+>seq_3641	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_3658	len 160	site #1	r 80
+TGCAAGCGTT
+>seq_3661	len 160	site #1	r 27
+TGCAAGCGTT
+>seq_3673	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_3679	len 160	site #1	r 79
+GGCATGCGTT
+>seq_3693	len 160	site #1	r 102
+TGCAAGCGTT
+>seq_3701	len 160	site #1	r 158
+TGCAAGCGTT
+>seq_3712	len 160	site #1	r 73
+TGCAAGCGTT
+>seq_3713	len 160	site #1	r 25
+TGCAAGCGTT
+>seq_3714	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_3729	len 160	site #1	r 45
+TGCAAGCGTT
+>seq_3730	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_3733	len 160	site #1	r 93
+TGCAAGCGTT
+>seq_3745	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_3747	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_3760	len 160	site #1	r 58
+TCCATGCGTT
+>seq_3762	len 160	site #1	r 80
+TGCAAGCGTT
+>seq_3787	len 160	site #1	r 99
+TGCAAGCGTT
+>seq_3809	len 160	site #1	r 95
+TGCAAGCGTT
+>seq_3816	len 160	site #1	r 57
+TGCAAGCGTT
+>seq_3817	len 160	site #1	r 91
+TGCAAGCGTT
+>seq_3827	len 160	site #1	f 146
+GGCAATCGTT
+>seq_3829	len 160	site #1	r 19
+TGCAAGCGTT
+>seq_3837	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_3847	len 160	site #1	r 64
+TGCAAGCGTT
+>seq_3854	len 160	site #1	r 34
+TGCAAGCGTT
+>seq_3869	len 160	site #1	r 123
+TGCAAGCGTT
+>seq_3879	len 160	site #1	r 28
+TGCAAGCGTT
+>seq_3898	len 160	site #1	r 67
+TGCAAGCGTT
+>seq_3910	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_3924	len 160	site #1	r 153
+TGCAAGCGTT
+>seq_3925	len 160	site #1	r 152
+TGCAAGCGTT
+>seq_3925	len 160	site #2	r 36
+TGCAAGCGTT
+>seq_3951	len 160	site #1	r 135
+TGCAAGCGTT
+>seq_3961	len 160	site #1	r 53
+TGCAAGCGTT
+>seq_3972	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_4007	len 160	site #1	r 80
+TGCAAGCGTT
+>seq_4025	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_4028	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_4033	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_4040	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_4046	len 160	site #1	r 109
+TCCGAGCGTT
+>seq_4052	len 160	site #1	r 86
+TGCGAGCGTT
+>seq_4057	len 160	site #1	r 90
+TGCAAGCGTT
+>seq_4070	len 160	site #1	r 113
+TGCAAGCGTT
+>seq_4078	len 160	site #1	r 148
+TGCAAGCGTT
+>seq_4084	len 160	site #1	f 4
+TCCAATCGTT
+>seq_4089	len 160	site #1	r 134
+TGCAAGCGTT
+>seq_4093	len 160	site #1	r 122
+TGCAAGCGTT
+>seq_4094	len 160	site #1	r 130
+TGCAAGCGTT
+>seq_4107	len 160	site #1	r 81
+TGCAAGCGTT
+>seq_4108	len 160	site #1	r 18
+TGCAAGCGTT
+>seq_4113	len 160	site #1	r 42
+TGCAAGCGTT
+>seq_4118	len 160	site #1	r 111
+TGCAAGCGTT
+>seq_4119	len 160	site #1	r 107
+TGCAAGCGTT
+>seq_4137	len 160	site #1	r 64
+TGCAAGCGTT
+>seq_4159	len 160	site #1	r 59
+TGCAAGCGTT
+>seq_4159	len 160	site #2	r 95
+TGCGAGCGTC
+>seq_4163	len 160	site #1	r 37
+TGCAAGCGTT
+>seq_4175	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_4192	len 160	site #1	r 121
+TGCAAGCGTT
+>seq_4192	len 160	site #2	r 24
+TGCAAGCGTT
+>seq_4201	len 160	site #1	r 127
+TGCAAGCGTT
+>seq_4210	len 160	site #1	r 41
+TGCAAGCGTT
+>seq_4229	len 160	site #1	r 123
+TGCAAGCGTT
+>seq_4231	len 160	site #1	r 38
+TGCAAGCGTT
+>seq_4243	len 160	site #1	r 59
+TGCAAGCGTT
+>seq_4244	len 160	site #1	r 12
+TGCAAGCGTT
+>seq_4266	len 160	site #1	r 60
+TGCAAGCGTT
+>seq_4278	len 160	site #1	r 27
+TGCAAGCGTT
+>seq_4281	len 160	site #1	r 67
+TGCAAGCGTT
+>seq_4305	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_4308	len 160	site #1	r 23
+TGCAAGCGTT
+>seq_4320	len 160	site #1	r 142
+TGCAAGCGTT
+>seq_4324	len 160	site #1	f 50
+TCCAAGCGTT
+>seq_4325	len 160	site #1	r 40
+TGCAAGCGTT
+>seq_4326	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_4331	len 160	site #1	r 149
+TGCAAGCGTT
+>seq_4335	len 160	site #1	r 83
+TGCAAGCGTT
+>seq_4336	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_4337	len 160	site #1	f 98
+GGCAAGCGTC
+>seq_4340	len 160	site #1	r 137
+TGCAAGCGTT
+>seq_4345	len 160	site #1	r 72
+TGCAAGCGTT
+>seq_4357	len 160	site #1	f 131
+TGCAAGCCTT
+>seq_4376	len 160	site #1	r 14
+TGCAAGCGTT
+>seq_4381	len 160	site #1	r 153
+TGCAAGCGTT
+>seq_4383	len 160	site #1	f 133
+GGTAAGCGTT
+>seq_4384	len 160	site #1	f 145
+GGCAAGCTTT
+>seq_4385	len 160	site #1	r 26
+TGCAAGCGTT
+>seq_4400	len 160	site #1	r 71
+TGCAAGCGTT
+>seq_4421	len 160	site #1	r 50
+TGCAAGCGTT
+>seq_4422	len 160	site #1	r 19
+TGCAAGCGTT
+>seq_4430	len 160	site #1	r 79
+TGCAAGCGTT
+>seq_4434	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_4443	len 160	site #1	r 65
+TGCAAGCGTT
+>seq_4443	len 160	site #2	r 32
+TCCGAGCGTT
+>seq_4448	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_4450	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_4451	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_4464	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_4471	len 160	site #1	r 25
+TGCAAGCGTT
+>seq_4472	len 160	site #1	r 77
+TGCAAGCGTT
+>seq_4484	len 160	site #1	r 74
+TGTAAACTTG
+>seq_4486	len 160	site #1	r 51
+TGCAAGCGTT
+>seq_4493	len 160	site #1	r 144
+TGCAAGCGTT
+>seq_4502	len 160	site #1	r 133
+TGCAAGCGTT
+>seq_4505	len 160	site #1	r 114
+TGCAAGCGTT
+>seq_4517	len 160	site #1	r 151
+TGCAAGCGTT
+>seq_4526	len 160	site #1	r 159
+TGCAAGCGTT
+>seq_4548	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_4551	len 160	site #1	r 12
+TGCAAGCGTT
+>seq_4559	len 160	site #1	r 33
+TGCAAGCGTT
+>seq_4571	len 160	site #1	r 136
+TGCAAGCGTT
+>seq_4581	len 160	site #1	r 11
+GCCAAGCGTT
+>seq_4586	len 160	site #1	r 108
+TGCAAGCGTT
+>seq_4597	len 160	site #1	f 137
+TCCAAGCTTT
+>seq_4610	len 160	site #1	r 135
+TGCAAGCGTT
+>seq_4625	len 160	site #1	r 158
+TGCAAGCGTT
+>seq_4641	len 160	site #1	r 83
+TGCAAGCGTT
+>seq_4643	len 160	site #1	r 56
+TGCAAGCGTT
+>seq_4649	len 160	site #1	r 114
+TGCAAGCGTT
+>seq_4656	len 160	site #1	r 55
+TGCAAGCGTT
+>seq_4659	len 160	site #1	r 79
+TGCAAGCGTT
+>seq_4660	len 160	site #1	r 141
+TGCAAGCGTT
+>seq_4675	len 160	site #1	r 109
+TGCAAGCGTT
+>seq_4682	len 160	site #1	r 52
+TGCAAGCGTT
+>seq_4690	len 160	site #1	r 134
+TGCAAGCGTT
+>seq_4696	len 160	site #1	r 95
+TGCAAGCGTT
+>seq_4709	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_4720	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_4732	len 160	site #1	r 31
+TGCAAGCGTT
+>seq_4740	len 160	site #1	r 128
+TGCAAGCGTT
+>seq_4740	len 160	site #2	r 108
+TGCAAGCGTT
+>seq_4749	len 160	site #1	r 12
+TGCAAGCGTT
+>seq_4764	len 160	site #1	r 72
+TGCAAGCGTT
+>seq_4775	len 160	site #1	r 152
+TGCAAGCGTT
+>seq_4777	len 160	site #1	r 114
+TGCAAGCGTT
+>seq_4786	len 160	site #1	r 106
+TGCAAGCGTT
+>seq_4787	len 160	site #1	r 31
+TGCAAGCGTC
+>seq_4789	len 160	site #1	r 39
+TGCAAGCGTT
+>seq_4803	len 160	site #1	r 58
+TGCAAGCGTT
+>seq_4805	len 160	site #1	r 90
+TGCAAGCGTT
+>seq_4813	len 160	site #1	r 158
+TGCAAGCGTT
+>seq_4823	len 160	site #1	r 84
+TGCAAGCGTT
+>seq_4838	len 160	site #1	r 105
+TGCAAGCGTT
+>seq_4839	len 160	site #1	r 46
+TGCAAGCGTT
+>seq_4846	len 160	site #1	r 92
+TGCAAGCGTT
+>seq_4849	len 160	site #1	r 110
+AGCAATCGTT
+>seq_4857	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_4860	len 160	site #1	r 43
+TGCAAGCGTT
+>seq_4872	len 160	site #1	r 147
+TGCAAGCGTT
+>seq_4888	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_4900	len 160	site #1	r 31
+TGCAAGCGTT
+>seq_4903	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_4908	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_4917	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_4931	len 160	site #1	r 36
+TGCAAGCGTT
+>seq_4942	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_4955	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_4962	len 160	site #1	r 16
+TGCAAGCGTT
+>seq_4966	len 160	site #1	r 119
+TGCAAGCGTT
+>seq_4974	len 160	site #1	r 21
+TGCAAGCGTT
+>seq_4976	len 160	site #1	r 22
+TGCAAGCGTT
+>seq_4977	len 160	site #1	r 150
+TGCAAGCGTT
+>seq_4996	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_5002	len 160	site #1	r 34
+TGCAAGCGTT
+>seq_5008	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_5009	len 160	site #1	r 135
+TGCAAGCGTT
+>seq_5011	len 160	site #1	r 36
+TGCAAGCGTT
+>seq_5012	len 160	site #1	r 61
+TGCAAGCGTT
+>seq_5017	len 160	site #1	r 95
+TGCAAGCGTT
+>seq_5021	len 160	site #1	r 116
+TGCAAGCGTT
+>seq_5027	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_5042	len 160	site #1	r 25
+TGCAAGCGTT
+>seq_5047	len 160	site #1	r 114
+TGCAAGCGTT
+>seq_5068	len 160	site #1	r 37
+TGCAAGCGTT
+>seq_5075	len 160	site #1	f 39
+TGCATGCGTT
+>seq_5085	len 160	site #1	f 96
+TGCATGCGTT
+>seq_5105	len 160	site #1	r 30
+TGCAAGCGTT
+>seq_5106	len 160	site #1	r 77
+TGCAAGCGTT
+>seq_5118	len 160	site #1	r 38
+TGCAAGCGTT
+>seq_5120	len 160	site #1	r 46
+TGCAAGCGTT
+>seq_5147	len 160	site #1	r 28
+GGCAATCGTT
+>seq_5149	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_5159	len 160	site #1	r 78
+TGCAAGCGTT
+>seq_5165	len 160	site #1	r 144
+TGCAAGCGTT
+>seq_5175	len 160	site #1	r 96
+TGCAAGCGTT
+>seq_5186	len 160	site #1	f 116
+TGCAAGCGTG
+>seq_5192	len 160	site #1	f 83
+TGCCAGCGTT
+>seq_5196	len 160	site #1	r 83
+TGCAAGCGTT
+>seq_5198	len 160	site #1	r 98
+TCCAATCGTT
+>seq_5200	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_5201	len 160	site #1	r 16
+TGCAAGCGTT
+>seq_5204	len 160	site #1	r 125
+TGCAAGCGTT
+>seq_5204	len 160	site #2	r 18
+TGCAAGCGTT
+>seq_5211	len 160	site #1	r 57
+TGCAAGCGTT
+>seq_5214	len 160	site #1	r 27
+TGCAAGCGTT
+>seq_5222	len 160	site #1	r 118
+TGCAAGCGTT
+>seq_5231	len 160	site #1	r 29
+TGCAAGCGTT
+>seq_5267	len 160	site #1	r 158
+TGCAAGCGTT
+>seq_5268	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_5270	len 160	site #1	r 91
+TGCAAGCGTT
+>seq_5271	len 160	site #1	r 33
+TGCAAGCGTT
+>seq_5294	len 160	site #1	r 100
+TGCAAGCGTT
+>seq_5302	len 160	site #1	r 51
+TGCAAGCGTT
+>seq_5306	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_5314	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_5314	len 160	site #2	r 26
+TGCAAGCGTT
+>seq_5331	len 160	site #1	r 105
+TGCAAGCGTT
+>seq_5332	len 160	site #1	f 62
+TCCAAGCGTT
+>seq_5335	len 160	site #1	r 55
+TGGAAGCGTT
+>seq_5339	len 160	site #1	r 50
+TGCAAGCGTT
+>seq_5349	len 160	site #1	r 23
+TGCAAGCGTT
+>seq_5376	len 160	site #1	r 111
+TGCAAACGTT
+>seq_5382	len 160	site #1	r 60
+TGCAAGCGTT
+>seq_5384	len 160	site #1	f 18
+TGGCTTCTTT
+>seq_5401	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_5409	len 160	site #1	r 119
+TGCAAGCGTT
+>seq_5410	len 160	site #1	r 146
+TGCAAGCGTT
+>seq_5413	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_5413	len 160	site #2	r 50
+TGCAAGCGTT
+>seq_5426	len 160	site #1	r 143
+TGCAAGCGTT
+>seq_5427	len 160	site #1	r 36
+TGCAAGCGTT
+>seq_5436	len 160	site #1	r 129
+TGCAAGCGTT
+>seq_5437	len 160	site #1	r 89
+TGCAAGCGTT
+>seq_5465	len 160	site #1	r 66
+TGCAAGCGTT
+>seq_5478	len 160	site #1	r 138
+TGCAAGCGTT
+>seq_5484	len 160	site #1	r 50
+TGCAAGCGTT
+>seq_5495	len 160	site #1	r 98
+TGCAAGCGTT
+>seq_5500	len 160	site #1	r 15
+TGCAAGCGTT
+>seq_5506	len 160	site #1	r 28
+TGCAAGCGTT
+>seq_5508	len 160	site #1	r 99
+TGCAAGCGTT
+>seq_5521	len 160	site #1	r 27
+TGCAAGCGTT
+>seq_5526	len 160	site #1	r 127
+TGCAAGCGTT
+>seq_5533	len 160	site #1	r 14
+TGCAAGCGTT
+>seq_5538	len 160	site #1	r 86
+TGCAAGCGTT
+>seq_5548	len 160	site #1	r 98
+TGCAAGCGTT
+>seq_5560	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_5570	len 160	site #1	r 49
+TGCAAGCGTT
+>seq_5571	len 160	site #1	r 95
+TGCAAGCGTT
+>seq_5582	len 160	site #1	r 56
+TGCAAGCGTT
+>seq_5585	len 160	site #1	r 48
+TGCAAGCGTT
+>seq_5587	len 160	site #1	r 10
+TGCAAGCGTT
+>seq_5623	len 160	site #1	r 52
+TGCAAGCGTT
+>seq_5641	len 160	site #1	r 131
+TGCAAGCGTT
+>seq_5643	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_5660	len 160	site #1	r 107
+TGCAAGCGTT
+>seq_5673	len 160	site #1	r 44
+TGCAATCGTT
+>seq_5680	len 160	site #1	r 73
+TGCAAGCGTT
+>seq_5689	len 160	site #1	r 58
+TGCAAGCGTT
+>seq_5690	len 160	site #1	r 21
+TGCAAGCGTT
+>seq_5707	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_5709	len 160	site #1	r 49
+TGCAAGCGTT
+>seq_5709	len 160	site #2	f 103
+GGCAATCGTT
+>seq_5717	len 160	site #1	r 72
+TGCAAGCGTT
+>seq_5720	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_5724	len 160	site #1	r 160
+TGCAAGCGTT
+>seq_5728	len 160	site #1	r 139
+TGCAAGCGTT
+>seq_5730	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_5748	len 160	site #1	r 45
+TGCAAGCGTT
+>seq_5760	len 160	site #1	r 115
+TGCAAGCGTT
+>seq_5761	len 160	site #1	r 92
+TGCAAGCGTT
+>seq_5762	len 160	site #1	r 85
+TGCAAGCGTT
+>seq_5771	len 160	site #1	r 130
+TGCAAGCGTT
+>seq_5777	len 160	site #1	r 112
+TGCAAGCGTT
+>seq_5779	len 160	site #1	r 126
+TGCAAGCGTT
+>seq_5800	len 160	site #1	r 123
+TGCAAGCGTT
+>seq_5806	len 160	site #1	r 126
+TGCAAGCGTT
+>seq_5806	len 160	site #2	r 15
+TGCAAGCGTT
+>seq_5837	len 160	site #1	r 17
+TGCAAGCGTT
+>seq_5848	len 160	site #1	r 100
+TGCAAACGTT
+>seq_5869	len 160	site #1	r 92
+TGCAACCGTT
+>seq_5892	len 160	site #1	r 157
+TGCAAGCGTT
+>seq_5896	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_5909	len 160	site #1	r 109
+TGCAAGCGTT
+>seq_5911	len 160	site #1	r 68
+TGCAAGCGTT
+>seq_5911	len 160	site #2	r 16
+TGCAAGCGTT
+>seq_5912	len 160	site #1	r 124
+TGCAAGCGTT
+>seq_5920	len 160	site #1	r 20
+TGCAAGCGTT
+>seq_5941	len 160	site #1	r 31
+TGCAAGCGTT
+>seq_5966	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_5993	len 160	site #1	r 120
+TGCAAGCGTT
+>seq_5994	len 160	site #1	r 81
+TGCAAGCGTT
+>seq_6025	len 160	site #1	r 96
+TGCAAGCGTT
+>seq_6046	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_6059	len 160	site #1	r 147
+TGCAAGCGTT
+>seq_6062	len 160	site #1	r 117
+TGCAAGCGTT
+>seq_6064	len 160	site #1	r 125
+TGCAAGCGTT
+>seq_6064	len 160	site #2	r 80
+TGCAAGCGTT
+>seq_6085	len 160	site #1	r 31
+TGCAAGCGTT
+>seq_6097	len 160	site #1	f 20
+TCTAAGCGTT
+>seq_6100	len 160	site #1	r 77
+TGCAAGCGTT
+>seq_6107	len 160	site #1	r 59
+TGCAAGCGTT
+>seq_6124	len 160	site #1	r 108
+TGCAAGCGTT
+>seq_6125	len 160	site #1	r 105
+TGCAAGCGTT
+>seq_6130	len 160	site #1	r 63
+TGCAATCGTT
+>seq_6134	len 160	site #1	r 35
+TGCAAGCGTT
+>seq_6141	len 160	site #1	r 40
+TGCAAGCGTT
+>seq_6148	len 160	site #1	r 52
+TGCAAGCGTT
+>seq_6162	len 160	site #1	r 152
+TGCAAGCGTT
+>seq_6174	len 160	site #1	r 19
+TGCAAGCGTT
+>seq_6182	len 160	site #1	r 60
+TGCAAGCGTT
+>seq_6188	len 160	site #1	r 103
+TGCAAGCGTT
+>seq_6199	len 160	site #1	r 132
+TGCAAGCGTT
+>seq_6199	len 160	site #2	r 101
+TGCAAGCGTT
+>seq_6204	len 160	site #1	r 37
+TGCAAGCGTT
+>seq_6209	len 160	site #1	r 76
+TGCAAGCGTT
+>seq_6222	len 160	site #1	r 145
+TGCAAGCGTT
+>seq_6222	len 160	site #2	r 33
+TGCAAGCGTT
+>seq_6229	len 160	site #1	r 116
+TGCAAGCGTT
+>seq_6229	len 160	site #2	r 80
+TGCAAGCGTT
+>seq_6252	len 160	site #1	r 137
+TGCAAGCGTT
+>seq_6255	len 160	site #1	r 32
+TGCAAGCGTT
+>seq_6256	len 160	site #1	r 35
+TGCAAGCGTT
+>seq_6269	len 160	site #1	r 82
+TGCAAGCGTT
+>seq_6273	len 160	site #1	r 118
+TGCAAGCGTT
+>seq_6275	len 160	site #1	r 127
+TGCAAGCGTT
+>seq_6279	len 160	site #1	r 140
+TGCAAGCGTT
+>seq_6288	len 160	site #1	f 94
+GGCAATCGTT
+>seq_6302	len 160	site #1	r 94
+TGCAAGCGTT
+>seq_6310	len 160	site #1	f 16
+TGCAAGCCTT
+>seq_6321	len 160	site #1	r 114
+AGCAAGCGTT
+>seq_6325	len 160	site #1	r 62
+TGGAAGCGTT
+******************************
+
+Motif #3: (ACGCTTGCAC/GTGCAAGCGT)
+******************************
+Width (10, 0); Gap [0, 0]; MotifScore 7.824; Sites 877
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1     93.50   0.57   3.53   2.39        A    T    A    T
+2      0.00  96.81   1.60   1.60        C    G    C    G
+3      0.00   0.34  99.66   0.00        G    C    G    C
+4      3.42  96.12   0.00   0.46        C    G    C    G
+5      0.00   2.62   0.00  97.38        T    A    T    A
+6      0.00   3.65   5.13  91.22        T    A    T    A
+7      0.00   0.00  97.15   2.85        G    C    G    C
+8      1.60  92.13   4.45   1.82        C    G    C    G
+9     93.16   0.00   2.74   4.10        A    T    A    T
+10     0.00  100.00   0.00   0.00        C    G    C    G
+
+>seq_9	len 160	site #1	f 46
+ACGCTTGCAC
+>seq_12	len 160	site #1	f 82
+ACGCTTGCAC
+>seq_17	len 160	site #1	f 123
+ACGCTTGCAC
+>seq_19	len 160	site #1	f 112
+CCGCTTGCAC
+>seq_30	len 160	site #1	f 65
+ACGCTTGCAC
+>seq_36	len 160	site #1	f 20
+ACGCTGGTAC
+>seq_44	len 160	site #1	f 25
+ACGCTTGCAC
+>seq_46	len 160	site #1	f 108
+ACGCTTGCAC
+>seq_50	len 160	site #1	f 140
+ACGCTTGAGC
+>seq_54	len 160	site #1	r 142
+ACGCTTTTAC
+>seq_61	len 160	site #1	f 35
+ACGCTTGCAC
+>seq_65	len 160	site #1	f 78
+ACGCTTGCAC
+>seq_67	len 160	site #1	f 74
+ACGCTTGCAC
+>seq_86	len 160	site #1	f 54
+ACGCTTGCAC
+>seq_86	len 160	site #2	f 103
+ACGCTTGCAC
+>seq_99	len 160	site #1	f 51
+ACGCTTGCAC
+>seq_118	len 160	site #1	f 53
+TCGCTCGCAC
+>seq_124	len 160	site #1	f 124
+ACGCTTGCAC
+>seq_130	len 160	site #1	f 40
+ACGCTGTCAC
+>seq_145	len 160	site #1	f 140
+ACGCTTGCAC
+>seq_151	len 160	site #1	f 47
+ACGCTTGCAC
+>seq_158	len 160	site #1	f 141
+ACGCTTGCAC
+>seq_162	len 160	site #1	f 38
+ACGCTTGCAC
+>seq_179	len 160	site #1	f 130
+ACGCTTGCAC
+>seq_180	len 160	site #1	f 7
+ACGCTTGCAC
+>seq_218	len 160	site #1	f 87
+ACGCTTGCAC
+>seq_220	len 160	site #1	f 71
+ACGCTTGCAC
+>seq_225	len 160	site #1	f 147
+ACGCTTGCAC
+>seq_250	len 160	site #1	f 134
+ACGCTTGCAC
+>seq_252	len 160	site #1	r 59
+TCGCTTGCTC
+>seq_271	len 160	site #1	f 89
+ACGATCGCAC
+>seq_274	len 160	site #1	f 7
+ACGCTTGCAC
+>seq_277	len 160	site #1	f 116
+ACGCTTGCAC
+>seq_279	len 160	site #1	f 31
+ACGCTTGCAC
+>seq_279	len 160	site #2	f 89
+ACGCTTGCAC
+>seq_282	len 160	site #1	f 90
+TCGCTTGAAC
+>seq_289	len 160	site #1	r 83
+ACGCTTGCGC
+>seq_311	len 160	site #1	f 13
+ACGCTTGCAC
+>seq_320	len 160	site #1	f 61
+ACGCTTGCAC
+>seq_322	len 160	site #1	f 21
+ACGCTTGCAC
+>seq_330	len 160	site #1	f 103
+ACGCTTGCAC
+>seq_342	len 160	site #1	f 25
+ACGCTTGCAC
+>seq_365	len 160	site #1	r 92
+ACGCTCGCAC
+>seq_369	len 160	site #1	r 80
+ACGCCCGCAC
+>seq_376	len 160	site #1	f 2
+ACGCTTGCAC
+>seq_383	len 160	site #1	f 116
+ACGCTTGCAC
+>seq_397	len 160	site #1	f 80
+CCGTCGGCGC
+>seq_398	len 160	site #1	f 30
+ACGCTTGCAC
+>seq_405	len 160	site #1	f 149
+ACGCTTGCAC
+>seq_410	len 160	site #1	f 26
+ACGCTTGCAC
+>seq_424	len 160	site #1	f 15
+ACGCTGGAAC
+>seq_433	len 160	site #1	f 75
+ACGCTTGCAC
+>seq_446	len 160	site #1	f 15
+ACGCTTGCAC
+>seq_447	len 160	site #1	f 63
+ACGCTTGCAC
+>seq_447	len 160	site #2	f 138
+ACGCTTGCAC
+>seq_447	len 160	site #3	f 48
+ATGCTTGCAC
+>seq_454	len 160	site #1	f 18
+ACGCTTGCAC
+>seq_465	len 160	site #1	f 4
+ACGCTTGCAC
+>seq_472	len 160	site #1	f 1
+ACGCTTGCAC
+>seq_491	len 160	site #1	f 146
+ACGCTTGCAC
+>seq_501	len 160	site #1	r 47
+GCGCTTGGAC
+>seq_517	len 160	site #1	f 139
+ACGCTTGCAC
+>seq_532	len 160	site #1	f 103
+ACGCTTGCAC
+>seq_540	len 160	site #1	r 57
+ACGCTTGGGC
+>seq_547	len 160	site #1	f 121
+ACGCCTTCAC
+>seq_557	len 160	site #1	f 54
+ACGCTTGCAC
+>seq_569	len 160	site #1	f 108
+ACGCTTGCAC
+>seq_575	len 160	site #1	r 46
+ACGTTGGCAC
+>seq_577	len 160	site #1	r 17
+GCGCCTGCAC
+>seq_594	len 160	site #1	f 60
+ACGCTTGCAC
+>seq_602	len 160	site #1	f 86
+ACGCTTGCAC
+>seq_605	len 160	site #1	f 35
+ACGCCTGCTC
+>seq_613	len 160	site #1	f 52
+ACGCTTGCAC
+>seq_636	len 160	site #1	f 81
+ACGCTTGCAC
+>seq_650	len 160	site #1	f 122
+ACGCTTGCAC
+>seq_658	len 160	site #1	f 42
+ACGCTTGCAC
+>seq_659	len 160	site #1	f 38
+ACGCTTGCAC
+>seq_666	len 160	site #1	f 131
+ACGCTTGCAC
+>seq_674	len 160	site #1	f 121
+ACGCTTGCAC
+>seq_683	len 160	site #1	f 105
+ACGCTTGCAC
+>seq_691	len 160	site #1	f 77
+ACGCTTGCAC
+>seq_702	len 160	site #1	f 104
+ACGCTTGCAC
+>seq_705	len 160	site #1	f 110
+ACGCTTGCAC
+>seq_709	len 160	site #1	f 115
+ACGCTTGCAC
+>seq_713	len 160	site #1	f 94
+ACGCTTGCAC
+>seq_748	len 160	site #1	f 80
+ACGCTTGTTC
+>seq_749	len 160	site #1	f 1
+ACGCTTGCAC
+>seq_755	len 160	site #1	f 44
+ACGCTTGCAC
+>seq_762	len 160	site #1	f 33
+ACGCTTGCAC
+>seq_767	len 160	site #1	f 107
+ACGATTGGAC
+>seq_771	len 160	site #1	r 153
+ACGCTCGTAC
+>seq_777	len 160	site #1	f 121
+ACGCTTGCAC
+>seq_795	len 160	site #1	f 114
+ACGCTTGCAC
+>seq_796	len 160	site #1	f 145
+ACGCTTGCAC
+>seq_803	len 160	site #1	f 125
+ACGCTTGCAC
+>seq_820	len 160	site #1	f 54
+ACGCTTGCAC
+>seq_826	len 160	site #1	r 50
+TCGCTGGCAC
+>seq_827	len 160	site #1	f 19
+ACGCTTGCAC
+>seq_827	len 160	site #2	f 43
+ACGCTTTCGC
+>seq_836	len 160	site #1	f 107
+ACGCTTGCAC
+>seq_837	len 160	site #1	f 126
+ACGCTTGCAC
+>seq_842	len 160	site #1	f 127
+ACGCTTGCAC
+>seq_845	len 160	site #1	r 107
+ACGATGGCAC
+>seq_847	len 160	site #1	f 57
+ACGCTTGCAC
+>seq_850	len 160	site #1	f 81
+ACGCTTGCAC
+>seq_856	len 160	site #1	f 25
+ACGCTTGCAC
+>seq_865	len 160	site #1	f 96
+ACGCTTGCAC
+>seq_868	len 160	site #1	f 105
+ACGCTTGCAC
+>seq_881	len 160	site #1	f 39
+ACGCTTGCAC
+>seq_884	len 160	site #1	f 49
+ACGCTTGCAC
+>seq_897	len 160	site #1	f 4
+GCGATTGCAC
+>seq_898	len 160	site #1	f 101
+GCGCTGGCAC
+>seq_902	len 160	site #1	f 35
+ACGCTTGCAC
+>seq_903	len 160	site #1	f 32
+ACGCTTGCAC
+>seq_906	len 160	site #1	f 100
+ACGCTTGCAC
+>seq_909	len 160	site #1	f 133
+ACGCTTGCAC
+>seq_912	len 160	site #1	f 63
+ACGCTTGCAC
+>seq_914	len 160	site #1	f 72
+ACGCCGGCAC
+>seq_921	len 160	site #1	f 144
+ACGCTTGCAC
+>seq_924	len 160	site #1	f 73
+TCGCTTGGAC
+>seq_952	len 160	site #1	f 82
+TCGCTTGCTC
+>seq_958	len 160	site #1	f 10
+ACGCTTGCAC
+>seq_964	len 160	site #1	f 151
+ACGCTTGCAC
+>seq_969	len 160	site #1	f 126
+ACGCTTGCAC
+>seq_970	len 160	site #1	f 94
+ACGCTTGCAC
+>seq_980	len 160	site #1	f 64
+ACGCTTGCAC
+>seq_980	len 160	site #2	f 30
+ACGCTGGAAC
+>seq_981	len 160	site #1	f 124
+ACGCTTGCAC
+>seq_999	len 160	site #1	f 12
+ACGCTTGCAC
+>seq_1001	len 160	site #1	f 123
+ACGCTTGCAC
+>seq_1020	len 160	site #1	f 130
+ACGCTTGCAC
+>seq_1021	len 160	site #1	f 74
+ACGCTTGCAC
+>seq_1032	len 160	site #1	f 73
+ACGCTTGCAC
+>seq_1033	len 160	site #1	f 112
+ACGCTTGCAC
+>seq_1038	len 160	site #1	r 82
+GCGCTTTCAC
+>seq_1040	len 160	site #1	f 26
+ACGCTTGCAC
+>seq_1047	len 160	site #1	f 13
+ACGCTTGCAC
+>seq_1055	len 160	site #1	f 33
+ACGCTTGCAC
+>seq_1061	len 160	site #1	f 76
+GCGATTGCAC
+>seq_1065	len 160	site #1	f 127
+GCGCTGGCAC
+>seq_1067	len 160	site #1	f 4
+ACGCTTGCAC
+>seq_1074	len 160	site #1	f 56
+ACGCTTGCAC
+>seq_1081	len 160	site #1	f 62
+ACGCTTGCAC
+>seq_1086	len 160	site #1	f 146
+ACGCTTGCAC
+>seq_1092	len 160	site #1	f 18
+ACGCTTGCAC
+>seq_1098	len 160	site #1	f 30
+ACGCTTGCAC
+>seq_1107	len 160	site #1	f 58
+ACGCTTGCAC
+>seq_1110	len 160	site #1	f 105
+ACGCTTGCAC
+>seq_1113	len 160	site #1	f 135
+ACGCTTGCAC
+>seq_1118	len 160	site #1	f 49
+ACGCTTGCAC
+>seq_1131	len 160	site #1	r 133
+GTGACTGCTC
+>seq_1152	len 160	site #1	f 107
+ACGCTTGCAC
+>seq_1157	len 160	site #1	f 125
+ACGCTTGCAC
+>seq_1190	len 160	site #1	r 21
+ATGCTGGCAC
+>seq_1215	len 160	site #1	f 72
+ACGCTTGCAC
+>seq_1216	len 160	site #1	f 29
+ACGCTTGCAC
+>seq_1216	len 160	site #2	f 97
+ACGCTTTCTC
+>seq_1219	len 160	site #1	f 34
+ACGCTTGCAC
+>seq_1219	len 160	site #2	f 110
+ACGCTTGCAC
+>seq_1219	len 160	site #3	f 12
+ACGCTTGCAC
+>seq_1229	len 160	site #1	f 9
+ACGCTTGCAC
+>seq_1232	len 160	site #1	f 127
+ACGCTTGCAC
+>seq_1237	len 160	site #1	f 16
+ACGCTTGCAC
+>seq_1242	len 160	site #1	r 12
+ATGCTTGGAC
+>seq_1244	len 160	site #1	f 75
+ACGCTTGCAC
+>seq_1249	len 160	site #1	r 124
+ACGCTCTCAC
+>seq_1252	len 160	site #1	f 118
+ACGCTTGCAC
+>seq_1256	len 160	site #1	f 116
+ACGCTTGCAC
+>seq_1265	len 160	site #1	f 54
+ACGCTTGCAC
+>seq_1268	len 160	site #1	f 37
+ACGCTTGCAC
+>seq_1276	len 160	site #1	f 88
+ACGCTTGCAC
+>seq_1278	len 160	site #1	f 74
+ACGCTTGCAC
+>seq_1280	len 160	site #1	r 38
+ACGCTCGGAC
+>seq_1288	len 160	site #1	f 132
+ACGCTTGCAC
+>seq_1296	len 160	site #1	f 70
+ACGCTTGCAC
+>seq_1300	len 160	site #1	f 129
+ACGCTTGCAC
+>seq_1305	len 160	site #1	f 90
+ACGCTTGCAC
+>seq_1309	len 160	site #1	f 58
+ACGCTTGCAC
+>seq_1316	len 160	site #1	r 47
+ACGCTCGCAC
+>seq_1324	len 160	site #1	f 116
+ACGCTTGCAC
+>seq_1329	len 160	site #1	f 145
+ACGCTTGCAC
+>seq_1336	len 160	site #1	f 81
+ACGCTTGCAC
+>seq_1343	len 160	site #1	f 20
+ACGCTTGCAC
+>seq_1353	len 160	site #1	f 41
+ACGCTTGCAC
+>seq_1354	len 160	site #1	r 39
+ATGCTGGCAC
+>seq_1361	len 160	site #1	f 48
+ACGCTTGCAC
+>seq_1368	len 160	site #1	f 137
+ACGCTTGCAC
+>seq_1369	len 160	site #1	f 79
+ACGCTTGCAC
+>seq_1373	len 160	site #1	f 18
+ACGCTTGCAC
+>seq_1385	len 160	site #1	f 61
+AGGCTTGCAC
+>seq_1403	len 160	site #1	f 43
+ACGCTTGCAC
+>seq_1403	len 160	site #2	r 107
+ACGCTCTCAC
+>seq_1430	len 160	site #1	f 142
+ACGCTTGCAC
+>seq_1431	len 160	site #1	f 51
+ACGCTTGCAC
+>seq_1433	len 160	site #1	f 123
+ACGCTTGCAC
+>seq_1440	len 160	site #1	f 68
+ACGCTTGCAC
+>seq_1456	len 160	site #1	f 4
+ACGCTTGCAC
+>seq_1469	len 160	site #1	f 103
+ACGCTTGCAC
+>seq_1482	len 160	site #1	f 22
+ACGCTTGCAC
+>seq_1482	len 160	site #2	r 54
+ACGCTTGCGC
+>seq_1498	len 160	site #1	r 20
+AGGCTTTCAC
+>seq_1504	len 160	site #1	f 35
+ACGCTTGCAC
+>seq_1508	len 160	site #1	f 79
+ACGCTTGCAC
+>seq_1509	len 160	site #1	f 68
+ACGCTTGCAC
+>seq_1525	len 160	site #1	f 22
+ACGCTTGCAC
+>seq_1545	len 160	site #1	f 5
+ACGCTTGCAC
+>seq_1556	len 160	site #1	f 57
+ACGCTTGCAC
+>seq_1557	len 160	site #1	f 18
+ACGCTTGCAC
+>seq_1565	len 160	site #1	r 65
+ACGCTTGTTC
+>seq_1571	len 160	site #1	f 36
+ACGCTTGCAC
+>seq_1583	len 160	site #1	f 23
+ACGCTTGCAC
+>seq_1584	len 160	site #1	f 125
+ACGCTTGCAC
+>seq_1591	len 160	site #1	f 70
+ACGCTTGAGC
+>seq_1596	len 160	site #1	r 125
+GCGCTTGCAC
+>seq_1600	len 160	site #1	f 139
+ACGCTTGCAC
+>seq_1602	len 160	site #1	r 133
+ACGCTGGCAC
+>seq_1605	len 160	site #1	f 19
+ACGCTTGCAC
+>seq_1613	len 160	site #1	f 20
+ACGCTTGCAC
+>seq_1618	len 160	site #1	f 144
+ACGCTTGCAC
+>seq_1641	len 160	site #1	f 88
+ACGCCTGAAC
+>seq_1651	len 160	site #1	f 112
+ACGCTTGCAC
+>seq_1653	len 160	site #1	f 117
+ACGCTTGCAC
+>seq_1657	len 160	site #1	f 98
+ACGCTTGCAC
+>seq_1662	len 160	site #1	f 8
+GCGCTTGCAC
+>seq_1663	len 160	site #1	f 103
+ACGCTTGCAC
+>seq_1670	len 160	site #1	f 41
+ACGCTTGCAC
+>seq_1683	len 160	site #1	f 94
+ACGCTTGCAC
+>seq_1685	len 160	site #1	f 89
+ACGCTTGCAC
+>seq_1692	len 160	site #1	f 21
+ACGCTTGCAC
+>seq_1693	len 160	site #1	f 118
+ACGCTTGCAC
+>seq_1715	len 160	site #1	f 15
+ACGCTTGCAC
+>seq_1723	len 160	site #1	f 103
+ACGCTTGCAC
+>seq_1739	len 160	site #1	f 21
+ACGCTTGCAC
+>seq_1755	len 160	site #1	r 128
+ATGCTTGGAC
+>seq_1766	len 160	site #1	f 124
+ACGCTTGCAC
+>seq_1769	len 160	site #1	f 86
+ACGCTTGCAC
+>seq_1771	len 160	site #1	r 137
+ACGCTGGCTC
+>seq_1773	len 160	site #1	f 5
+ACGCTTGCAC
+>seq_1779	len 160	site #1	f 150
+ACGCTTGCAC
+>seq_1781	len 160	site #1	f 70
+ACGCTTGCAC
+>seq_1783	len 160	site #1	f 76
+ACGCTTGCAC
+>seq_1792	len 160	site #1	f 149
+ACGCTTGCAC
+>seq_1796	len 160	site #1	f 16
+ACGCTTGCAC
+>seq_1797	len 160	site #1	f 2
+ACGATTGCTC
+>seq_1806	len 160	site #1	f 10
+ACGCTTGCAC
+>seq_1808	len 160	site #1	f 7
+ACGCTTGCAC
+>seq_1823	len 160	site #1	f 135
+ACGCTGGTAC
+>seq_1846	len 160	site #1	f 138
+ACGCTTGCAC
+>seq_1851	len 160	site #1	f 36
+ACGCTTGCAC
+>seq_1853	len 160	site #1	r 113
+TCGCTTGCTC
+>seq_1855	len 160	site #1	r 56
+ACGCTTGCAC
+>seq_1866	len 160	site #1	f 60
+ACGCTTGCAC
+>seq_1879	len 160	site #1	f 94
+ACGCTTGCAC
+>seq_1882	len 160	site #1	f 21
+ACGCTTGCAC
+>seq_1888	len 160	site #1	f 67
+ACGCTTGCAC
+>seq_1889	len 160	site #1	f 81
+ACGCTTGCAC
+>seq_1913	len 160	site #1	f 21
+ACGCTTGCAC
+>seq_1916	len 160	site #1	r 116
+ACGCTGGCGC
+>seq_1928	len 160	site #1	r 99
+ACGCCGGCAC
+>seq_1941	len 160	site #1	r 40
+ACGCTGGGAC
+>seq_1942	len 160	site #1	f 123
+ACGCTTGCAC
+>seq_1966	len 160	site #1	f 76
+ACGCTTGCAC
+>seq_1970	len 160	site #1	f 22
+ACGCTTGCAC
+>seq_1978	len 160	site #1	f 117
+ACGCCTGAAC
+>seq_1984	len 160	site #1	r 58
+ACGACTGCAC
+>seq_1998	len 160	site #1	f 71
+ACGCTTGCAC
+>seq_2002	len 160	site #1	f 16
+ACGCTTGCAC
+>seq_2004	len 160	site #1	f 51
+ACGCTTGCAC
+>seq_2005	len 160	site #1	f 101
+ACGCTTGCAC
+>seq_2017	len 160	site #1	f 34
+ACGCTTGCAC
+>seq_2020	len 160	site #1	f 149
+ACGCTTGCAC
+>seq_2047	len 160	site #1	f 17
+ACGCTTGCAC
+>seq_2055	len 160	site #1	f 89
+ACGCTTGCAC
+>seq_2056	len 160	site #1	f 143
+ACGCTTGCAC
+>seq_2060	len 160	site #1	f 65
+ACGCTTGCAC
+>seq_2070	len 160	site #1	f 41
+ACGCTTGCAC
+>seq_2081	len 160	site #1	f 116
+AGGCTTGGAC
+>seq_2094	len 160	site #1	f 96
+ACGCTTGCAC
+>seq_2094	len 160	site #2	f 3
+ACGCTTGCAC
+>seq_2096	len 160	site #1	f 117
+ACGCTTGCAC
+>seq_2106	len 160	site #1	f 106
+ACGCTTGCAC
+>seq_2107	len 160	site #1	f 129
+ACGCTTGCAC
+>seq_2111	len 160	site #1	f 5
+ACGCTTGCAC
+>seq_2122	len 160	site #1	f 83
+ACGCTTGCAC
+>seq_2124	len 160	site #1	f 41
+ACGCTTGCAC
+>seq_2130	len 160	site #1	f 62
+ACGATTGCAC
+>seq_2132	len 160	site #1	f 80
+ACGCTTGCAC
+>seq_2142	len 160	site #1	f 40
+ACGCTTGCAC
+>seq_2146	len 160	site #1	f 78
+ACGCTTGCAC
+>seq_2146	len 160	site #2	f 18
+ACGCTTGCAC
+>seq_2147	len 160	site #1	f 55
+ACGCTTGCAC
+>seq_2149	len 160	site #1	f 28
+ACGCTTGCAC
+>seq_2150	len 160	site #1	f 51
+ACGCTTGCAC
+>seq_2150	len 160	site #2	f 79
+ACGCTTGCAC
+>seq_2160	len 160	site #1	r 100
+AGGCTTGGAC
+>seq_2161	len 160	site #1	f 125
+ACGCTTGCAC
+>seq_2165	len 160	site #1	f 44
+ACGCTTGCAC
+>seq_2181	len 160	site #1	f 62
+ACGCTTGCAC
+>seq_2188	len 160	site #1	f 91
+ACGCTTGCAC
+>seq_2188	len 160	site #2	r 153
+AGGCTGGCAC
+>seq_2189	len 160	site #1	f 7
+ACGCTTGCAC
+>seq_2199	len 160	site #1	f 121
+ACGCTTGGGC
+>seq_2201	len 160	site #1	f 109
+ACGCTTGCAC
+>seq_2202	len 160	site #1	f 135
+ACGCTTGGTC
+>seq_2205	len 160	site #1	f 22
+ACGCTTGCAC
+>seq_2215	len 160	site #1	f 148
+ACGCTTGCAC
+>seq_2222	len 160	site #1	r 144
+ACGCTGTCAC
+>seq_2224	len 160	site #1	r 58
+AGGCTTGCAC
+>seq_2231	len 160	site #1	f 17
+ACGCTTGCAC
+>seq_2249	len 160	site #1	r 55
+ACGCTCGCTC
+>seq_2268	len 160	site #1	f 95
+ACGCTTGCAC
+>seq_2272	len 160	site #1	r 85
+GCGCTGGCAC
+>seq_2277	len 160	site #1	f 125
+ACGCTCGAAC
+>seq_2295	len 160	site #1	f 114
+ACGCTGTCAC
+>seq_2297	len 160	site #1	f 95
+ACGCTTGCAC
+>seq_2317	len 160	site #1	f 29
+ACGCTTGCAC
+>seq_2329	len 160	site #1	f 79
+ACGCTTGCAC
+>seq_2336	len 160	site #1	f 96
+ACGCTTGCAC
+>seq_2341	len 160	site #1	f 84
+ACGCTTGCAC
+>seq_2342	len 160	site #1	f 67
+ACGCTTGCAC
+>seq_2348	len 160	site #1	f 137
+ACGCTTGCAC
+>seq_2362	len 160	site #1	r 84
+AGGCTGGCAC
+>seq_2379	len 160	site #1	f 148
+ACGCTTGCAC
+>seq_2390	len 160	site #1	f 54
+ACGCTTGCAC
+>seq_2397	len 160	site #1	f 99
+ACGCTTGCTC
+>seq_2404	len 160	site #1	f 16
+ACGCTTGCAC
+>seq_2409	len 160	site #1	f 23
+ACGCTTGCAC
+>seq_2416	len 160	site #1	r 110
+ACGCTTGATC
+>seq_2426	len 160	site #1	f 109
+ACGCTTGCAC
+>seq_2429	len 160	site #1	f 24
+ACGCTTGCAC
+>seq_2433	len 160	site #1	f 107
+ACGCTTGCAC
+>seq_2441	len 160	site #1	f 130
+ACGCTTGCAC
+>seq_2456	len 160	site #1	f 76
+ACGCTTGCAC
+>seq_2460	len 160	site #1	r 127
+TCGCTTGGAC
+>seq_2478	len 160	site #1	f 80
+ACGCTTGCAC
+>seq_2479	len 160	site #1	f 21
+ACGCTTGCAC
+>seq_2481	len 160	site #1	f 114
+ACGCTTGCAC
+>seq_2482	len 160	site #1	f 35
+ACGCTTGCAC
+>seq_2485	len 160	site #1	f 45
+ACGCTTGCAC
+>seq_2486	len 160	site #1	f 132
+AGGCTCGCAC
+>seq_2492	len 160	site #1	f 103
+ACGCTTGCAC
+>seq_2506	len 160	site #1	f 15
+ACGCTTGCAC
+>seq_2514	len 160	site #1	f 106
+ACGCTTGCAC
+>seq_2519	len 160	site #1	r 74
+ACGCTGGCGC
+>seq_2520	len 160	site #1	f 60
+ACGCTTGCAC
+>seq_2527	len 160	site #1	f 9
+ACGCTTGCAC
+>seq_2527	len 160	site #2	f 107
+GCGCTTGCGC
+>seq_2545	len 160	site #1	f 132
+ACGCTTGCAC
+>seq_2552	len 160	site #1	f 40
+ACGCTTGCAC
+>seq_2554	len 160	site #1	f 61
+ACGCTTGCAC
+>seq_2560	len 160	site #1	f 115
+ACGCTTGCAC
+>seq_2562	len 160	site #1	f 39
+ACGCTTGCAC
+>seq_2564	len 160	site #1	f 116
+ACGCTTGCAC
+>seq_2567	len 160	site #1	f 31
+ACGCTTGCAC
+>seq_2569	len 160	site #1	f 113
+ACGCTTGCAC
+>seq_2570	len 160	site #1	r 96
+ACGCTTGGAC
+>seq_2576	len 160	site #1	f 125
+ACGCTTGCAC
+>seq_2576	len 160	site #2	f 57
+ACGCTTGCAC
+>seq_2584	len 160	site #1	f 9
+ACGCTTGCAC
+>seq_2591	len 160	site #1	f 32
+ACGCTTGCAC
+>seq_2596	len 160	site #1	f 65
+ACGCTTGCAC
+>seq_2597	len 160	site #1	f 141
+ACGCTTGCAC
+>seq_2600	len 160	site #1	f 79
+ACGCTTGCAC
+>seq_2601	len 160	site #1	f 131
+ACGCTTGCAC
+>seq_2602	len 160	site #1	f 75
+ACGCTTGCAC
+>seq_2606	len 160	site #1	r 45
+ATGCTTGCTC
+>seq_2607	len 160	site #1	f 15
+ACGCTTGCAC
+>seq_2617	len 160	site #1	f 87
+ACGCTTGCAC
+>seq_2634	len 160	site #1	f 107
+ACGCTTGCAC
+>seq_2637	len 160	site #1	f 54
+ACGCTTGCAC
+>seq_2644	len 160	site #1	f 88
+ACGCTTGCAC
+>seq_2662	len 160	site #1	f 101
+ACGCTTGCAC
+>seq_2665	len 160	site #1	f 36
+ACGCTTGCAC
+>seq_2690	len 160	site #1	f 9
+ACGCTTGCAC
+>seq_2696	len 160	site #1	f 119
+ACGCTTGCAC
+>seq_2715	len 160	site #1	f 107
+ACGCTTGCAC
+>seq_2717	len 160	site #1	f 31
+ACGCTTGCAC
+>seq_2719	len 160	site #1	f 58
+ACGCTTGCAC
+>seq_2722	len 160	site #1	f 120
+ACGCTTGCAC
+>seq_2734	len 160	site #1	f 133
+ACGCTCTCAC
+>seq_2735	len 160	site #1	f 79
+ACGCTTGCAC
+>seq_2739	len 160	site #1	f 41
+GCGCTTGCAC
+>seq_2744	len 160	site #1	f 123
+ACGCTTGCAC
+>seq_2749	len 160	site #1	f 43
+ACGCTTGCAC
+>seq_2750	len 160	site #1	f 150
+ACGCTTGCAC
+>seq_2750	len 160	site #2	f 124
+ACGCTTGCAC
+>seq_2761	len 160	site #1	f 94
+ACGCTTGCAC
+>seq_2764	len 160	site #1	f 113
+ACGCTTGCAC
+>seq_2767	len 160	site #1	r 44
+ACGCTGTCAC
+>seq_2769	len 160	site #1	f 138
+ACGCTTGCAC
+>seq_2774	len 160	site #1	f 3
+ACGCTTGCAC
+>seq_2775	len 160	site #1	f 116
+ACGCTTGCAC
+>seq_2788	len 160	site #1	f 68
+ACGCTTGCAC
+>seq_2788	len 160	site #2	f 15
+ACGCTTGCAC
+>seq_2799	len 160	site #1	f 42
+ACGCTTGCAC
+>seq_2800	len 160	site #1	f 67
+ACGCTTGCAC
+>seq_2811	len 160	site #1	f 132
+ACGCTTGCAC
+>seq_2812	len 160	site #1	r 56
+ACGATTGCTC
+>seq_2818	len 160	site #1	f 76
+ACGCTTGCAC
+>seq_2822	len 160	site #1	f 76
+ACGCTTGCAC
+>seq_2823	len 160	site #1	f 80
+ACGCTTGCAC
+>seq_2830	len 160	site #1	f 16
+ACGCTTGCAC
+>seq_2850	len 160	site #1	f 113
+ACGCTTGCAC
+>seq_2903	len 160	site #1	f 114
+ACGCTTGCAC
+>seq_2910	len 160	site #1	f 149
+ACGCTTGCAC
+>seq_2912	len 160	site #1	f 9
+ACGCTTGCAC
+>seq_2912	len 160	site #2	f 62
+ACGCTTGCAC
+>seq_2914	len 160	site #1	f 5
+ACGCTTGCAC
+>seq_2926	len 160	site #1	f 118
+ACGCTTGCAC
+>seq_2927	len 160	site #1	f 17
+ACGCTTGCAC
+>seq_2929	len 160	site #1	f 32
+ACGCTTGCAC
+>seq_2936	len 160	site #1	f 149
+ACGCTTGCAC
+>seq_2943	len 160	site #1	f 62
+GCGCTGGCAC
+>seq_2944	len 160	site #1	r 24
+TCGCTCGCAC
+>seq_2954	len 160	site #1	f 86
+ACGCTTGCAC
+>seq_2962	len 160	site #1	f 51
+GCGCCTGCAC
+>seq_2966	len 160	site #1	f 144
+ACGCTTGCAC
+>seq_2968	len 160	site #1	f 2
+ACGCTTGCAC
+>seq_2993	len 160	site #1	f 66
+ACGCTTGCAC
+>seq_3014	len 160	site #1	f 140
+ACCCTTGCAC
+>seq_3015	len 160	site #1	f 3
+ACGCTTGCAC
+>seq_3026	len 160	site #1	f 65
+ACGCTTGCAC
+>seq_3028	len 160	site #1	f 1
+GCGCTTGGAC
+>seq_3035	len 160	site #1	f 42
+AGGCTTGCAC
+>seq_3044	len 160	site #1	f 24
+ACGCTTGCAC
+>seq_3046	len 160	site #1	f 101
+ACGCTTGCAC
+>seq_3053	len 160	site #1	f 132
+ACGCTTGCAC
+>seq_3061	len 160	site #1	f 3
+ACGCTTGCAC
+>seq_3064	len 160	site #1	f 2
+ACGCTTGCAC
+>seq_3066	len 160	site #1	f 39
+ACGCTTGCAC
+>seq_3074	len 160	site #1	f 66
+ACGCTTGCAC
+>seq_3076	len 160	site #1	f 26
+ACGCCCGCAC
+>seq_3077	len 160	site #1	f 49
+ACGCTTGCGC
+>seq_3103	len 160	site #1	f 119
+ACGCTTGCAC
+>seq_3108	len 160	site #1	f 30
+ACGCTTGCAC
+>seq_3118	len 160	site #1	f 34
+ACGCTTGCAC
+>seq_3128	len 160	site #1	f 11
+ACGCTTGCAC
+>seq_3130	len 160	site #1	f 10
+ACGCTTGCAC
+>seq_3134	len 160	site #1	f 6
+ACGCTTGCAC
+>seq_3136	len 160	site #1	f 50
+ACGCTTGCAC
+>seq_3141	len 160	site #1	f 132
+ACGCTTGCAC
+>seq_3155	len 160	site #1	f 32
+ACGATTGTAC
+>seq_3163	len 160	site #1	f 67
+ACGCTTGCAC
+>seq_3164	len 160	site #1	r 30
+AGGCTGGCAC
+>seq_3165	len 160	site #1	f 7
+ACGCTTGCAC
+>seq_3165	len 160	site #2	f 116
+ACGCTTGGGC
+>seq_3180	len 160	site #1	f 35
+ACGCTTGCAC
+>seq_3192	len 160	site #1	f 123
+ACGCTTGCAC
+>seq_3192	len 160	site #2	r 28
+ACGATGGCAC
+>seq_3212	len 160	site #1	f 28
+ACGCTTGCAC
+>seq_3223	len 160	site #1	f 53
+ACGCTTGCAC
+>seq_3226	len 160	site #1	f 6
+ACGCTTGCAC
+>seq_3234	len 160	site #1	f 10
+ACGCTTGCAC
+>seq_3242	len 160	site #1	f 145
+ACGCTTGCAC
+>seq_3242	len 160	site #2	f 79
+GCGCTGGCAC
+>seq_3243	len 160	site #1	f 101
+ACGCTTGCAC
+>seq_3250	len 160	site #1	f 78
+ACGCTTGCGC
+>seq_3250	len 160	site #2	r 24
+TCGCTTGAAC
+>seq_3270	len 160	site #1	f 102
+ACGCTTGCAC
+>seq_3279	len 160	site #1	f 98
+ACGCTTGCAC
+>seq_3281	len 160	site #1	f 79
+ACGCTTGCAC
+>seq_3293	len 160	site #1	f 82
+ACGCTTGCAC
+>seq_3300	len 160	site #1	f 37
+ACGCTTGATC
+>seq_3314	len 160	site #1	r 113
+TCGCTTTCAC
+>seq_3327	len 160	site #1	f 18
+ACGCTTGCAC
+>seq_3344	len 160	site #1	f 59
+ACGCTTGCAC
+>seq_3359	len 160	site #1	f 30
+ACGCTTGCAC
+>seq_3364	len 160	site #1	f 32
+ACGCTTGCAC
+>seq_3376	len 160	site #1	r 60
+ACGCTTGTAC
+>seq_3385	len 160	site #1	f 108
+ACGCTTGCAC
+>seq_3404	len 160	site #1	f 137
+ACGCTTGCAC
+>seq_3405	len 160	site #1	f 68
+ACGCTTGCAC
+>seq_3411	len 160	site #1	f 127
+ACGCTTGCAC
+>seq_3422	len 160	site #1	r 96
+ACGCTTGCTC
+>seq_3434	len 160	site #1	f 6
+ACGCCCGCAC
+>seq_3446	len 160	site #1	f 20
+ACGCTTGCAC
+>seq_3452	len 160	site #1	f 136
+ACGCTTGCAC
+>seq_3452	len 160	site #2	f 85
+ACGCTTGCAC
+>seq_3467	len 160	site #1	f 84
+ACGCTTGCAC
+>seq_3467	len 160	site #2	r 31
+GCGCTTGGAC
+>seq_3469	len 160	site #1	f 126
+ACGCTTGCAC
+>seq_3472	len 160	site #1	f 25
+ACGCTTGCAC
+>seq_3474	len 160	site #1	f 67
+ACGCTTGCAC
+>seq_3490	len 160	site #1	f 10
+ACGCTTGCAC
+>seq_3495	len 160	site #1	r 11
+ACGCTCGCTC
+>seq_3499	len 160	site #1	f 95
+ACGCTTGCAC
+>seq_3502	len 160	site #1	f 95
+ACGCTTGCAC
+>seq_3503	len 160	site #1	f 73
+ACGCTTGCAC
+>seq_3513	len 160	site #1	f 33
+ACGCTTGCAC
+>seq_3525	len 160	site #1	f 121
+ACGCTTGCAC
+>seq_3525	len 160	site #2	f 54
+ACGCTTGCAC
+>seq_3527	len 160	site #1	r 105
+GCGCTTGGAC
+>seq_3536	len 160	site #1	r 120
+ACGATTTCAC
+>seq_3537	len 160	site #1	f 8
+ACGCTTGCAC
+>seq_3538	len 160	site #1	f 148
+ACGCTTGCAC
+>seq_3538	len 160	site #2	f 121
+ACGCTGGCTC
+>seq_3549	len 160	site #1	f 139
+ACGCTTGCAC
+>seq_3553	len 160	site #1	f 53
+ACGCTTGCAC
+>seq_3581	len 160	site #1	f 93
+ATGCTTGCAC
+>seq_3582	len 160	site #1	r 82
+ACGCCTGGAC
+>seq_3589	len 160	site #1	f 24
+ACGCTTGCAC
+>seq_3591	len 160	site #1	f 62
+ACGCTTGCAC
+>seq_3592	len 160	site #1	f 127
+ACGCTTGGGC
+>seq_3608	len 160	site #1	f 114
+ACGCTTGCAC
+>seq_3619	len 160	site #1	f 70
+ACGCTTGCAC
+>seq_3637	len 160	site #1	f 37
+ACCCTTGCAC
+>seq_3641	len 160	site #1	f 12
+ACGCTTGCAC
+>seq_3658	len 160	site #1	f 72
+ACGCTTGCAC
+>seq_3661	len 160	site #1	f 19
+ACGCTTGCAC
+>seq_3666	len 160	site #1	f 37
+ATGCTTGCAC
+>seq_3673	len 160	site #1	f 131
+ACGCTTGCAC
+>seq_3688	len 160	site #1	f 151
+CCGCTCGCTC
+>seq_3693	len 160	site #1	f 94
+ACGCTTGCAC
+>seq_3701	len 160	site #1	f 150
+ACGCTTGCAC
+>seq_3712	len 160	site #1	f 65
+ACGCTTGCAC
+>seq_3713	len 160	site #1	f 17
+ACGCTTGCAC
+>seq_3714	len 160	site #1	f 109
+ACGCTTGCAC
+>seq_3720	len 160	site #1	f 48
+TCGCTTGCTC
+>seq_3729	len 160	site #1	f 37
+ACGCTTGCAC
+>seq_3730	len 160	site #1	f 22
+ACGCTTGCAC
+>seq_3733	len 160	site #1	f 85
+ACGCTTGCAC
+>seq_3745	len 160	site #1	f 12
+ACGCTTGCAC
+>seq_3747	len 160	site #1	f 137
+ACGCTTGCAC
+>seq_3751	len 160	site #1	r 125
+GCGCTTTCAC
+>seq_3752	len 160	site #1	r 77
+AGGCTTGCTC
+>seq_3762	len 160	site #1	f 72
+ACGCTTGCAC
+>seq_3787	len 160	site #1	f 91
+ACGCTTGCAC
+>seq_3809	len 160	site #1	f 87
+ACGCTTGCAC
+>seq_3816	len 160	site #1	f 49
+ACGCTTGCAC
+>seq_3817	len 160	site #1	f 83
+ACGCTTGCAC
+>seq_3829	len 160	site #1	f 11
+ACGCTTGCAC
+>seq_3837	len 160	site #1	f 125
+ACGCTTGCAC
+>seq_3847	len 160	site #1	f 56
+ACGCTTGCAC
+>seq_3854	len 160	site #1	f 26
+ACGCTTGCAC
+>seq_3860	len 160	site #1	f 146
+ACGTTTGCAC
+>seq_3869	len 160	site #1	f 115
+ACGCTTGCAC
+>seq_3879	len 160	site #1	f 20
+ACGCTTGCAC
+>seq_3898	len 160	site #1	f 59
+ACGCTTGCAC
+>seq_3905	len 160	site #1	f 82
+ACGCTGGTAC
+>seq_3909	len 160	site #1	r 147
+ACGCCCGCAC
+>seq_3910	len 160	site #1	f 18
+ACGCTTGCAC
+>seq_3912	len 160	site #1	r 87
+ACGCTTTGAC
+>seq_3924	len 160	site #1	f 145
+ACGCTTGCAC
+>seq_3925	len 160	site #1	f 144
+ACGCTTGCAC
+>seq_3925	len 160	site #2	f 28
+ACGCTTGCAC
+>seq_3951	len 160	site #1	f 127
+ACGCTTGCAC
+>seq_3961	len 160	site #1	f 45
+ACGCTTGCAC
+>seq_3972	len 160	site #1	f 86
+ACGCTTGCAC
+>seq_4007	len 160	site #1	f 72
+ACGCTTGCAC
+>seq_4010	len 160	site #1	f 140
+ACGCTGGCGC
+>seq_4015	len 160	site #1	f 80
+GCGCTTGCTC
+>seq_4020	len 160	site #1	r 37
+ATGCTTGCAC
+>seq_4025	len 160	site #1	f 58
+ACGCTTGCAC
+>seq_4028	len 160	site #1	f 21
+ACGCTTGCAC
+>seq_4033	len 160	site #1	f 21
+ACGCTTGCAC
+>seq_4040	len 160	site #1	f 95
+ACGCTTGCAC
+>seq_4057	len 160	site #1	f 82
+ACGCTTGCAC
+>seq_4061	len 160	site #1	r 73
+GCGCTTGCTC
+>seq_4070	len 160	site #1	f 105
+ACGCTTGCAC
+>seq_4078	len 160	site #1	f 140
+ACGCTTGCAC
+>seq_4089	len 160	site #1	f 126
+ACGCTTGCAC
+>seq_4093	len 160	site #1	f 114
+ACGCTTGCAC
+>seq_4094	len 160	site #1	f 122
+ACGCTTGCAC
+>seq_4107	len 160	site #1	f 73
+ACGCTTGCAC
+>seq_4108	len 160	site #1	f 10
+ACGCTTGCAC
+>seq_4113	len 160	site #1	f 34
+ACGCTTGCAC
+>seq_4118	len 160	site #1	f 103
+ACGCTTGCAC
+>seq_4119	len 160	site #1	f 99
+ACGCTTGCAC
+>seq_4137	len 160	site #1	f 56
+ACGCTTGCAC
+>seq_4148	len 160	site #1	r 114
+ACGCTTGAAC
+>seq_4159	len 160	site #1	f 51
+ACGCTTGCAC
+>seq_4159	len 160	site #2	f 87
+ACGCTCGCAC
+>seq_4163	len 160	site #1	f 29
+ACGCTTGCAC
+>seq_4175	len 160	site #1	f 76
+ACGCTTGCAC
+>seq_4192	len 160	site #1	f 16
+ACGCTTGCAC
+>seq_4192	len 160	site #2	f 113
+ACGCTTGCAC
+>seq_4201	len 160	site #1	f 119
+ACGCTTGCAC
+>seq_4210	len 160	site #1	f 33
+ACGCTTGCAC
+>seq_4229	len 160	site #1	f 115
+ACGCTTGCAC
+>seq_4231	len 160	site #1	f 30
+ACGCTTGCAC
+>seq_4241	len 160	site #1	f 116
+ACCCTTGCAC
+>seq_4243	len 160	site #1	f 51
+ACGCTTGCAC
+>seq_4244	len 160	site #1	f 4
+ACGCTTGCAC
+>seq_4266	len 160	site #1	f 52
+ACGCTTGCAC
+>seq_4278	len 160	site #1	f 19
+ACGCTTGCAC
+>seq_4281	len 160	site #1	f 59
+ACGCTTGCAC
+>seq_4305	len 160	site #1	f 58
+ACGCTTGCAC
+>seq_4308	len 160	site #1	f 15
+ACGCTTGCAC
+>seq_4320	len 160	site #1	f 134
+ACGCTTGCAC
+>seq_4324	len 160	site #1	r 58
+ACGCTTGGAC
+>seq_4325	len 160	site #1	f 32
+ACGCTTGCAC
+>seq_4326	len 160	site #1	f 74
+ACGCTTGCAC
+>seq_4326	len 160	site #2	r 59
+ACGATTGGAC
+>seq_4330	len 160	site #1	r 151
+ACGCTTTGAC
+>seq_4331	len 160	site #1	f 141
+ACGCTTGCAC
+>seq_4335	len 160	site #1	f 75
+ACGCTTGCAC
+>seq_4336	len 160	site #1	f 22
+ACGCTTGCAC
+>seq_4340	len 160	site #1	f 129
+ACGCTTGCAC
+>seq_4345	len 160	site #1	f 64
+ACGCTTGCAC
+>seq_4373	len 160	site #1	f 133
+ACGCTGGCAC
+>seq_4376	len 160	site #1	f 6
+ACGCTTGCAC
+>seq_4381	len 160	site #1	f 145
+ACGCTTGCAC
+>seq_4385	len 160	site #1	f 18
+ACGCTTGCAC
+>seq_4400	len 160	site #1	f 63
+ACGCTTGCAC
+>seq_4421	len 160	site #1	f 42
+ACGCTTGCAC
+>seq_4422	len 160	site #1	f 11
+ACGCTTGCAC
+>seq_4430	len 160	site #1	f 71
+ACGCTTGCAC
+>seq_4434	len 160	site #1	f 24
+ACGCTTGCAC
+>seq_4443	len 160	site #1	f 57
+ACGCTTGCAC
+>seq_4443	len 160	site #2	f 24
+ACGCTCGGAC
+>seq_4447	len 160	site #1	r 77
+ACGTTTGCAC
+>seq_4448	len 160	site #1	f 21
+ACGCTTGCAC
+>seq_4450	len 160	site #1	f 123
+ACGCTTGCAC
+>seq_4451	len 160	site #1	f 24
+ACGCTTGCAC
+>seq_4464	len 160	site #1	f 24
+ACGCTTGCAC
+>seq_4471	len 160	site #1	f 17
+ACGCTTGCAC
+>seq_4472	len 160	site #1	f 69
+ACGCTTGCAC
+>seq_4486	len 160	site #1	f 43
+ACGCTTGCAC
+>seq_4488	len 160	site #1	r 134
+AGGATTGCAC
+>seq_4493	len 160	site #1	f 136
+ACGCTTGCAC
+>seq_4502	len 160	site #1	f 125
+ACGCTTGCAC
+>seq_4504	len 160	site #1	f 15
+TCGCTTTCAC
+>seq_4505	len 160	site #1	f 106
+ACGCTTGCAC
+>seq_4517	len 160	site #1	f 143
+ACGCTTGCAC
+>seq_4517	len 160	site #2	r 136
+ACGCTGGAAC
+>seq_4519	len 160	site #1	r 114
+TCGCTTGGAC
+>seq_4520	len 160	site #1	r 79
+ACGATCGCAC
+>seq_4526	len 160	site #1	f 151
+ACGCTTGCAC
+>seq_4548	len 160	site #1	f 137
+ACGCTTGCAC
+>seq_4551	len 160	site #1	f 4
+ACGCTTGCAC
+>seq_4559	len 160	site #1	f 25
+ACGCTTGCAC
+>seq_4571	len 160	site #1	f 128
+ACGCTTGCAC
+>seq_4586	len 160	site #1	f 100
+ACGCTTGCAC
+>seq_4610	len 160	site #1	f 127
+ACGCTTGCAC
+>seq_4625	len 160	site #1	f 150
+ACGCTTGCAC
+>seq_4641	len 160	site #1	f 75
+ACGCTTGCAC
+>seq_4643	len 160	site #1	f 48
+ACGCTTGCAC
+>seq_4649	len 160	site #1	f 106
+ACGCTTGCAC
+>seq_4656	len 160	site #1	f 47
+ACGCTTGCAC
+>seq_4658	len 160	site #1	r 122
+GCGCTTGTAC
+>seq_4659	len 160	site #1	f 71
+ACGCTTGCAC
+>seq_4660	len 160	site #1	f 133
+ACGCTTGCAC
+>seq_4670	len 160	site #1	f 23
+ACGCTTTCAC
+>seq_4675	len 160	site #1	f 101
+ACGCTTGCAC
+>seq_4679	len 160	site #1	r 103
+ATGCTCGCAC
+>seq_4682	len 160	site #1	f 44
+ACGCTTGCAC
+>seq_4682	len 160	site #2	r 25
+ACGCTTGTTC
+>seq_4690	len 160	site #1	f 126
+ACGCTTGCAC
+>seq_4694	len 160	site #1	r 60
+CCGCTTGCAC
+>seq_4696	len 160	site #1	f 87
+ACGCTTGCAC
+>seq_4709	len 160	site #1	f 109
+ACGCTTGCAC
+>seq_4720	len 160	site #1	f 86
+ACGCTTGCAC
+>seq_4732	len 160	site #1	f 23
+ACGCTTGCAC
+>seq_4736	len 160	site #1	r 144
+AGGCTTGCAC
+>seq_4740	len 160	site #1	f 120
+ACGCTTGCAC
+>seq_4740	len 160	site #2	f 100
+ACGCTTGCAC
+>seq_4741	len 160	site #1	r 130
+ACGCTTTCTC
+>seq_4749	len 160	site #1	f 4
+ACGCTTGCAC
+>seq_4755	len 160	site #1	r 68
+ACGCCTGCGC
+>seq_4760	len 160	site #1	r 98
+TCGCTTGGAC
+>seq_4764	len 160	site #1	f 64
+ACGCTTGCAC
+>seq_4775	len 160	site #1	f 144
+ACGCTTGCAC
+>seq_4777	len 160	site #1	f 106
+ACGCTTGCAC
+>seq_4786	len 160	site #1	f 98
+ACGCTTGCAC
+>seq_4789	len 160	site #1	f 31
+ACGCTTGCAC
+>seq_4797	len 160	site #1	f 1
+ACGCTTGCAC
+>seq_4803	len 160	site #1	f 50
+ACGCTTGCAC
+>seq_4805	len 160	site #1	f 82
+ACGCTTGCAC
+>seq_4813	len 160	site #1	f 150
+ACGCTTGCAC
+>seq_4823	len 160	site #1	f 76
+ACGCTTGCAC
+>seq_4831	len 160	site #1	f 119
+GCGATTGCAC
+>seq_4838	len 160	site #1	f 97
+ACGCTTGCAC
+>seq_4839	len 160	site #1	f 38
+ACGCTTGCAC
+>seq_4841	len 160	site #1	f 61
+ACGCTGTCAC
+>seq_4846	len 160	site #1	f 84
+ACGCTTGCAC
+>seq_4848	len 160	site #1	r 116
+ACGCCGGCAC
+>seq_4849	len 160	site #1	f 102
+ACGATTGCTC
+>seq_4852	len 160	site #1	f 104
+ATGCTGGCAC
+>seq_4857	len 160	site #1	f 149
+ACGCTTGCAC
+>seq_4860	len 160	site #1	f 35
+ACGCTTGCAC
+>seq_4866	len 160	site #1	f 112
+ACGCTCGTAC
+>seq_4872	len 160	site #1	f 139
+ACGCTTGCAC
+>seq_4888	len 160	site #1	f 74
+ACGCTTGCAC
+>seq_4900	len 160	site #1	f 23
+ACGCTTGCAC
+>seq_4903	len 160	site #1	f 149
+ACGCTTGCAC
+>seq_4907	len 160	site #1	f 91
+GCGCCTGCAC
+>seq_4908	len 160	site #1	f 58
+ACGCTTGCAC
+>seq_4917	len 160	site #1	f 131
+ACGCTTGCAC
+>seq_4929	len 160	site #1	r 84
+ACGCTCGGAC
+>seq_4931	len 160	site #1	f 28
+ACGCTTGCAC
+>seq_4942	len 160	site #1	f 12
+ACGCTTGCAC
+>seq_4955	len 160	site #1	f 137
+ACGCTTGCAC
+>seq_4957	len 160	site #1	r 125
+ACGCTTGGGC
+>seq_4962	len 160	site #1	f 8
+ACGCTTGCAC
+>seq_4966	len 160	site #1	f 111
+ACGCTTGCAC
+>seq_4974	len 160	site #1	f 13
+ACGCTTGCAC
+>seq_4976	len 160	site #1	f 14
+ACGCTTGCAC
+>seq_4977	len 160	site #1	f 142
+ACGCTTGCAC
+>seq_4996	len 160	site #1	f 109
+ACGCTTGCAC
+>seq_5002	len 160	site #1	f 26
+ACGCTTGCAC
+>seq_5008	len 160	site #1	f 86
+ACGCTTGCAC
+>seq_5009	len 160	site #1	f 127
+ACGCTTGCAC
+>seq_5010	len 160	site #1	f 14
+ACGCTTGGGC
+>seq_5011	len 160	site #1	f 28
+ACGCTTGCAC
+>seq_5012	len 160	site #1	f 53
+ACGCTTGCAC
+>seq_5017	len 160	site #1	f 87
+ACGCTTGCAC
+>seq_5021	len 160	site #1	f 108
+ACGCTTGCAC
+>seq_5022	len 160	site #1	f 70
+ACGCTTGGTC
+>seq_5027	len 160	site #1	f 116
+ACGCTTGCAC
+>seq_5038	len 160	site #1	r 43
+GCGCTGGCAC
+>seq_5042	len 160	site #1	f 17
+ACGCTTGCAC
+>seq_5047	len 160	site #1	f 106
+ACGCTTGCAC
+>seq_5068	len 160	site #1	f 29
+ACGCTTGCAC
+>seq_5103	len 160	site #1	r 14
+ACGATCGCAC
+>seq_5105	len 160	site #1	f 22
+ACGCTTGCAC
+>seq_5106	len 160	site #1	f 69
+ACGCTTGCAC
+>seq_5118	len 160	site #1	f 30
+ACGCTTGCAC
+>seq_5120	len 160	site #1	f 38
+ACGCTTGCAC
+>seq_5130	len 160	site #1	r 135
+ATGCTTGGAC
+>seq_5149	len 160	site #1	f 21
+ACGCTTGCAC
+>seq_5159	len 160	site #1	f 70
+ACGCTTGCAC
+>seq_5165	len 160	site #1	f 136
+ACGCTTGCAC
+>seq_5175	len 160	site #1	f 88
+ACGCTTGCAC
+>seq_5192	len 160	site #1	r 91
+ACGCTGGCAC
+>seq_5196	len 160	site #1	f 75
+ACGCTTGCAC
+>seq_5198	len 160	site #1	f 90
+ACGATTGGAC
+>seq_5200	len 160	site #1	f 116
+ACGCTTGCAC
+>seq_5201	len 160	site #1	f 8
+ACGCTTGCAC
+>seq_5204	len 160	site #1	f 10
+ACGCTTGCAC
+>seq_5204	len 160	site #2	f 117
+ACGCTTGCAC
+>seq_5208	len 160	site #1	r 143
+ACGCTTGGGC
+>seq_5211	len 160	site #1	f 49
+ACGCTTGCAC
+>seq_5214	len 160	site #1	f 19
+ACGCTTGCAC
+>seq_5222	len 160	site #1	f 110
+ACGCTTGCAC
+>seq_5228	len 160	site #1	f 20
+ACGCCGGCAC
+>seq_5231	len 160	site #1	f 21
+ACGCTTGCAC
+>seq_5267	len 160	site #1	f 150
+ACGCTTGCAC
+>seq_5268	len 160	site #1	f 131
+ACGCTTGCAC
+>seq_5270	len 160	site #1	f 83
+ACGCTTGCAC
+>seq_5271	len 160	site #1	f 25
+ACGCTTGCAC
+>seq_5273	len 160	site #1	f 37
+ACGCCCGCAC
+>seq_5294	len 160	site #1	f 92
+ACGCTTGCAC
+>seq_5302	len 160	site #1	f 43
+ACGCTTGCAC
+>seq_5306	len 160	site #1	f 137
+ACGCTTGCAC
+>seq_5314	len 160	site #1	f 116
+ACGCTTGCAC
+>seq_5314	len 160	site #2	f 18
+ACGCTTGCAC
+>seq_5331	len 160	site #1	f 97
+ACGCTTGCAC
+>seq_5333	len 160	site #1	f 96
+ACGCTGGTAC
+>seq_5339	len 160	site #1	f 42
+ACGCTTGCAC
+>seq_5349	len 160	site #1	f 15
+ACGCTTGCAC
+>seq_5382	len 160	site #1	f 52
+ACGCTTGCAC
+>seq_5401	len 160	site #1	f 7
+ACGCTTGCAC
+>seq_5409	len 160	site #1	f 111
+ACGCTTGCAC
+>seq_5410	len 160	site #1	f 138
+ACGCTTGCAC
+>seq_5413	len 160	site #1	f 107
+ACGCTTGCAC
+>seq_5413	len 160	site #2	f 42
+ACGCTTGCAC
+>seq_5413	len 160	site #3	r 29
+TCGCTTGCAC
+>seq_5426	len 160	site #1	f 135
+ACGCTTGCAC
+>seq_5427	len 160	site #1	f 28
+ACGCTTGCAC
+>seq_5428	len 160	site #1	f 40
+ACGCCTGCTC
+>seq_5436	len 160	site #1	f 121
+ACGCTTGCAC
+>seq_5437	len 160	site #1	f 81
+ACGCTTGCAC
+>seq_5465	len 160	site #1	f 58
+ACGCTTGCAC
+>seq_5478	len 160	site #1	f 130
+ACGCTTGCAC
+>seq_5484	len 160	site #1	f 42
+ACGCTTGCAC
+>seq_5490	len 160	site #1	f 109
+ACGCTCGCGC
+>seq_5495	len 160	site #1	f 90
+ACGCTTGCAC
+>seq_5500	len 160	site #1	f 7
+ACGCTTGCAC
+>seq_5506	len 160	site #1	f 20
+ACGCTTGCAC
+>seq_5508	len 160	site #1	f 91
+ACGCTTGCAC
+>seq_5512	len 160	site #1	f 84
+ATGCTCGCAC
+>seq_5521	len 160	site #1	f 19
+ACGCTTGCAC
+>seq_5526	len 160	site #1	f 119
+ACGCTTGCAC
+>seq_5533	len 160	site #1	f 6
+ACGCTTGCAC
+>seq_5536	len 160	site #1	r 12
+GCGATTGCAC
+>seq_5538	len 160	site #1	f 78
+ACGCTTGCAC
+>seq_5540	len 160	site #1	r 133
+TCGCTTGGAC
+>seq_5548	len 160	site #1	f 90
+ACGCTTGCAC
+>seq_5560	len 160	site #1	f 131
+ACGCTTGCAC
+>seq_5570	len 160	site #1	f 41
+ACGCTTGCAC
+>seq_5571	len 160	site #1	f 87
+ACGCTTGCAC
+>seq_5582	len 160	site #1	f 48
+ACGCTTGCAC
+>seq_5585	len 160	site #1	f 40
+ACGCTTGCAC
+>seq_5586	len 160	site #1	f 4
+ACGCTCGCTC
+>seq_5587	len 160	site #1	f 2
+ACGCTTGCAC
+>seq_5619	len 160	site #1	r 45
+TCGCTTGGAC
+>seq_5623	len 160	site #1	f 44
+ACGCTTGCAC
+>seq_5640	len 160	site #1	r 11
+TCGATTGCAC
+>seq_5641	len 160	site #1	f 123
+ACGCTTGCAC
+>seq_5643	len 160	site #1	f 109
+ACGCTTGCAC
+>seq_5660	len 160	site #1	f 99
+ACGCTTGCAC
+>seq_5680	len 160	site #1	f 65
+ACGCTTGCAC
+>seq_5685	len 160	site #1	r 71
+ACGCTTGGTC
+>seq_5689	len 160	site #1	f 50
+ACGCTTGCAC
+>seq_5690	len 160	site #1	f 13
+ACGCTTGCAC
+>seq_5701	len 160	site #1	r 88
+ACGCTGGCAC
+>seq_5707	len 160	site #1	f 109
+ACGCTTGCAC
+>seq_5709	len 160	site #1	f 41
+ACGCTTGCAC
+>seq_5717	len 160	site #1	f 64
+ACGCTTGCAC
+>seq_5720	len 160	site #1	f 74
+ACGCTTGCAC
+>seq_5728	len 160	site #1	f 131
+ACGCTTGCAC
+>seq_5730	len 160	site #1	f 12
+ACGCTTGCAC
+>seq_5732	len 160	site #1	f 52
+ACGCTGGTAC
+>seq_5748	len 160	site #1	f 37
+ACGCTTGCAC
+>seq_5760	len 160	site #1	f 107
+ACGCTTGCAC
+>seq_5761	len 160	site #1	f 84
+ACGCTTGCAC
+>seq_5762	len 160	site #1	f 77
+ACGCTTGCAC
+>seq_5771	len 160	site #1	f 122
+ACGCTTGCAC
+>seq_5777	len 160	site #1	f 104
+ACGCTTGCAC
+>seq_5779	len 160	site #1	f 118
+ACGCTTGCAC
+>seq_5800	len 160	site #1	f 115
+ACGCTTGCAC
+>seq_5806	len 160	site #1	f 118
+ACGCTTGCAC
+>seq_5806	len 160	site #2	f 7
+ACGCTTGCAC
+>seq_5837	len 160	site #1	f 9
+ACGCTTGCAC
+>seq_5854	len 160	site #1	r 68
+ACGCTCTCAC
+>seq_5865	len 160	site #1	r 90
+ACGCTTGTTC
+>seq_5892	len 160	site #1	f 149
+ACGCTTGCAC
+>seq_5896	len 160	site #1	f 12
+ACGCTTGCAC
+>seq_5909	len 160	site #1	f 101
+ACGCTTGCAC
+>seq_5911	len 160	site #1	f 60
+ACGCTTGCAC
+>seq_5911	len 160	site #2	f 8
+ACGCTTGCAC
+>seq_5912	len 160	site #1	f 116
+ACGCTTGCAC
+>seq_5920	len 160	site #1	f 12
+ACGCTTGCAC
+>seq_5931	len 160	site #1	f 149
+AGGCTTGCAC
+>seq_5941	len 160	site #1	f 23
+ACGCTTGCAC
+>seq_5952	len 160	site #1	r 36
+ACGATTGGAC
+>seq_5957	len 160	site #1	f 100
+ACGATTGCGC
+>seq_5966	len 160	site #1	f 95
+ACGCTTGCAC
+>seq_5989	len 160	site #1	r 86
+TCGCTTTCAC
+>seq_5993	len 160	site #1	f 112
+ACGCTTGCAC
+>seq_5994	len 160	site #1	f 73
+ACGCTTGCAC
+>seq_6011	len 160	site #1	f 128
+ACGATTGCGC
+>seq_6025	len 160	site #1	f 88
+ACGCTTGCAC
+>seq_6046	len 160	site #1	f 109
+ACGCTTGCAC
+>seq_6059	len 160	site #1	f 139
+ACGCTTGCAC
+>seq_6062	len 160	site #1	f 109
+ACGCTTGCAC
+>seq_6064	len 160	site #1	f 117
+ACGCTTGCAC
+>seq_6064	len 160	site #2	f 72
+ACGCTTGCAC
+>seq_6067	len 160	site #1	r 154
+ACGATTGCAC
+>seq_6076	len 160	site #1	r 19
+CCGCTTGCAC
+>seq_6085	len 160	site #1	f 23
+ACGCTTGCAC
+>seq_6092	len 160	site #1	f 55
+TCGATGGATC
+>seq_6100	len 160	site #1	f 69
+ACGCTTGCAC
+>seq_6107	len 160	site #1	f 51
+ACGCTTGCAC
+>seq_6116	len 160	site #1	r 149
+ACGCTCGCTC
+>seq_6124	len 160	site #1	f 100
+ACGCTTGCAC
+>seq_6125	len 160	site #1	f 97
+ACGCTTGCAC
+>seq_6132	len 160	site #1	f 102
+ACGATTGTAC
+>seq_6134	len 160	site #1	f 27
+ACGCTTGCAC
+>seq_6139	len 160	site #1	f 11
+GCGCTTGCAC
+>seq_6141	len 160	site #1	f 32
+ACGCTTGCAC
+>seq_6148	len 160	site #1	f 44
+ACGCTTGCAC
+>seq_6152	len 160	site #1	f 141
+GCGATTGCAC
+>seq_6162	len 160	site #1	f 144
+ACGCTTGCAC
+>seq_6174	len 160	site #1	f 11
+ACGCTTGCAC
+>seq_6182	len 160	site #1	f 52
+ACGCTTGCAC
+>seq_6188	len 160	site #1	f 95
+ACGCTTGCAC
+>seq_6199	len 160	site #1	f 124
+ACGCTTGCAC
+>seq_6199	len 160	site #2	f 93
+ACGCTTGCAC
+>seq_6201	len 160	site #1	r 144
+GCGCTTGCGC
+>seq_6204	len 160	site #1	f 29
+ACGCTTGCAC
+>seq_6209	len 160	site #1	f 68
+ACGCTTGCAC
+>seq_6222	len 160	site #1	f 137
+ACGCTTGCAC
+>seq_6222	len 160	site #2	f 25
+ACGCTTGCAC
+>seq_6229	len 160	site #1	f 108
+ACGCTTGCAC
+>seq_6229	len 160	site #2	f 72
+ACGCTTGCAC
+>seq_6252	len 160	site #1	f 129
+ACGCTTGCAC
+>seq_6255	len 160	site #1	f 24
+ACGCTTGCAC
+>seq_6256	len 160	site #1	f 27
+ACGCTTGCAC
+>seq_6269	len 160	site #1	f 74
+ACGCTTGCAC
+>seq_6273	len 160	site #1	f 110
+ACGCTTGCAC
+>seq_6275	len 160	site #1	f 119
+ACGCTTGCAC
+>seq_6279	len 160	site #1	f 132
+ACGCTTGCAC
+>seq_6302	len 160	site #1	f 86
+ACGCTTGCAC
+>seq_6314	len 160	site #1	f 29
+ACGATTGGAC
+>seq_6318	len 160	site #1	f 90
+GCGCCTGCAC
+>seq_6321	len 160	site #1	f 77
+ACGCTTTCTC
+******************************
+
+Motif #4: (GCCTGATTTG/CAAATCAGGC)
+******************************
+Width (10, 0); Gap [0, 0]; MotifScore 7.816; Sites 841
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1      0.00   4.28  95.72   0.00        G    C    G    C
+2      0.00  93.58   3.09   3.33        C    G    C    G
+3      3.33  96.43   0.24   0.00        C    G    C    G
+4      0.24   2.62   2.73  94.41        T    A    T    A
+5      2.85   3.33  93.82   0.00        G    C    G    C
+6     99.52   0.00   0.24   0.24        A    T    A    T
+7      0.24   0.00   2.97  96.79        T    A    T    A
+8      3.09   2.26   0.00  94.65        T    A    T    A
+9      3.33   0.00   0.00  96.67        T    A    T    A
+10     2.26   0.00  97.50   0.24        G    C    G    C
+
+>seq_11	len 160	site #1	f 66
+GCCTGATTTG
+>seq_13	len 160	site #1	r 47
+CCCTGAGTTG
+>seq_14	len 160	site #1	f 31
+GCCTGATTTG
+>seq_16	len 160	site #1	f 25
+GCCTGATTTG
+>seq_17	len 160	site #1	f 26
+GCCTGATTTG
+>seq_20	len 160	site #1	f 127
+GCCTGATTTG
+>seq_23	len 160	site #1	f 49
+GCCTGATTTG
+>seq_25	len 160	site #1	f 71
+GCCTGATTTG
+>seq_36	len 160	site #1	f 92
+GCCTGATTTG
+>seq_43	len 160	site #1	f 70
+GCCTGATTTG
+>seq_52	len 160	site #1	f 83
+GCCTGATTTG
+>seq_53	len 160	site #1	f 68
+GCCTGATTTG
+>seq_56	len 160	site #1	f 46
+GCCTGATTTG
+>seq_59	len 160	site #1	f 32
+GCCTGATTTG
+>seq_61	len 160	site #1	f 86
+GCCTGATTTG
+>seq_63	len 160	site #1	f 143
+GCCTGATTTG
+>seq_77	len 160	site #1	f 47
+GCCTGATTTG
+>seq_78	len 160	site #1	f 51
+GCCTGATTTG
+>seq_90	len 160	site #1	f 34
+GCCTGATTTG
+>seq_93	len 160	site #1	f 80
+GCCTGATTTG
+>seq_93	len 160	site #2	f 149
+GCCTGATTTG
+>seq_100	len 160	site #1	f 109
+GCCTGATTTG
+>seq_101	len 160	site #1	f 93
+GCCTGATTTG
+>seq_103	len 160	site #1	r 101
+GCCTGATTTG
+>seq_104	len 160	site #1	r 59
+GCCTCATTTA
+>seq_111	len 160	site #1	f 69
+GCCTGATTTG
+>seq_128	len 160	site #1	f 127
+GCCTGATTTG
+>seq_143	len 160	site #1	r 124
+GCCTGGTTTG
+>seq_144	len 160	site #1	f 89
+GCCTGATTTG
+>seq_145	len 160	site #1	f 70
+GCCTGATTTG
+>seq_148	len 160	site #1	f 109
+GCCTGATTTG
+>seq_162	len 160	site #1	f 78
+GCCTGATTTG
+>seq_181	len 160	site #1	f 90
+GGCTGAGTTG
+>seq_183	len 160	site #1	f 76
+CCCGGATTTG
+>seq_191	len 160	site #1	f 137
+GCCTGATTTG
+>seq_195	len 160	site #1	f 64
+GCCTGATTTG
+>seq_202	len 160	site #1	f 81
+GCCTGATTTG
+>seq_206	len 160	site #1	f 101
+GCCTGATTTG
+>seq_214	len 160	site #1	f 72
+GCCTGATTTG
+>seq_224	len 160	site #1	r 28
+GCCTGATAAG
+>seq_227	len 160	site #1	f 59
+GCCTGATTTG
+>seq_228	len 160	site #1	f 5
+GCCTGATTTG
+>seq_230	len 160	site #1	f 73
+GCCTGATTTG
+>seq_234	len 160	site #1	r 89
+CCCTGATTTG
+>seq_241	len 160	site #1	f 98
+GCCTGATTTG
+>seq_256	len 160	site #1	f 64
+GCCTGATTTG
+>seq_258	len 160	site #1	f 3
+GCCTGATTTG
+>seq_265	len 160	site #1	f 86
+GCCTGATTTG
+>seq_292	len 160	site #1	f 22
+GCCTGATTTG
+>seq_292	len 160	site #2	f 120
+GCCTGATTTG
+>seq_314	len 160	site #1	f 36
+GCCTGATTTG
+>seq_326	len 160	site #1	f 13
+GCCTGATTTG
+>seq_326	len 160	site #2	f 108
+GCCTGATTTG
+>seq_341	len 160	site #1	f 28
+GCCTGATTTG
+>seq_344	len 160	site #1	f 29
+GCCTGATTTG
+>seq_363	len 160	site #1	f 138
+GCCTGATTTG
+>seq_367	len 160	site #1	f 9
+GCCTGATTTG
+>seq_394	len 160	site #1	f 55
+GTCCGATTTG
+>seq_396	len 160	site #1	f 15
+GCCTGATTTG
+>seq_403	len 160	site #1	f 86
+GCCTGATTTG
+>seq_403	len 160	site #2	f 116
+GCCTGATTTG
+>seq_409	len 160	site #1	f 117
+GCCTGATTTG
+>seq_415	len 160	site #1	r 106
+GTCCGATTTG
+>seq_416	len 160	site #1	f 79
+GCCTGATTTG
+>seq_421	len 160	site #1	r 64
+GTCTGATATG
+>seq_427	len 160	site #1	f 141
+GCCTGATTTG
+>seq_430	len 160	site #1	f 7
+GCCTGATTTG
+>seq_432	len 160	site #1	f 94
+GGCTAATTTG
+>seq_433	len 160	site #1	f 91
+GCCTGATTTG
+>seq_438	len 160	site #1	f 95
+GCCTGATTTG
+>seq_450	len 160	site #1	f 111
+GCCTGATTTG
+>seq_462	len 160	site #1	f 2
+GCCTGATTTG
+>seq_466	len 160	site #1	f 39
+GCCTGATTTG
+>seq_466	len 160	site #2	f 60
+GCCTGATTTG
+>seq_470	len 160	site #1	f 82
+GCCTGATTTG
+>seq_472	len 160	site #1	f 136
+GCCTGATTTG
+>seq_489	len 160	site #1	f 117
+GCCTGATTTG
+>seq_491	len 160	site #1	f 22
+GTCGGATTTG
+>seq_493	len 160	site #1	f 76
+GCCTGATTTG
+>seq_494	len 160	site #1	r 99
+GTCTGAGTTG
+>seq_500	len 160	site #1	f 68
+GCCTGATTTG
+>seq_513	len 160	site #1	f 41
+GCCTGATTTG
+>seq_517	len 160	site #1	f 22
+GCCTGATTTG
+>seq_522	len 160	site #1	f 29
+GCCTGATTTG
+>seq_524	len 160	site #1	f 65
+GCCTGATTTG
+>seq_525	len 160	site #1	f 45
+GCCTGATTTG
+>seq_526	len 160	site #1	f 132
+GCCTGATTTG
+>seq_533	len 160	site #1	f 38
+GGCTGAGTTG
+>seq_542	len 160	site #1	r 48
+GCCTCATATG
+>seq_543	len 160	site #1	f 97
+GCCTGATTTG
+>seq_543	len 160	site #2	r 58
+GCCGGATTAG
+>seq_544	len 160	site #1	f 70
+GCCTGATTTG
+>seq_547	len 160	site #1	f 108
+GCCTGATTTG
+>seq_551	len 160	site #1	f 27
+GCCTGATTTG
+>seq_552	len 160	site #1	f 128
+GCCTGATTTG
+>seq_555	len 160	site #1	f 137
+GCCTGATTTG
+>seq_577	len 160	site #1	r 89
+GCCTGAGTAG
+>seq_578	len 160	site #1	f 51
+GCCTAATATG
+>seq_589	len 160	site #1	r 13
+GCCTGAGATG
+>seq_590	len 160	site #1	f 123
+GCCTGATTTG
+>seq_591	len 160	site #1	f 105
+GCCTGATTTG
+>seq_606	len 160	site #1	r 133
+GCCCAATTTG
+>seq_609	len 160	site #1	f 129
+GCCTGATTTG
+>seq_613	len 160	site #1	f 18
+GCCTGATTTG
+>seq_615	len 160	site #1	f 133
+GCCTGATTTG
+>seq_617	len 160	site #1	f 67
+GCCTGATTTG
+>seq_617	len 160	site #2	f 117
+GCCTGATTTG
+>seq_617	len 160	site #3	r 51
+GCCTCATTTG
+>seq_626	len 160	site #1	f 13
+GCCTGATTTG
+>seq_642	len 160	site #1	f 16
+GCCTGATTTG
+>seq_645	len 160	site #1	f 17
+GCCTGATTTG
+>seq_648	len 160	site #1	f 94
+GCCTGATTTG
+>seq_652	len 160	site #1	f 13
+GCCTGATTTG
+>seq_655	len 160	site #1	f 118
+GCCTGATTTG
+>seq_661	len 160	site #1	f 47
+GCCTGATTTG
+>seq_678	len 160	site #1	r 100
+GCAGGATTTG
+>seq_683	len 160	site #1	f 89
+GCCTGATTTG
+>seq_703	len 160	site #1	f 104
+GCCTGATTTG
+>seq_714	len 160	site #1	f 35
+GCCTGATTTG
+>seq_728	len 160	site #1	f 72
+GCCTGATTTG
+>seq_735	len 160	site #1	r 116
+GTCTGATATG
+>seq_739	len 160	site #1	f 86
+GCCTGAGTTG
+>seq_745	len 160	site #1	f 4
+GCCTGATTTG
+>seq_754	len 160	site #1	f 63
+GCCTGATTTG
+>seq_761	len 160	site #1	f 140
+GCCTGATTTG
+>seq_763	len 160	site #1	f 43
+GCCTGATTTG
+>seq_764	len 160	site #1	f 74
+GCCTGATTTG
+>seq_764	len 160	site #2	r 42
+CGCTGATTTG
+>seq_777	len 160	site #1	f 104
+GCCTGATTTG
+>seq_789	len 160	site #1	f 105
+GCCTGATTTG
+>seq_806	len 160	site #1	r 120
+GCGTGATTTG
+>seq_816	len 160	site #1	f 105
+GCCTGAGTTG
+>seq_819	len 160	site #1	f 147
+GCCTGATTTG
+>seq_825	len 160	site #1	f 114
+GCCTGATTTG
+>seq_834	len 160	site #1	r 160
+CCCTAATTTG
+>seq_852	len 160	site #1	f 15
+GCCTGATTTG
+>seq_857	len 160	site #1	f 141
+GCCTGATTTG
+>seq_859	len 160	site #1	f 143
+GCCTGATTTG
+>seq_862	len 160	site #1	f 34
+GCCTGATTTG
+>seq_863	len 160	site #1	f 69
+GCCTGATTTA
+>seq_878	len 160	site #1	r 89
+GGCCGATTTG
+>seq_879	len 160	site #1	f 128
+GCCTGATTTG
+>seq_880	len 160	site #1	f 41
+GCCTGATTTG
+>seq_883	len 160	site #1	f 16
+GCCTGATTTG
+>seq_885	len 160	site #1	f 113
+GCCTCATATG
+>seq_904	len 160	site #1	f 72
+GCCTGATTTG
+>seq_905	len 160	site #1	f 107
+GCCTGGTTTG
+>seq_911	len 160	site #1	f 52
+GCCTGATTTG
+>seq_913	len 160	site #1	r 45
+GCCTCATATG
+>seq_924	len 160	site #1	f 57
+GCCTGATTTG
+>seq_931	len 160	site #1	f 84
+GCCTGATTTG
+>seq_934	len 160	site #1	f 18
+GCCTGATTTG
+>seq_936	len 160	site #1	f 111
+GCCTGATTTG
+>seq_937	len 160	site #1	f 100
+GCCTGATTTG
+>seq_947	len 160	site #1	r 20
+GCCAGATTTG
+>seq_953	len 160	site #1	r 70
+GCCTGAATTG
+>seq_958	len 160	site #1	f 66
+GCCTGATTTG
+>seq_964	len 160	site #1	r 46
+GCCTAATTTA
+>seq_983	len 160	site #1	r 23
+GCCGGATTTG
+>seq_988	len 160	site #1	r 124
+GGCTGATCTG
+>seq_998	len 160	site #1	f 85
+GCCTGATTTG
+>seq_999	len 160	site #1	f 84
+GCCTGATTTG
+>seq_1008	len 160	site #1	r 31
+CGCTGATTTA
+>seq_1016	len 160	site #1	f 9
+GCCTGATTTG
+>seq_1020	len 160	site #1	f 46
+GCCTGATTTG
+>seq_1027	len 160	site #1	f 40
+GCCTGATTTG
+>seq_1060	len 160	site #1	f 104
+GCCTGATTTG
+>seq_1066	len 160	site #1	f 19
+GCCTGATTTG
+>seq_1072	len 160	site #1	f 32
+GCCTGATTTG
+>seq_1074	len 160	site #1	f 14
+GCCTGATTTG
+>seq_1081	len 160	site #1	f 48
+GCCTGATTTG
+>seq_1088	len 160	site #1	f 47
+GCCTGATTTG
+>seq_1115	len 160	site #1	f 150
+GCCTGATTTG
+>seq_1180	len 160	site #1	r 49
+GCCTCATTTG
+>seq_1200	len 160	site #1	f 29
+GCCTGATTTG
+>seq_1209	len 160	site #1	f 30
+GCCTGATTTG
+>seq_1217	len 160	site #1	f 94
+GCCTGATTTG
+>seq_1223	len 160	site #1	r 78
+GGCTCATTTG
+>seq_1228	len 160	site #1	f 12
+CCATGATTTG
+>seq_1249	len 160	site #1	f 143
+CCCTGAGTTG
+>seq_1252	len 160	site #1	f 53
+GCCTGATTTG
+>seq_1259	len 160	site #1	f 82
+GCCTGATTTG
+>seq_1260	len 160	site #1	f 121
+GCCTGATTTG
+>seq_1272	len 160	site #1	f 112
+GCCTGATTTG
+>seq_1288	len 160	site #1	f 67
+GCCTGATTTG
+>seq_1301	len 160	site #1	f 23
+GCCTGATTTG
+>seq_1312	len 160	site #1	f 118
+GCCTGATTTG
+>seq_1318	len 160	site #1	f 40
+GCCTGATTTG
+>seq_1319	len 160	site #1	f 127
+GCCTGATTTG
+>seq_1321	len 160	site #1	f 57
+GCCTGATTTG
+>seq_1328	len 160	site #1	f 132
+GCCTGATTTG
+>seq_1336	len 160	site #1	f 59
+GCCTGATTTG
+>seq_1343	len 160	site #1	f 151
+GCCTGATTTG
+>seq_1345	len 160	site #1	f 73
+GCCTGATTTG
+>seq_1352	len 160	site #1	f 146
+GCCTGATTTG
+>seq_1360	len 160	site #1	r 109
+GCCGAATTTG
+>seq_1361	len 160	site #1	f 95
+GCCTGATTTG
+>seq_1366	len 160	site #1	f 115
+GGCTGATTTA
+>seq_1379	len 160	site #1	f 59
+GCCTGATTTG
+>seq_1379	len 160	site #2	f 109
+GCCTGATTTG
+>seq_1385	len 160	site #1	r 64
+GCCTCATTTA
+>seq_1389	len 160	site #1	f 122
+GCCTGATTTG
+>seq_1393	len 160	site #1	f 126
+GCCTGATTTG
+>seq_1406	len 160	site #1	f 141
+GCCTGATTTG
+>seq_1409	len 160	site #1	f 140
+GCCTGATTTG
+>seq_1416	len 160	site #1	f 71
+GCCTGATTTG
+>seq_1438	len 160	site #1	f 23
+GCCTGATTTG
+>seq_1438	len 160	site #2	f 97
+GCCTGATTTG
+>seq_1441	len 160	site #1	f 86
+GCATGAGTTG
+>seq_1443	len 160	site #1	f 49
+GCCTGATTTG
+>seq_1443	len 160	site #2	f 138
+GCCTGATTTG
+>seq_1444	len 160	site #1	f 136
+GCCTGATTTG
+>seq_1448	len 160	site #1	f 8
+GCCTGATTTG
+>seq_1448	len 160	site #2	f 76
+CCCTGATTAG
+>seq_1452	len 160	site #1	r 93
+GCCGGATTAG
+>seq_1453	len 160	site #1	f 85
+GCCTGATTTG
+>seq_1455	len 160	site #1	f 27
+GCCTGATTTG
+>seq_1463	len 160	site #1	f 120
+GCCTGATTTG
+>seq_1482	len 160	site #1	f 127
+GCCTGATTTG
+>seq_1485	len 160	site #1	f 104
+GCCTGATTTG
+>seq_1491	len 160	site #1	f 127
+GCCTGATTTG
+>seq_1496	len 160	site #1	f 132
+GCCTGATTTG
+>seq_1519	len 160	site #1	f 2
+GCCTGATTTG
+>seq_1523	len 160	site #1	r 129
+GCCTGATTTG
+>seq_1524	len 160	site #1	f 146
+GGCGGATTTG
+>seq_1526	len 160	site #1	f 89
+GCCTGATTTG
+>seq_1526	len 160	site #2	f 147
+GCCTGATTTG
+>seq_1546	len 160	site #1	f 22
+GCCTGATTTG
+>seq_1547	len 160	site #1	f 3
+GCCTGATTTG
+>seq_1577	len 160	site #1	f 115
+GCCTGATTTG
+>seq_1581	len 160	site #1	f 47
+GCCTGATTTG
+>seq_1585	len 160	site #1	f 105
+GCCTGATTTG
+>seq_1595	len 160	site #1	f 12
+GCCTGATTTG
+>seq_1599	len 160	site #1	r 126
+GCCCGATCTG
+>seq_1600	len 160	site #1	f 34
+GCCTGATTTG
+>seq_1600	len 160	site #2	f 91
+GCCTGATTTG
+>seq_1606	len 160	site #1	f 34
+GCCTGATTTG
+>seq_1607	len 160	site #1	f 18
+GCCTGATTTG
+>seq_1610	len 160	site #1	f 138
+GCCTGATTAG
+>seq_1637	len 160	site #1	f 122
+GCCTGATTTG
+>seq_1638	len 160	site #1	f 70
+GCCTGATTTG
+>seq_1650	len 160	site #1	r 30
+GCCTCATTAG
+>seq_1681	len 160	site #1	r 41
+GTATGATTTG
+>seq_1690	len 160	site #1	f 117
+GCCTGATTTG
+>seq_1694	len 160	site #1	r 91
+GGCTGATTAG
+>seq_1705	len 160	site #1	r 21
+GCCTAATTAG
+>seq_1709	len 160	site #1	f 20
+GCCTGATTTG
+>seq_1711	len 160	site #1	f 15
+GCCTGATTTG
+>seq_1713	len 160	site #1	f 85
+GCCTGATTTG
+>seq_1714	len 160	site #1	f 104
+GCCTGATTTG
+>seq_1717	len 160	site #1	f 120
+GCCTGATTTG
+>seq_1720	len 160	site #1	f 51
+GCCTGATTTG
+>seq_1732	len 160	site #1	f 65
+GCCTGATTTA
+>seq_1757	len 160	site #1	f 88
+GCCTGATTTG
+>seq_1757	len 160	site #2	f 145
+GCCTGATTTG
+>seq_1760	len 160	site #1	r 119
+GTCTGAGTTG
+>seq_1767	len 160	site #1	f 43
+GCCTGATTTG
+>seq_1771	len 160	site #1	f 5
+CCCTGATTTG
+>seq_1772	len 160	site #1	f 100
+GCCTGATTTG
+>seq_1785	len 160	site #1	f 30
+GCCTGATTTG
+>seq_1792	len 160	site #1	f 125
+GCCTGATTTG
+>seq_1793	len 160	site #1	r 47
+CCCGGATTTG
+>seq_1797	len 160	site #1	f 117
+GCCTGATTTG
+>seq_1800	len 160	site #1	f 47
+GCATGATTTA
+>seq_1823	len 160	site #1	f 24
+GCGTGATTTG
+>seq_1845	len 160	site #1	f 60
+GCCTGATTTG
+>seq_1848	len 160	site #1	f 35
+GCATGATATG
+>seq_1859	len 160	site #1	f 81
+GCCTGATTTG
+>seq_1882	len 160	site #1	f 145
+GCCTGATTTG
+>seq_1893	len 160	site #1	f 13
+CCCCGATTTG
+>seq_1895	len 160	site #1	r 118
+CCCTGAGTTG
+>seq_1897	len 160	site #1	f 51
+GCCTGAGATG
+>seq_1912	len 160	site #1	f 74
+GCCTGATTTG
+>seq_1924	len 160	site #1	f 53
+GCCTGATTTG
+>seq_1927	len 160	site #1	f 84
+GCCTGATTTG
+>seq_1951	len 160	site #1	f 52
+GCCTGATTTG
+>seq_1957	len 160	site #1	f 29
+GCCTAATCTG
+>seq_1959	len 160	site #1	f 146
+GCCTGATTTG
+>seq_1967	len 160	site #1	r 75
+CCCGGATTTG
+>seq_1969	len 160	site #1	r 122
+GCCGCATTTG
+>seq_1970	len 160	site #1	r 136
+CCCTGAGTTG
+>seq_2015	len 160	site #1	f 101
+GCCTGATTTG
+>seq_2019	len 160	site #1	f 64
+GCCTGATTTG
+>seq_2033	len 160	site #1	f 108
+GCCTGATTTG
+>seq_2046	len 160	site #1	f 103
+GCCTGATTTG
+>seq_2053	len 160	site #1	f 61
+GCCTGATTTG
+>seq_2058	len 160	site #1	f 13
+GCCTGATTTG
+>seq_2073	len 160	site #1	f 93
+GCCTGATTTG
+>seq_2074	len 160	site #1	f 62
+GCCTGATTTG
+>seq_2076	len 160	site #1	f 78
+GCCTGATTTG
+>seq_2085	len 160	site #1	f 57
+GCCTGATTTG
+>seq_2088	len 160	site #1	f 96
+GCCTGATTTG
+>seq_2102	len 160	site #1	f 85
+GCCTGATTTG
+>seq_2107	len 160	site #1	f 9
+GCCTGATTTG
+>seq_2126	len 160	site #1	f 147
+GCCTGATTTG
+>seq_2133	len 160	site #1	f 32
+GCCTGATTTG
+>seq_2143	len 160	site #1	f 129
+GCCTGATTTG
+>seq_2167	len 160	site #1	f 80
+GCCTGATTTG
+>seq_2171	len 160	site #1	f 108
+GCCTGATTTG
+>seq_2191	len 160	site #1	f 6
+GCCTGATTTG
+>seq_2193	len 160	site #1	f 70
+GCCTGATTTG
+>seq_2194	len 160	site #1	f 106
+GCCTGATTTG
+>seq_2214	len 160	site #1	f 110
+GCCCCATTTG
+>seq_2221	len 160	site #1	f 19
+GCCTGATTTG
+>seq_2239	len 160	site #1	f 43
+GCCGGATTAG
+>seq_2240	len 160	site #1	f 35
+GCCTGATTTG
+>seq_2255	len 160	site #1	f 43
+GCCTGATTTG
+>seq_2264	len 160	site #1	f 124
+GCCTGATTTG
+>seq_2270	len 160	site #1	f 44
+GCCTGATTTG
+>seq_2275	len 160	site #1	f 108
+GCCTGATTTG
+>seq_2284	len 160	site #1	f 32
+GCCTGATTTG
+>seq_2285	len 160	site #1	f 27
+GCCTGATTTG
+>seq_2287	len 160	site #1	f 140
+GCCTGATTTG
+>seq_2309	len 160	site #1	f 118
+GCCTGATTTG
+>seq_2316	len 160	site #1	f 54
+GCCTGATTTG
+>seq_2321	len 160	site #1	f 54
+GCCTGATTTG
+>seq_2321	len 160	site #2	f 109
+GCCTGATTTG
+>seq_2321	len 160	site #3	f 144
+GCCTGATTTG
+>seq_2322	len 160	site #1	r 157
+GCCGGATTTG
+>seq_2336	len 160	site #1	f 45
+GCCTGATTTG
+>seq_2352	len 160	site #1	f 109
+GCCTAATCTG
+>seq_2386	len 160	site #1	f 26
+GCCTGATTTG
+>seq_2387	len 160	site #1	f 84
+GCCTGATTTG
+>seq_2388	len 160	site #1	f 99
+GCCTGATTTG
+>seq_2395	len 160	site #1	f 143
+GCCTGATTTG
+>seq_2408	len 160	site #1	f 127
+GGCTAATTTG
+>seq_2414	len 160	site #1	f 85
+GCCTGATTTG
+>seq_2414	len 160	site #2	r 133
+GCCTCATTTA
+>seq_2420	len 160	site #1	f 10
+GCCTGATTTG
+>seq_2427	len 160	site #1	f 123
+GCCTGATTTG
+>seq_2428	len 160	site #1	f 105
+GCCTGATTTG
+>seq_2442	len 160	site #1	f 78
+GCCTAATTTG
+>seq_2449	len 160	site #1	f 9
+GCCTGATTTG
+>seq_2450	len 160	site #1	f 66
+GCCTGATTTG
+>seq_2461	len 160	site #1	r 157
+GCCCGATATG
+>seq_2464	len 160	site #1	f 124
+GCCTGATTTG
+>seq_2469	len 160	site #1	f 138
+GCCTGATTTG
+>seq_2480	len 160	site #1	f 136
+GCCTGATTTG
+>seq_2493	len 160	site #1	f 39
+GCCTGATTTG
+>seq_2494	len 160	site #1	f 118
+GCCTGATTTG
+>seq_2510	len 160	site #1	f 135
+GCCTGATTTG
+>seq_2512	len 160	site #1	f 86
+GCCTGATTTG
+>seq_2517	len 160	site #1	f 48
+GCCTGATTTG
+>seq_2523	len 160	site #1	f 19
+GCCTGATTTG
+>seq_2529	len 160	site #1	f 141
+GCCTGATTTG
+>seq_2532	len 160	site #1	f 95
+GCCTGATTTG
+>seq_2534	len 160	site #1	f 136
+GCCTGATTTG
+>seq_2538	len 160	site #1	f 125
+GCCTGATTTG
+>seq_2542	len 160	site #1	f 151
+GCCTGATTTG
+>seq_2547	len 160	site #1	f 14
+GCCTGATTTG
+>seq_2550	len 160	site #1	f 55
+GCCTGATTTG
+>seq_2565	len 160	site #1	f 35
+GCCTGATTTG
+>seq_2590	len 160	site #1	r 10
+GGCTCATTTG
+>seq_2599	len 160	site #1	f 128
+GCCTGATTTG
+>seq_2609	len 160	site #1	f 128
+GCCTGATTTG
+>seq_2626	len 160	site #1	f 124
+GCCTGATTTG
+>seq_2639	len 160	site #1	f 125
+GCCTGATTTG
+>seq_2657	len 160	site #1	f 109
+GCCTGATTTG
+>seq_2662	len 160	site #1	f 145
+GCCTGATTTG
+>seq_2665	len 160	site #1	f 144
+GCCTGATTTG
+>seq_2672	len 160	site #1	f 79
+GCCTGATTTG
+>seq_2695	len 160	site #1	f 74
+GCCTGATTTG
+>seq_2704	len 160	site #1	f 91
+GCCTGATTTG
+>seq_2727	len 160	site #1	f 10
+GCCTGATTTG
+>seq_2727	len 160	site #2	f 51
+GCCTGATTTG
+>seq_2741	len 160	site #1	f 12
+GCCTGATTTG
+>seq_2743	len 160	site #1	f 38
+GCCTGATTTG
+>seq_2762	len 160	site #1	f 93
+GCCTGATTTG
+>seq_2767	len 160	site #1	r 74
+GCATGATTTA
+>seq_2789	len 160	site #1	f 124
+GCCTGATTTG
+>seq_2790	len 160	site #1	r 40
+GGCTGATTAG
+>seq_2798	len 160	site #1	f 24
+GCCTGATTTG
+>seq_2800	len 160	site #1	f 24
+GCCTGATTTG
+>seq_2802	len 160	site #1	f 136
+GCCCAATTTG
+>seq_2804	len 160	site #1	f 96
+GCCTGATTTG
+>seq_2807	len 160	site #1	f 93
+GCCTGATTTG
+>seq_2809	len 160	site #1	f 6
+GCCTAATATG
+>seq_2817	len 160	site #1	f 110
+GCCTGATTTG
+>seq_2823	len 160	site #1	r 111
+GGCTGAGTTG
+>seq_2827	len 160	site #1	f 70
+GCCTGATTTG
+>seq_2848	len 160	site #1	f 73
+GCCTGATTTG
+>seq_2866	len 160	site #1	f 56
+GCCTGATTTG
+>seq_2869	len 160	site #1	f 74
+GCCTGATTTG
+>seq_2898	len 160	site #1	f 54
+GCCTGATTTG
+>seq_2903	len 160	site #1	f 66
+GTCTGATTTA
+>seq_2915	len 160	site #1	f 136
+GCCTGATTTG
+>seq_2915	len 160	site #2	f 88
+CCCTGATTTG
+>seq_2935	len 160	site #1	r 107
+GCCTAATATG
+>seq_2936	len 160	site #1	f 25
+GCCTGATTTG
+>seq_2952	len 160	site #1	f 102
+GCCTGATTTG
+>seq_2956	len 160	site #1	f 6
+GCACGATTTG
+>seq_2958	len 160	site #1	f 8
+GCCTGATTTG
+>seq_2961	len 160	site #1	f 121
+CCCTGAGTTG
+>seq_2969	len 160	site #1	f 43
+GCCTGATTTG
+>seq_2970	len 160	site #1	f 76
+GCCTGATTTG
+>seq_2974	len 160	site #1	f 28
+GCCTGATTTG
+>seq_2974	len 160	site #2	f 143
+GCCTGATTTG
+>seq_2980	len 160	site #1	f 148
+GCCTGATTTG
+>seq_2981	len 160	site #1	f 145
+GCCTGATTTG
+>seq_2986	len 160	site #1	f 133
+GCCTGATTTG
+>seq_2993	len 160	site #1	f 24
+GCCTGATTTG
+>seq_2994	len 160	site #1	f 86
+GCCTGATTTG
+>seq_3011	len 160	site #1	f 47
+GCCTGATTTG
+>seq_3015	len 160	site #1	f 42
+GCCTGATTTG
+>seq_3015	len 160	site #2	f 96
+GCCTGATTTG
+>seq_3021	len 160	site #1	f 151
+GCCTGATTTG
+>seq_3024	len 160	site #1	f 125
+GCAGGATTTG
+>seq_3029	len 160	site #1	f 76
+GCCTGATTTG
+>seq_3048	len 160	site #1	f 130
+GCCTGATTTG
+>seq_3051	len 160	site #1	f 4
+GCCTGATTTG
+>seq_3057	len 160	site #1	f 33
+GCCTGATTTG
+>seq_3057	len 160	site #2	f 65
+GCCTGATTTG
+>seq_3059	len 160	site #1	r 89
+CTCTGATTTG
+>seq_3081	len 160	site #1	f 90
+GCCTGATTTG
+>seq_3095	len 160	site #1	f 30
+GCCTGATTTG
+>seq_3103	len 160	site #1	f 79
+GCCTGATTTG
+>seq_3117	len 160	site #1	f 149
+GCCTGATTTG
+>seq_3124	len 160	site #1	f 85
+GCCTGATTTG
+>seq_3126	len 160	site #1	f 64
+GCCTGATTTG
+>seq_3141	len 160	site #1	f 62
+GCCTGATTTG
+>seq_3145	len 160	site #1	f 144
+GCCTGATTTG
+>seq_3160	len 160	site #1	f 102
+GCCTGATTTG
+>seq_3163	len 160	site #1	f 119
+GCCTGATTTG
+>seq_3164	len 160	site #1	r 106
+GCCTGATATG
+>seq_3183	len 160	site #1	f 48
+GCCTGATTTG
+>seq_3190	len 160	site #1	f 62
+GCCTAATATG
+>seq_3200	len 160	site #1	f 26
+GCCTGATTTG
+>seq_3209	len 160	site #1	r 17
+GGATGATTTG
+>seq_3217	len 160	site #1	r 54
+GCATGATTAG
+>seq_3224	len 160	site #1	f 107
+GCCTGATTTG
+>seq_3226	len 160	site #1	f 28
+GCCTGATTTG
+>seq_3233	len 160	site #1	f 25
+GCCTGATTTG
+>seq_3242	len 160	site #1	r 20
+GCCGGATCTG
+>seq_3254	len 160	site #1	f 147
+GCCTGATTTG
+>seq_3258	len 160	site #1	f 46
+GCCTGATTTG
+>seq_3261	len 160	site #1	f 83
+GCCTGATTTG
+>seq_3267	len 160	site #1	f 57
+GCCTGATTTG
+>seq_3275	len 160	site #1	f 111
+GCCTGATTTG
+>seq_3276	len 160	site #1	f 87
+GCCTGATTTG
+>seq_3282	len 160	site #1	r 148
+GTCTGATATG
+>seq_3287	len 160	site #1	f 80
+GCCTGATTTG
+>seq_3291	len 160	site #1	f 39
+GCCTGATTTG
+>seq_3300	len 160	site #1	f 79
+GGCTGATTTA
+>seq_3304	len 160	site #1	f 116
+GCCTGATTTG
+>seq_3305	len 160	site #1	f 92
+GCCTGATTTG
+>seq_3322	len 160	site #1	f 34
+GCCTGATTTG
+>seq_3353	len 160	site #1	f 20
+GCCTGATTTG
+>seq_3355	len 160	site #1	f 97
+GCCTGATTTG
+>seq_3364	len 160	site #1	f 71
+GCCTGAGATG
+>seq_3365	len 160	site #1	f 129
+GCCTGATTTG
+>seq_3366	len 160	site #1	f 75
+GCCTGATTTG
+>seq_3371	len 160	site #1	r 72
+GCCGGAGTTG
+>seq_3373	len 160	site #1	r 152
+CGCTGATTTG
+>seq_3374	len 160	site #1	f 11
+GCCTGATTTG
+>seq_3379	len 160	site #1	f 133
+GCCTGATTTG
+>seq_3381	len 160	site #1	f 78
+GCCTGATTTG
+>seq_3383	len 160	site #1	r 94
+GCACGATTTG
+>seq_3391	len 160	site #1	f 89
+GCCTGATTTG
+>seq_3415	len 160	site #1	f 28
+GCCTGATTTG
+>seq_3420	len 160	site #1	f 138
+GCCTGATTTG
+>seq_3424	len 160	site #1	f 124
+GCCTGATTTG
+>seq_3429	len 160	site #1	f 113
+GCCTGATTTG
+>seq_3434	len 160	site #1	f 102
+GCCTGATTTG
+>seq_3454	len 160	site #1	f 61
+GCCTGATTTG
+>seq_3473	len 160	site #1	f 86
+GCCTGATTTG
+>seq_3481	len 160	site #1	f 59
+GCCTGATTTG
+>seq_3483	len 160	site #1	f 55
+CCCTAATTTG
+>seq_3514	len 160	site #1	f 64
+GCCTGATTAG
+>seq_3524	len 160	site #1	f 113
+GCCTGATTTG
+>seq_3528	len 160	site #1	f 129
+GCCTGATTTG
+>seq_3532	len 160	site #1	f 87
+GCCTGATTTG
+>seq_3546	len 160	site #1	f 98
+GCCTGATTTG
+>seq_3555	len 160	site #1	f 35
+GCCTGATTTG
+>seq_3588	len 160	site #1	f 144
+GCCTGATTTG
+>seq_3590	len 160	site #1	f 71
+GCCTGATTTG
+>seq_3591	len 160	site #1	f 97
+GCCTGATTTG
+>seq_3613	len 160	site #1	f 133
+GCCTGATTTG
+>seq_3627	len 160	site #1	f 58
+GCCTGATTTG
+>seq_3629	len 160	site #1	r 70
+CCCTAATTTG
+>seq_3642	len 160	site #1	f 121
+GCCTGAGATG
+>seq_3645	len 160	site #1	f 85
+GCCTGATTTG
+>seq_3645	len 160	site #2	f 106
+GCCTGATTTG
+>seq_3647	len 160	site #1	f 127
+GCCTGATTTG
+>seq_3654	len 160	site #1	r 32
+CTCTGATTTG
+>seq_3659	len 160	site #1	f 45
+GCCTGATTTG
+>seq_3659	len 160	site #2	f 113
+GCCTGATTTG
+>seq_3667	len 160	site #1	f 103
+GCCTGATTTT
+>seq_3669	len 160	site #1	f 58
+GCCTGATTTG
+>seq_3672	len 160	site #1	f 130
+GCCTGATTTG
+>seq_3673	len 160	site #1	f 151
+GTCTAATTTG
+>seq_3681	len 160	site #1	f 16
+GCCTGATTTG
+>seq_3707	len 160	site #1	f 75
+GCCTGATTTG
+>seq_3708	len 160	site #1	f 32
+GCCTGATTTG
+>seq_3739	len 160	site #1	f 131
+GCCTGATTTG
+>seq_3740	len 160	site #1	f 122
+GCCTGATTTG
+>seq_3751	len 160	site #1	f 132
+GCCTGATTTG
+>seq_3752	len 160	site #1	r 101
+GCATGATTAG
+>seq_3753	len 160	site #1	f 88
+GCCTGATTTG
+>seq_3771	len 160	site #1	f 61
+GCCTGATTTG
+>seq_3787	len 160	site #1	f 49
+GCCTGATTTG
+>seq_3794	len 160	site #1	f 33
+GCCTGATTTG
+>seq_3799	len 160	site #1	f 119
+GCCTGATTTG
+>seq_3807	len 160	site #1	f 42
+GCCTGATTTG
+>seq_3810	len 160	site #1	f 45
+GCCTGATTTG
+>seq_3821	len 160	site #1	r 55
+GCCTGAGCTG
+>seq_3822	len 160	site #1	f 105
+GCCTGATTTG
+>seq_3833	len 160	site #1	f 9
+GTCTCATTTG
+>seq_3836	len 160	site #1	f 2
+GCCTGATTTG
+>seq_3857	len 160	site #1	f 5
+CCCTGATATG
+>seq_3873	len 160	site #1	f 70
+GCCTGATTTG
+>seq_3888	len 160	site #1	f 116
+GCCTGATTTG
+>seq_3892	len 160	site #1	f 62
+GCCTGATTTG
+>seq_3892	len 160	site #2	f 139
+GCCTGATTTG
+>seq_3894	len 160	site #1	f 30
+GCCTGATTTG
+>seq_3897	len 160	site #1	f 75
+GCCTGATTTG
+>seq_3899	len 160	site #1	f 34
+GCCTGATTTG
+>seq_3903	len 160	site #1	f 71
+GGCTGATTAG
+>seq_3911	len 160	site #1	f 114
+GCCTGATTTG
+>seq_3938	len 160	site #1	f 56
+GCCTGATTTG
+>seq_3944	len 160	site #1	f 42
+GCCTGATTTG
+>seq_3949	len 160	site #1	r 135
+CCCTAATTTG
+>seq_3954	len 160	site #1	f 33
+GCCTGATTTG
+>seq_3972	len 160	site #1	f 59
+GCCTGATTTG
+>seq_3979	len 160	site #1	f 132
+GCCTGATTTG
+>seq_3980	len 160	site #1	f 145
+GCCTGATTTG
+>seq_3982	len 160	site #1	f 43
+GCCTGATTTG
+>seq_3993	len 160	site #1	f 107
+GCCTGATTTG
+>seq_4004	len 160	site #1	f 34
+GCCTGATTTG
+>seq_4004	len 160	site #2	f 87
+GCCTGATTTG
+>seq_4004	len 160	site #3	f 127
+GCCTGATTTG
+>seq_4011	len 160	site #1	f 117
+GCCTGATTTG
+>seq_4018	len 160	site #1	f 61
+GCCTGATTTG
+>seq_4023	len 160	site #1	r 124
+GCCCGATTTG
+>seq_4031	len 160	site #1	f 49
+GCCTGATTTG
+>seq_4044	len 160	site #1	f 86
+GCCTGATTTG
+>seq_4060	len 160	site #1	f 85
+GCCTGATTTG
+>seq_4074	len 160	site #1	f 78
+GCCTGATTTG
+>seq_4079	len 160	site #1	r 52
+GCCGAATTTG
+>seq_4084	len 160	site #1	f 112
+GCCTGATTTG
+>seq_4099	len 160	site #1	f 40
+GCCTGATTTG
+>seq_4103	len 160	site #1	f 133
+GCCTGATTTG
+>seq_4116	len 160	site #1	f 114
+GCCTGATTTG
+>seq_4121	len 160	site #1	f 18
+GCCTGATTTG
+>seq_4129	len 160	site #1	f 94
+GCCTGATTTG
+>seq_4131	len 160	site #1	f 13
+GCCTAATTAG
+>seq_4153	len 160	site #1	f 52
+GCCTGATTTG
+>seq_4160	len 160	site #1	f 44
+GCCTGATTTG
+>seq_4167	len 160	site #1	f 10
+GCCTGATTTG
+>seq_4171	len 160	site #1	f 144
+GCCTGATTTG
+>seq_4171	len 160	site #2	r 108
+GTCTGATATG
+>seq_4177	len 160	site #1	f 53
+GCCTCATTTG
+>seq_4177	len 160	site #2	r 41
+GCCTAATTAG
+>seq_4178	len 160	site #1	f 135
+GCCTGATTTG
+>seq_4188	len 160	site #1	f 52
+GCCTGATTTG
+>seq_4191	len 160	site #1	f 124
+GCCTGATTTG
+>seq_4197	len 160	site #1	f 133
+GCCTGATTTG
+>seq_4202	len 160	site #1	f 22
+GCCTGATTTG
+>seq_4226	len 160	site #1	f 137
+GCCTGATTTG
+>seq_4232	len 160	site #1	f 126
+GCCTGATTTA
+>seq_4246	len 160	site #1	r 54
+GCCTGAGTTG
+>seq_4253	len 160	site #1	f 139
+GCCTGATTTG
+>seq_4260	len 160	site #1	r 69
+CCCTCATTTG
+>seq_4296	len 160	site #1	f 126
+GCCTGATTTG
+>seq_4302	len 160	site #1	f 44
+GCCTGATTTG
+>seq_4306	len 160	site #1	f 106
+GCCTGATTTG
+>seq_4309	len 160	site #1	f 2
+GCCTGATTTG
+>seq_4316	len 160	site #1	f 12
+GCCTGATTTG
+>seq_4323	len 160	site #1	f 151
+GCCTGATTTG
+>seq_4327	len 160	site #1	f 96
+GCCTGATTTG
+>seq_4331	len 160	site #1	f 78
+GCCTGATTTG
+>seq_4338	len 160	site #1	f 48
+GGCTGATTAG
+>seq_4341	len 160	site #1	r 109
+GCCTGATTAG
+>seq_4347	len 160	site #1	f 33
+GCCTGATTTG
+>seq_4355	len 160	site #1	f 58
+GCCTGATTTG
+>seq_4362	len 160	site #1	f 88
+GCCTGATTTG
+>seq_4371	len 160	site #1	f 103
+GTCTGATATG
+>seq_4390	len 160	site #1	f 13
+GCCTGATTTG
+>seq_4390	len 160	site #2	f 131
+GCCTGATTTG
+>seq_4406	len 160	site #1	f 29
+GCCTGATTTG
+>seq_4423	len 160	site #1	f 138
+GCCTGATTTG
+>seq_4430	len 160	site #1	f 133
+GCCGGAGTTG
+>seq_4462	len 160	site #1	f 42
+GCCTGATTTG
+>seq_4486	len 160	site #1	r 15
+GCCTGATTTG
+>seq_4494	len 160	site #1	f 70
+GCCTGATTTG
+>seq_4499	len 160	site #1	f 40
+GCCTGATTTG
+>seq_4500	len 160	site #1	f 79
+GTCCGATTTG
+>seq_4503	len 160	site #1	f 60
+GCCCGATTTA
+>seq_4504	len 160	site #1	r 153
+GCCTGTTTTG
+>seq_4506	len 160	site #1	r 64
+CCCTGATCTG
+>seq_4515	len 160	site #1	f 84
+GCCTGATTTG
+>seq_4518	len 160	site #1	f 57
+GCCTGATTTG
+>seq_4525	len 160	site #1	f 132
+GCCTGATTTG
+>seq_4531	len 160	site #1	f 53
+GCCTGATTTG
+>seq_4538	len 160	site #1	f 28
+GCCTGATTTG
+>seq_4538	len 160	site #2	r 12
+GGCTCATTTG
+>seq_4548	len 160	site #1	f 49
+GCCTGATTTT
+>seq_4549	len 160	site #1	r 109
+GCCTGTTTTG
+>seq_4552	len 160	site #1	f 53
+GCCTGATTTG
+>seq_4556	len 160	site #1	f 139
+GCCTGATTTG
+>seq_4580	len 160	site #1	f 76
+GCCTGATTTG
+>seq_4581	len 160	site #1	f 67
+GCCTGATTTG
+>seq_4592	len 160	site #1	f 57
+CGCTGATTTG
+>seq_4597	len 160	site #1	f 48
+GCCTGATTTG
+>seq_4598	len 160	site #1	f 39
+GCCTGATTTG
+>seq_4598	len 160	site #2	r 109
+GCCTGAATTG
+>seq_4599	len 160	site #1	f 28
+GCCTGATTTG
+>seq_4616	len 160	site #1	f 124
+GCATGAGTTG
+>seq_4619	len 160	site #1	f 54
+GCCTCATCTG
+>seq_4631	len 160	site #1	f 37
+GCCTGATTTG
+>seq_4635	len 160	site #1	r 111
+GCCTCATCTG
+>seq_4647	len 160	site #1	r 126
+GGCTGATTTG
+>seq_4651	len 160	site #1	r 46
+CCCTGATATG
+>seq_4655	len 160	site #1	f 120
+GCCTGATTTG
+>seq_4656	len 160	site #1	f 80
+GCCTGATTTG
+>seq_4659	len 160	site #1	f 123
+GCCTGATTTG
+>seq_4663	len 160	site #1	f 67
+GCCTGATTTG
+>seq_4671	len 160	site #1	f 136
+GCCTGATTTG
+>seq_4672	len 160	site #1	f 142
+GCCTGATTTG
+>seq_4672	len 160	site #2	f 80
+GCCCAATTTG
+>seq_4683	len 160	site #1	f 103
+GCCTGATTTG
+>seq_4693	len 160	site #1	f 34
+GCCTGATTTG
+>seq_4705	len 160	site #1	f 122
+GCCTGATTTG
+>seq_4708	len 160	site #1	r 60
+GTATGATTTG
+>seq_4750	len 160	site #1	f 41
+GCCTGATTTG
+>seq_4757	len 160	site #1	r 152
+GCATGATCTG
+>seq_4759	len 160	site #1	r 139
+GTCTGATTTG
+>seq_4761	len 160	site #1	f 136
+GCCTGATTTG
+>seq_4766	len 160	site #1	f 53
+GCCTGATTTG
+>seq_4769	len 160	site #1	f 132
+GCCTGATTTG
+>seq_4773	len 160	site #1	f 18
+GCCTGATTTG
+>seq_4774	len 160	site #1	f 45
+GCCTGATTTG
+>seq_4775	len 160	site #1	f 40
+GCCTGATTTG
+>seq_4802	len 160	site #1	f 43
+GCCTGATTTG
+>seq_4807	len 160	site #1	f 49
+GCCTGATTTG
+>seq_4820	len 160	site #1	f 85
+GCCTGATTTG
+>seq_4825	len 160	site #1	f 122
+GCCTGATTTG
+>seq_4833	len 160	site #1	f 74
+GCCTGATTTG
+>seq_4833	len 160	site #2	f 95
+GCCTGATTTG
+>seq_4835	len 160	site #1	f 79
+GCCTGATTTG
+>seq_4835	len 160	site #2	f 128
+GCCTGATTTG
+>seq_4837	len 160	site #1	f 26
+GCCTGATTTG
+>seq_4841	len 160	site #1	f 7
+GCCTGATTTG
+>seq_4855	len 160	site #1	f 26
+GCCTGATTTG
+>seq_4857	len 160	site #1	f 115
+GCCTGATTTG
+>seq_4860	len 160	site #1	f 20
+GCCTGATTTG
+>seq_4865	len 160	site #1	f 85
+GCCTGATTTG
+>seq_4877	len 160	site #1	r 102
+GCATGATTAG
+>seq_4884	len 160	site #1	f 143
+GCCGGATATG
+>seq_4892	len 160	site #1	f 17
+GCCGGATCTG
+>seq_4893	len 160	site #1	f 16
+GCCTGATTTG
+>seq_4895	len 160	site #1	f 113
+GCCTGATTTG
+>seq_4895	len 160	site #2	f 49
+CCCTGATTAG
+>seq_4900	len 160	site #1	r 110
+GCCTGATTAG
+>seq_4910	len 160	site #1	r 109
+GCCTCATCTG
+>seq_4914	len 160	site #1	f 55
+GCCTGATTTG
+>seq_4919	len 160	site #1	f 120
+GCCTGATTTG
+>seq_4930	len 160	site #1	f 73
+GCCTGATTTG
+>seq_4931	len 160	site #1	f 92
+GCCTGATTTG
+>seq_4940	len 160	site #1	f 1
+GCCTGATTTG
+>seq_4953	len 160	site #1	f 89
+GCCTGATTTG
+>seq_4965	len 160	site #1	f 116
+GCCTGATTTG
+>seq_4977	len 160	site #1	f 39
+GCCTGATTTG
+>seq_4987	len 160	site #1	f 20
+GCCTGATTTG
+>seq_4990	len 160	site #1	f 108
+GCCTGATTTG
+>seq_4995	len 160	site #1	f 129
+GCCTGATTTG
+>seq_4998	len 160	site #1	f 115
+GCCTGATTTG
+>seq_4999	len 160	site #1	f 42
+GCCTGATTTG
+>seq_5007	len 160	site #1	f 26
+GCCTGATTTG
+>seq_5031	len 160	site #1	f 113
+GCCTGATTTG
+>seq_5033	len 160	site #1	r 36
+GCCTAATTTG
+>seq_5043	len 160	site #1	f 77
+GGCTGATTTA
+>seq_5061	len 160	site #1	f 105
+GCCTGATTTG
+>seq_5062	len 160	site #1	f 74
+GCCTGATTTG
+>seq_5080	len 160	site #1	f 101
+GCCTGATTTG
+>seq_5085	len 160	site #1	f 40
+GCCGGAGTTG
+>seq_5087	len 160	site #1	f 8
+GCCTGATTTG
+>seq_5089	len 160	site #1	f 47
+GCCTGATTTG
+>seq_5089	len 160	site #2	f 103
+GCCTCATCTG
+>seq_5103	len 160	site #1	f 103
+GCCTGATTTG
+>seq_5105	len 160	site #1	f 41
+GCCTGATTTG
+>seq_5112	len 160	site #1	f 14
+GCCTGATTTG
+>seq_5119	len 160	site #1	f 41
+GCCTGATTTG
+>seq_5131	len 160	site #1	f 86
+GCCTGATTTG
+>seq_5135	len 160	site #1	f 58
+GCCTGATTTG
+>seq_5137	len 160	site #1	f 125
+GCCTGATTTG
+>seq_5153	len 160	site #1	f 72
+GCCTGATTTG
+>seq_5157	len 160	site #1	r 79
+GCCCCATTTG
+>seq_5158	len 160	site #1	f 112
+GCCTCATTTA
+>seq_5163	len 160	site #1	f 98
+GCCTGATTTG
+>seq_5168	len 160	site #1	f 17
+GCCTGATTTG
+>seq_5174	len 160	site #1	f 96
+GCCTGATTTG
+>seq_5185	len 160	site #1	r 35
+CCCTGATTAG
+>seq_5211	len 160	site #1	f 88
+GCCTGATTTG
+>seq_5211	len 160	site #2	f 111
+GCCTGATTTG
+>seq_5214	len 160	site #1	f 56
+GCCTGATTTG
+>seq_5214	len 160	site #2	f 131
+GCCTGATTTG
+>seq_5219	len 160	site #1	f 44
+GCCTGATTTG
+>seq_5228	len 160	site #1	f 33
+GCCTGATTTG
+>seq_5281	len 160	site #1	f 41
+GCCTGATTTG
+>seq_5283	len 160	site #1	f 13
+GCCTGATTTG
+>seq_5293	len 160	site #1	f 24
+GCCTGATTTG
+>seq_5301	len 160	site #1	f 27
+GCCTGATTTG
+>seq_5304	len 160	site #1	f 48
+GCCTGATTTG
+>seq_5319	len 160	site #1	f 114
+GCCTGATTTG
+>seq_5324	len 160	site #1	f 80
+GCCTGATTTG
+>seq_5329	len 160	site #1	f 66
+GCCTGATTTG
+>seq_5331	len 160	site #1	f 5
+GCCTGATTTG
+>seq_5333	len 160	site #1	f 133
+GCCAGATTTG
+>seq_5343	len 160	site #1	f 107
+GCCTGATTTG
+>seq_5344	len 160	site #1	f 14
+GCCTGATTTG
+>seq_5351	len 160	site #1	f 134
+GCCTGATTTG
+>seq_5369	len 160	site #1	f 106
+GCCTGATTTG
+>seq_5370	len 160	site #1	f 15
+GCCTGATTTG
+>seq_5381	len 160	site #1	f 107
+GCCTGATTTG
+>seq_5396	len 160	site #1	f 79
+GCCTGATTTG
+>seq_5416	len 160	site #1	f 34
+GCCTGATTTG
+>seq_5417	len 160	site #1	f 101
+GCCTGATTTG
+>seq_5417	len 160	site #2	f 123
+GCCTGATTTG
+>seq_5431	len 160	site #1	f 15
+GCCTGATTTG
+>seq_5441	len 160	site #1	f 25
+GCCTGATTTG
+>seq_5441	len 160	site #2	f 44
+CCCCGATTTG
+>seq_5450	len 160	site #1	f 110
+GCATGATTTA
+>seq_5471	len 160	site #1	f 138
+GCCTGATTTG
+>seq_5480	len 160	site #1	r 141
+GTCCGATTTG
+>seq_5491	len 160	site #1	f 116
+GCCTGATTTG
+>seq_5496	len 160	site #1	f 120
+GCCTGATTTG
+>seq_5503	len 160	site #1	r 47
+CCATGATTTG
+>seq_5516	len 160	site #1	f 129
+GCCTGATTTG
+>seq_5518	len 160	site #1	f 52
+GCCTGATTTG
+>seq_5519	len 160	site #1	f 1
+GGATGATTTG
+>seq_5522	len 160	site #1	f 44
+GCCTGATTTG
+>seq_5529	len 160	site #1	f 68
+GCCTGATTTG
+>seq_5540	len 160	site #1	f 50
+GCCTGATTTG
+>seq_5547	len 160	site #1	f 37
+GCCTGATTTG
+>seq_5552	len 160	site #1	f 44
+GCCTGATTTG
+>seq_5556	len 160	site #1	r 67
+GTCTCATTTG
+>seq_5558	len 160	site #1	f 104
+GCCTGATTTG
+>seq_5562	len 160	site #1	r 93
+CCCTGATCTG
+>seq_5569	len 160	site #1	f 36
+GCCTGATTTG
+>seq_5582	len 160	site #1	r 22
+GTCTGAGTTG
+>seq_5585	len 160	site #1	f 129
+GCCTGATTTG
+>seq_5591	len 160	site #1	f 38
+GCCTGATTTG
+>seq_5630	len 160	site #1	f 116
+GGCCGATTTG
+>seq_5642	len 160	site #1	f 76
+GCCTGATTTG
+>seq_5666	len 160	site #1	f 19
+GCCTGATTTG
+>seq_5675	len 160	site #1	f 125
+CCCTGATTAG
+>seq_5677	len 160	site #1	r 79
+GTCTGATTAG
+>seq_5678	len 160	site #1	f 60
+GCCTGATTTG
+>seq_5681	len 160	site #1	f 138
+GCCTGATTTG
+>seq_5692	len 160	site #1	r 102
+GTCTGATATG
+>seq_5698	len 160	site #1	f 29
+GCACGATTTG
+>seq_5711	len 160	site #1	f 27
+GCCTGATTTG
+>seq_5716	len 160	site #1	f 82
+GCCTGATTTG
+>seq_5738	len 160	site #1	f 57
+GCCTGATTTG
+>seq_5745	len 160	site #1	f 148
+GCATCATTTG
+>seq_5761	len 160	site #1	f 133
+GCCTGATTTG
+>seq_5776	len 160	site #1	f 84
+GCCTGATTTG
+>seq_5778	len 160	site #1	r 113
+GTATGATTTG
+>seq_5779	len 160	site #1	f 26
+GCCTGATTTG
+>seq_5795	len 160	site #1	f 24
+GCCTGATTTG
+>seq_5801	len 160	site #1	f 14
+GCCTGATTTG
+>seq_5805	len 160	site #1	r 57
+GCCTCATCTG
+>seq_5809	len 160	site #1	f 124
+GCAGGATTTG
+>seq_5811	len 160	site #1	f 57
+GCCTGATTTG
+>seq_5819	len 160	site #1	r 27
+GTCTGATCTG
+>seq_5828	len 160	site #1	f 124
+GCCTGATTTG
+>seq_5834	len 160	site #1	f 73
+GCCTGATTTG
+>seq_5840	len 160	site #1	f 4
+GCCTGATTTG
+>seq_5842	len 160	site #1	r 72
+GCATGATTAG
+>seq_5862	len 160	site #1	f 71
+CCCCGATTTG
+>seq_5873	len 160	site #1	f 25
+GCCTGATTTG
+>seq_5874	len 160	site #1	f 44
+GCCTGATTTG
+>seq_5875	len 160	site #1	f 10
+GCCTGATTTG
+>seq_5876	len 160	site #1	f 12
+GCCTGATTTG
+>seq_5883	len 160	site #1	f 86
+GCCTGATTTG
+>seq_5884	len 160	site #1	f 97
+GCCTGATTTG
+>seq_5895	len 160	site #1	f 42
+GCCTGATTTG
+>seq_5900	len 160	site #1	f 88
+GCCTGATTTG
+>seq_5902	len 160	site #1	f 12
+GCATGATTTG
+>seq_5903	len 160	site #1	f 147
+GCCTGATTTG
+>seq_5906	len 160	site #1	f 35
+GCCTGATTTG
+>seq_5917	len 160	site #1	f 126
+GCCTGATTTG
+>seq_5920	len 160	site #1	f 44
+GCCTGATTTG
+>seq_5935	len 160	site #1	f 92
+GCCTGATTTG
+>seq_5943	len 160	site #1	f 34
+GCCTGATTTG
+>seq_5945	len 160	site #1	r 156
+GCCGGATCTG
+>seq_5958	len 160	site #1	f 65
+GCCTGATTTG
+>seq_5959	len 160	site #1	f 62
+GCCTGATTTG
+>seq_5960	len 160	site #1	f 29
+GCCTGATTTG
+>seq_5966	len 160	site #1	f 52
+GCCTGATTTG
+>seq_5972	len 160	site #1	f 133
+GCCTGATTTG
+>seq_5979	len 160	site #1	f 117
+GCCTGATTTG
+>seq_5979	len 160	site #2	r 58
+GTCTGATTTA
+>seq_5980	len 160	site #1	f 23
+GCCTGATTTG
+>seq_6001	len 160	site #1	r 45
+GCCTCATTAG
+>seq_6003	len 160	site #1	f 12
+GCCTGATTTG
+>seq_6032	len 160	site #1	f 151
+GCCTGATTTG
+>seq_6033	len 160	site #1	f 91
+GCCTGATTTG
+>seq_6039	len 160	site #1	f 86
+GCCTGATTTG
+>seq_6047	len 160	site #1	f 106
+GCCTGATTTG
+>seq_6050	len 160	site #1	f 85
+GCCTGATTTG
+>seq_6053	len 160	site #1	f 137
+GCCTGATTTG
+>seq_6061	len 160	site #1	f 80
+GCCTGATTTG
+>seq_6077	len 160	site #1	f 131
+GCCTGATTTG
+>seq_6080	len 160	site #1	f 76
+GCCTGATTTG
+>seq_6095	len 160	site #1	f 150
+GCCTGATTTG
+>seq_6104	len 160	site #1	f 130
+GCCTGATTTG
+>seq_6108	len 160	site #1	f 99
+GCCTGATTTG
+>seq_6111	len 160	site #1	f 51
+GCCTGATTTG
+>seq_6115	len 160	site #1	f 23
+GCCTGATTTG
+>seq_6118	len 160	site #1	f 130
+GCCTGATTTG
+>seq_6119	len 160	site #1	f 43
+GCCTGATTTG
+>seq_6127	len 160	site #1	f 122
+GCCTGATTTG
+>seq_6138	len 160	site #1	f 103
+GCCTGATTTG
+>seq_6143	len 160	site #1	f 24
+GCCTGATTTG
+>seq_6150	len 160	site #1	f 145
+GCCTGATTTG
+>seq_6151	len 160	site #1	f 106
+GCCTGATTTG
+>seq_6151	len 160	site #2	f 127
+GCCTGATTTG
+>seq_6154	len 160	site #1	f 32
+GCCTGATTTG
+>seq_6168	len 160	site #1	r 98
+GCCCGATATG
+>seq_6173	len 160	site #1	f 30
+GCCTGATTTG
+>seq_6173	len 160	site #2	r 120
+GCATGATATG
+>seq_6178	len 160	site #1	f 113
+GCCTGATTTG
+>seq_6180	len 160	site #1	f 54
+CCCTGATTAG
+>seq_6199	len 160	site #1	r 155
+GTCTGATTTA
+>seq_6203	len 160	site #1	f 72
+GCCTGATTTG
+>seq_6212	len 160	site #1	f 12
+GCCTGATTTG
+>seq_6220	len 160	site #1	f 36
+GCCTGATTTG
+>seq_6223	len 160	site #1	f 8
+GCCTGATTTG
+>seq_6223	len 160	site #2	f 105
+GCCTGATTTG
+>seq_6225	len 160	site #1	f 5
+GCCTGATTTG
+>seq_6231	len 160	site #1	f 55
+GCCTGATTTG
+>seq_6236	len 160	site #1	f 36
+GCCTGATTTG
+>seq_6238	len 160	site #1	f 114
+GCCTGATTTG
+>seq_6258	len 160	site #1	f 90
+GCATGATCTG
+>seq_6272	len 160	site #1	f 123
+GCCTCATCTG
+>seq_6276	len 160	site #1	f 126
+GCCTGATTTG
+>seq_6281	len 160	site #1	f 104
+GCCTGATTTG
+>seq_6319	len 160	site #1	f 36
+GCCTGATTTG
+>seq_6322	len 160	site #1	f 57
+GCCTGATTTG
+>seq_6326	len 160	site #1	f 67
+GCCTGATTTG
+******************************
+
+Motif #5: (TGATTTGCGA/TCGCAAATCA)
+******************************
+Width (10, 0); Gap [0, 0]; MotifScore 7.782; Sites 826
+
+Blk1    A      C      G      T         Con  rCon Deg  rDeg 
+1      2.66   3.27   0.00  94.07        T    A    T    A
+2      0.12   3.39  96.37   0.12        G    C    G    C
+3     93.95   2.78   0.00   3.27        A    T    A    T
+4      0.36   0.00   0.00  99.64        T    A    T    A
+5      2.42   3.39   0.00  94.19        T    A    T    A
+6      0.24   3.75   0.00  96.00        T    A    T    A
+7      0.00   3.15  96.61   0.24        G    C    G    C
+8      2.91  95.88   1.21   0.00        C    G    C    G
+9      0.61   0.00  96.73   2.66        G    C    G    C
+10    96.73   0.00   0.00   3.27        A    T    A    T
+
+>seq_2	len 160	site #1	f 114
+TGAATTGCGA
+>seq_11	len 160	site #1	f 69
+TGATTTGCGA
+>seq_14	len 160	site #1	f 34
+TGATTTGCGA
+>seq_16	len 160	site #1	f 28
+TGATTTGCGA
+>seq_17	len 160	site #1	f 29
+TGATTTGCGA
+>seq_20	len 160	site #1	f 130
+TGATTTGCGA
+>seq_23	len 160	site #1	f 52
+TGATTTGCGA
+>seq_25	len 160	site #1	f 74
+TGATTTGCGA
+>seq_36	len 160	site #1	f 95
+TGATTTGCGA
+>seq_43	len 160	site #1	f 73
+TGATTTGCGA
+>seq_52	len 160	site #1	f 86
+TGATTTGCGA
+>seq_53	len 160	site #1	f 71
+TGATTTGCGA
+>seq_56	len 160	site #1	f 49
+TGATTTGCGA
+>seq_59	len 160	site #1	f 35
+TGATTTGCGA
+>seq_61	len 160	site #1	f 89
+TGATTTGCGA
+>seq_63	len 160	site #1	f 146
+TGATTTGCGA
+>seq_71	len 160	site #1	f 29
+AGATATGCGA
+>seq_77	len 160	site #1	f 50
+TGATTTGCGA
+>seq_78	len 160	site #1	f 54
+TGATTTGCGA
+>seq_90	len 160	site #1	f 37
+TGATTTGCGA
+>seq_93	len 160	site #1	f 83
+TGATTTGCGA
+>seq_100	len 160	site #1	f 112
+TGATTTGCGA
+>seq_101	len 160	site #1	f 96
+TGATTTGCGA
+>seq_105	len 160	site #1	f 101
+TCATATGCGA
+>seq_111	len 160	site #1	f 72
+TGATTTGCGA
+>seq_128	len 160	site #1	f 130
+TGATTTGCGA
+>seq_136	len 160	site #1	f 113
+CGATTTGAGA
+>seq_144	len 160	site #1	f 92
+TGATTTGCGA
+>seq_145	len 160	site #1	f 73
+TGATTTGCGA
+>seq_148	len 160	site #1	f 112
+TGATTTGCGA
+>seq_157	len 160	site #1	r 78
+TGATTCGCTA
+>seq_162	len 160	site #1	f 81
+TGATTTGCGA
+>seq_185	len 160	site #1	f 37
+TGTTTTGCGA
+>seq_191	len 160	site #1	f 140
+TGATTTGCGA
+>seq_195	len 160	site #1	f 67
+TGATTTGCGA
+>seq_202	len 160	site #1	f 84
+TGATTTGCGA
+>seq_206	len 160	site #1	f 104
+TGATTTGCGA
+>seq_206	len 160	site #2	r 138
+TGATATCCGA
+>seq_214	len 160	site #1	f 75
+TGATTTGCGA
+>seq_227	len 160	site #1	f 62
+TGATTTGCGA
+>seq_228	len 160	site #1	f 8
+TGATTTGCGA
+>seq_230	len 160	site #1	f 76
+TGATTTGCGA
+>seq_234	len 160	site #1	r 86
+TGATTTGAGT
+>seq_241	len 160	site #1	f 101
+TGATTTGCGA
+>seq_256	len 160	site #1	f 67
+TGATTTGCGA
+>seq_258	len 160	site #1	f 6
+TGATTTGCGA
+>seq_265	len 160	site #1	f 89
+TGATTTGCGA
+>seq_279	len 160	site #1	f 143
+TGATTTCCGT
+>seq_292	len 160	site #1	f 25
+TGATTTGCGA
+>seq_292	len 160	site #2	f 123
+TGATTTGCGA
+>seq_314	len 160	site #1	f 39
+TGATTTGCGA
+>seq_326	len 160	site #1	f 16
+TGATTTGCGA
+>seq_326	len 160	site #2	f 111
+TGATTTGCGA
+>seq_341	len 160	site #1	f 31
+TGATTTGCGA
+>seq_344	len 160	site #1	f 32
+TGATTTGCGA
+>seq_363	len 160	site #1	f 141
+TGATTTGCGA
+>seq_367	len 160	site #1	f 12
+TGATTTGCGA
+>seq_396	len 160	site #1	f 18
+TGATTTGCGA
+>seq_403	len 160	site #1	f 89
+TGATTTGCGA
+>seq_403	len 160	site #2	f 119
+TGATTTGCGA
+>seq_409	len 160	site #1	f 120
+TGATTTGCGA
+>seq_416	len 160	site #1	f 82
+TGATTTGCGA
+>seq_427	len 160	site #1	f 144
+TGATTTGCGA
+>seq_430	len 160	site #1	f 10
+TGATTTGCGA
+>seq_433	len 160	site #1	f 94
+TGATTTGCGA
+>seq_438	len 160	site #1	f 98
+TGATTTGCGA
+>seq_450	len 160	site #1	f 114
+TGATTTGCGA
+>seq_462	len 160	site #1	f 5
+TGATTTGCGA
+>seq_466	len 160	site #1	f 42
+TGATTTGCGA
+>seq_466	len 160	site #2	f 63
+TGATTTGCGA
+>seq_470	len 160	site #1	f 85
+TGATTTGCGA
+>seq_472	len 160	site #1	f 139
+TGATTTGCGA
+>seq_489	len 160	site #1	f 120
+TGATTTGCGA
+>seq_493	len 160	site #1	f 79
+TGATTTGCGA
+>seq_500	len 160	site #1	f 71
+TGATTTGCGA
+>seq_513	len 160	site #1	f 44
+TGATTTGCGA
+>seq_517	len 160	site #1	f 25
+TGATTTGCGA
+>seq_519	len 160	site #1	r 145
+CGATTTGCTA
+>seq_522	len 160	site #1	f 32
+TGATTTGCGA
+>seq_524	len 160	site #1	f 68
+TGATTTGCGA
+>seq_525	len 160	site #1	f 48
+TGATTTGCGA
+>seq_526	len 160	site #1	f 135
+TGATTTGCGA
+>seq_543	len 160	site #1	f 100
+TGATTTGCGA
+>seq_544	len 160	site #1	f 73
+TGATTTGCGA
+>seq_547	len 160	site #1	f 111
+TGATTTGCGA
+>seq_551	len 160	site #1	f 30
+TGATTTGCGA
+>seq_552	len 160	site #1	f 131
+TGATTTGCGA
+>seq_555	len 160	site #1	f 140
+TGATTTGCGA
+>seq_580	len 160	site #1	f 98
+AGATTTGAGA
+>seq_590	len 160	site #1	f 126
+TGATTTGCGA
+>seq_591	len 160	site #1	f 108
+TGATTTGCGA
+>seq_609	len 160	site #1	f 132
+TGATTTGCGA
+>seq_613	len 160	site #1	f 21
+TGATTTGCGA
+>seq_615	len 160	site #1	f 136
+TGATTTGCGA
+>seq_617	len 160	site #1	f 70
+TGATTTGCGA
+>seq_617	len 160	site #2	f 120
+TGATTTGCGA
+>seq_626	len 160	site #1	f 16
+TGATTTGCGA
+>seq_626	len 160	site #2	f 55
+TCATATGCGA
+>seq_642	len 160	site #1	f 19
+TGATTTGCGA
+>seq_645	len 160	site #1	f 20
+TGATTTGCGA
+>seq_648	len 160	site #1	f 97
+TGATTTGCGA
+>seq_652	len 160	site #1	f 16
+TGATTTGCGA
+>seq_654	len 160	site #1	f 95
+CGATTTCCGA
+>seq_655	len 160	site #1	f 121
+TGATTTGCGA
+>seq_661	len 160	site #1	f 50
+TGATTTGCGA
+>seq_683	len 160	site #1	f 92
+TGATTTGCGA
+>seq_703	len 160	site #1	f 107
+TGATTTGCGA
+>seq_714	len 160	site #1	f 38
+TGATTTGCGA
+>seq_721	len 160	site #1	r 110
+TGATTTTCGA
+>seq_728	len 160	site #1	f 75
+TGATTTGCGA
+>seq_745	len 160	site #1	f 7
+TGATTTGCGA
+>seq_754	len 160	site #1	f 66
+TGATTTGCGA
+>seq_754	len 160	site #2	f 17
+CGATTTCCGA
+>seq_756	len 160	site #1	r 90
+TGATTTGAGT
+>seq_761	len 160	site #1	f 143
+TGATTTGCGA
+>seq_763	len 160	site #1	f 46
+TGATTTGCGA
+>seq_764	len 160	site #1	f 77
+TGATTTGCGA
+>seq_777	len 160	site #1	f 107
+TGATTTGCGA
+>seq_789	len 160	site #1	f 108
+TGATTTGCGA
+>seq_819	len 160	site #1	f 150
+TGATTTGCGA
+>seq_825	len 160	site #1	f 117
+TGATTTGCGA
+>seq_852	len 160	site #1	f 18
+TGATTTGCGA
+>seq_857	len 160	site #1	f 144
+TGATTTGCGA
+>seq_859	len 160	site #1	f 146
+TGATTTGCGA
+>seq_862	len 160	site #1	f 37
+TGATTTGCGA
+>seq_879	len 160	site #1	f 131
+TGATTTGCGA
+>seq_880	len 160	site #1	f 44
+TGATTTGCGA
+>seq_883	len 160	site #1	f 19
+TGATTTGCGA
+>seq_904	len 160	site #1	f 75
+TGATTTGCGA
+>seq_911	len 160	site #1	f 55
+TGATTTGCGA
+>seq_924	len 160	site #1	f 60
+TGATTTGCGA
+>seq_931	len 160	site #1	f 87
+TGATTTGCGA
+>seq_933	len 160	site #1	f 33
+TCATCTGCGA
+>seq_934	len 160	site #1	f 21
+TGATTTGCGA
+>seq_936	len 160	site #1	f 114
+TGATTTGCGA
+>seq_937	len 160	site #1	f 103
+TGATTTGCGA
+>seq_958	len 160	site #1	f 69
+TGATTTGCGA
+>seq_983	len 160	site #1	f 54
+TGATATCCGA
+>seq_998	len 160	site #1	f 88
+TGATTTGCGA
+>seq_999	len 160	site #1	f 87
+TGATTTGCGA
+>seq_1016	len 160	site #1	f 12
+TGATTTGCGA
+>seq_1020	len 160	site #1	f 49
+TGATTTGCGA
+>seq_1027	len 160	site #1	f 43
+TGATTTGCGA
+>seq_1031	len 160	site #1	r 31
+TGATTTGAGT
+>seq_1036	len 160	site #1	f 71
+TGATTTGCAA
+>seq_1054	len 160	site #1	f 3
+TGATTTGCGA
+>seq_1059	len 160	site #1	f 7
+TCATTTGCTA
+>seq_1060	len 160	site #1	f 107
+TGATTTGCGA
+>seq_1066	len 160	site #1	f 22
+TGATTTGCGA
+>seq_1072	len 160	site #1	f 35
+TGATTTGCGA
+>seq_1074	len 160	site #1	f 17
+TGATTTGCGA
+>seq_1081	len 160	site #1	f 51
+TGATTTGCGA
+>seq_1088	len 160	site #1	f 50
+TGATTTGCGA
+>seq_1096	len 160	site #1	f 116
+TGATTTGCAA
+>seq_1150	len 160	site #1	f 53
+AGTTTAGCGA
+>seq_1172	len 160	site #1	r 58
+TGCTTTGGGA
+>seq_1200	len 160	site #1	f 32
+TGATTTGCGA
+>seq_1209	len 160	site #1	f 33
+TGATTTGCGA
+>seq_1217	len 160	site #1	f 97
+TGATTTGCGA
+>seq_1223	len 160	site #1	r 75
+TCATTTGGGA
+>seq_1249	len 160	site #1	f 45
+AGATTCGCGA
+>seq_1252	len 160	site #1	f 56
+TGATTTGCGA
+>seq_1259	len 160	site #1	f 85
+TGATTTGCGA
+>seq_1260	len 160	site #1	f 124
+TGATTTGCGA
+>seq_1272	len 160	site #1	f 115
+TGATTTGCGA
+>seq_1288	len 160	site #1	f 70
+TGATTTGCGA
+>seq_1295	len 160	site #1	f 107
+TAATTTGCGA
+>seq_1301	len 160	site #1	f 26
+TGATTTGCGA
+>seq_1312	len 160	site #1	f 121
+TGATTTGCGA
+>seq_1318	len 160	site #1	f 43
+TGATTTGCGA
+>seq_1319	len 160	site #1	f 130
+TGATTTGCGA
+>seq_1321	len 160	site #1	f 60
+TGATTTGCGA
+>seq_1327	len 160	site #1	r 140
+TGTTTCGCGA
+>seq_1328	len 160	site #1	f 135
+TGATTTGCGA
+>seq_1336	len 160	site #1	f 62
+TGATTTGCGA
+>seq_1345	len 160	site #1	f 76
+TGATTTGCGA
+>seq_1350	len 160	site #1	f 49
+TGCTTTGCGA
+>seq_1351	len 160	site #1	r 19
+TCATTTCCGA
+>seq_1352	len 160	site #1	f 149
+TGATTTGCGA
+>seq_1356	len 160	site #1	f 97
+CGATTTGCGT
+>seq_1361	len 160	site #1	f 98
+TGATTTGCGA
+>seq_1361	len 160	site #2	f 73
+TGATCCGCGA
+>seq_1379	len 160	site #1	f 62
+TGATTTGCGA
+>seq_1379	len 160	site #2	f 112
+TGATTTGCGA
+>seq_1389	len 160	site #1	f 125
+TGATTTGCGA
+>seq_1393	len 160	site #1	f 129
+TGATTTGCGA
+>seq_1406	len 160	site #1	f 144
+TGATTTGCGA
+>seq_1409	len 160	site #1	f 143
+TGATTTGCGA
+>seq_1416	len 160	site #1	f 74
+TGATTTGCGA
+>seq_1438	len 160	site #1	f 26
+TGATTTGCGA
+>seq_1438	len 160	site #2	f 100
+TGATTTGCGA
+>seq_1440	len 160	site #1	r 119
+TGATTTGGGT
+>seq_1443	len 160	site #1	f 52
+TGATTTGCGA
+>seq_1443	len 160	site #2	f 141
+TGATTTGCGA
+>seq_1444	len 160	site #1	f 139
+TGATTTGCGA
+>seq_1448	len 160	site #1	f 11
+TGATTTGCGA
+>seq_1453	len 160	site #1	f 88
+TGATTTGCGA
+>seq_1455	len 160	site #1	f 30
+TGATTTGCGA
+>seq_1463	len 160	site #1	f 1
+TGATTTGCGA
+>seq_1463	len 160	site #2	f 123
+TGATTTGCGA
+>seq_1480	len 160	site #1	r 38
+TGATTCCCGA
+>seq_1482	len 160	site #1	f 130
+TGATTTGCGA
+>seq_1485	len 160	site #1	f 107
+TGATTTGCGA
+>seq_1491	len 160	site #1	f 130
+TGATTTGCGA
+>seq_1496	len 160	site #1	f 135
+TGATTTGCGA
+>seq_1509	len 160	site #1	f 55
+TCATTTGCGA
+>seq_1519	len 160	site #1	f 5
+TGATTTGCGA
+>seq_1526	len 160	site #1	f 92
+TGATTTGCGA
+>seq_1526	len 160	site #2	f 150
+TGATTTGCGA
+>seq_1526	len 160	site #3	r 125
+TGATCTGAGA
+>seq_1546	len 160	site #1	f 25
+TGATTTGCGA
+>seq_1546	len 160	site #2	f 82
+TGATTCCCGA
+>seq_1547	len 160	site #1	f 6
+TGATTTGCGA
+>seq_1577	len 160	site #1	f 118
+TGATTTGCGA
+>seq_1581	len 160	site #1	f 50
+TGATTTGCGA
+>seq_1585	len 160	site #1	f 108
+TGATTTGCGA
+>seq_1595	len 160	site #1	f 15
+TGATTTGCGA
+>seq_1600	len 160	site #1	f 37
+TGATTTGCGA
+>seq_1600	len 160	site #2	f 94
+TGATTTGCGA
+>seq_1606	len 160	site #1	f 37
+TGATTTGCGA
+>seq_1607	len 160	site #1	f 21
+TGATTTGCGA
+>seq_1637	len 160	site #1	f 125
+TGATTTGCGA
+>seq_1638	len 160	site #1	f 73
+TGATTTGCGA
+>seq_1646	len 160	site #1	r 156
+TGTTTTGCGA
+>seq_1647	len 160	site #1	f 3
+TGATTTGCGA
+>seq_1665	len 160	site #1	f 69
+TGATCTCCGA
+>seq_1666	len 160	site #1	r 139
+TCATTTGCGA
+>seq_1681	len 160	site #1	r 155
+AGATTTGCTA
+>seq_1690	len 160	site #1	f 120
+TGATTTGCGA
+>seq_1709	len 160	site #1	f 23
+TGATTTGCGA
+>seq_1711	len 160	site #1	f 18
+TGATTTGCGA
+>seq_1713	len 160	site #1	f 88
+TGATTTGCGA
+>seq_1714	len 160	site #1	f 107
+TGATTTGCGA
+>seq_1715	len 160	site #1	f 36
+TGTTTCGCGA
+>seq_1717	len 160	site #1	f 123
+TGATTTGCGA
+>seq_1720	len 160	site #1	f 54
+TGATTTGCGA
+>seq_1726	len 160	site #1	r 42
+TGATATCCGA
+>seq_1757	len 160	site #1	f 91
+TGATTTGCGA
+>seq_1757	len 160	site #2	f 148
+TGATTTGCGA
+>seq_1767	len 160	site #1	f 46
+TGATTTGCGA
+>seq_1772	len 160	site #1	f 103
+TGATTTGCGA
+>seq_1785	len 160	site #1	f 33
+TGATTTGCGA
+>seq_1787	len 160	site #1	f 57
+TGTTTTGGGA
+>seq_1792	len 160	site #1	f 128
+TGATTTGCGA
+>seq_1797	len 160	site #1	f 120
+TGATTTGCGA
+>seq_1845	len 160	site #1	f 63
+TGATTTGCGA
+>seq_1859	len 160	site #1	f 84
+TGATTTGCGA
+>seq_1882	len 160	site #1	f 148
+TGATTTGCGA
+>seq_1912	len 160	site #1	f 77
+TGATTTGCGA
+>seq_1916	len 160	site #1	r 34
+TGATCTGCGT
+>seq_1924	len 160	site #1	f 56
+TGATTTGCGA
+>seq_1927	len 160	site #1	f 87
+TGATTTGCGA
+>seq_1951	len 160	site #1	f 55
+TGATTTGCGA
+>seq_1959	len 160	site #1	f 149
+TGATTTGCGA
+>seq_1977	len 160	site #1	r 76
+CGTTTTGCGA
+>seq_2015	len 160	site #1	f 104
+TGATTTGCGA
+>seq_2018	len 160	site #1	r 140
+CGATTTGAGA
+>seq_2019	len 160	site #1	f 67
+TGATTTGCGA
+>seq_2033	len 160	site #1	f 111
+TGATTTGCGA
+>seq_2033	len 160	site #2	f 87
+TGCTTTCCGA
+>seq_2037	len 160	site #1	f 131
+TGTTTCGCGA
+>seq_2046	len 160	site #1	f 106
+TGATTTGCGA
+>seq_2053	len 160	site #1	f 64
+TGATTTGCGA
+>seq_2055	len 160	site #1	r 142
+TGTTCTGCAA
+>seq_2058	len 160	site #1	f 16
+TGATTTGCGA
+>seq_2073	len 160	site #1	f 96
+TGATTTGCGA
+>seq_2074	len 160	site #1	f 65
+TGATTTGCGA
+>seq_2076	len 160	site #1	f 81
+TGATTTGCGA
+>seq_2081	len 160	site #1	r 28
+AGATTCGCGA
+>seq_2085	len 160	site #1	f 60
+TGATTTGCGA
+>seq_2088	len 160	site #1	f 99
+TGATTTGCGA
+>seq_2088	len 160	site #2	f 126
+TGATCTGCTA
+>seq_2102	len 160	site #1	f 88
+TGATTTGCGA
+>seq_2107	len 160	site #1	f 12
+TGATTTGCGA
+>seq_2113	len 160	site #1	f 111
+TGCTTTGCGT
+>seq_2126	len 160	site #1	f 150
+TGATTTGCGA
+>seq_2133	len 160	site #1	f 35
+TGATTTGCGA
+>seq_2143	len 160	site #1	f 132
+TGATTTGCGA
+>seq_2167	len 160	site #1	f 83
+TGATTTGCGA
+>seq_2171	len 160	site #1	f 111
+TGATTTGCGA
+>seq_2178	len 160	site #1	f 68
+TGTTTTGCTA
+>seq_2191	len 160	site #1	f 9
+TGATTTGCGA
+>seq_2193	len 160	site #1	f 73
+TGATTTGCGA
+>seq_2194	len 160	site #1	f 109
+TGATTTGCGA
+>seq_2196	len 160	site #1	r 124
+TGATTTCCGA
+>seq_2221	len 160	site #1	f 22
+TGATTTGCGA
+>seq_2240	len 160	site #1	f 38
+TGATTTGCGA
+>seq_2253	len 160	site #1	f 1
+TGATTTGCTA
+>seq_2255	len 160	site #1	f 46
+TGATTTGCGA
+>seq_2264	len 160	site #1	f 127
+TGATTTGCGA
+>seq_2270	len 160	site #1	f 47
+TGATTTGCGA
+>seq_2272	len 160	site #1	f 42
+CGATTCGCGA
+>seq_2275	len 160	site #1	f 111
+TGATTTGCGA
+>seq_2284	len 160	site #1	f 35
+TGATTTGCGA
+>seq_2285	len 160	site #1	f 30
+TGATTTGCGA
+>seq_2287	len 160	site #1	f 143
+TGATTTGCGA
+>seq_2294	len 160	site #1	f 31
+TGCTTTGCGA
+>seq_2295	len 160	site #1	f 59
+TGATTCGCTA
+>seq_2297	len 160	site #1	r 67
+TGTTTTGCGT
+>seq_2298	len 160	site #1	r 48
+TCATTCGCGA
+>seq_2309	len 160	site #1	f 121
+TGATTTGCGA
+>seq_2316	len 160	site #1	f 57
+TGATTTGCGA
+>seq_2321	len 160	site #1	f 57
+TGATTTGCGA
+>seq_2321	len 160	site #2	f 112
+TGATTTGCGA
+>seq_2321	len 160	site #3	f 147
+TGATTTGCGA
+>seq_2324	len 160	site #1	r 84
+TGTTTTGCTA
+>seq_2335	len 160	site #1	r 71
+TGTTATGCGA
+>seq_2336	len 160	site #1	f 48
+TGATTTGCGA
+>seq_2345	len 160	site #1	f 83
+CGATCTGCGA
+>seq_2360	len 160	site #1	f 146
+TGATATGCGT
+>seq_2386	len 160	site #1	f 29
+TGATTTGCGA
+>seq_2387	len 160	site #1	f 87
+TGATTTGCGA
+>seq_2388	len 160	site #1	f 102
+TGATTTGCGA
+>seq_2395	len 160	site #1	f 146
+TGATTTGCGA
+>seq_2414	len 160	site #1	f 88
+TGATTTGCGA
+>seq_2420	len 160	site #1	f 13
+TGATTTGCGA
+>seq_2427	len 160	site #1	f 126
+TGATTTGCGA
+>seq_2428	len 160	site #1	f 108
+TGATTTGCGA
+>seq_2449	len 160	site #1	f 12
+TGATTTGCGA
+>seq_2450	len 160	site #1	f 69
+TGATTTGCGA
+>seq_2464	len 160	site #1	f 127
+TGATTTGCGA
+>seq_2469	len 160	site #1	f 141
+TGATTTGCGA
+>seq_2480	len 160	site #1	f 139
+TGATTTGCGA
+>seq_2493	len 160	site #1	f 42
+TGATTTGCGA
+>seq_2494	len 160	site #1	f 121
+TGATTTGCGA
+>seq_2510	len 160	site #1	f 138
+TGATTTGCGA
+>seq_2512	len 160	site #1	f 89
+TGATTTGCGA
+>seq_2517	len 160	site #1	f 51
+TGATTTGCGA
+>seq_2523	len 160	site #1	f 22
+TGATTTGCGA
+>seq_2529	len 160	site #1	f 144
+TGATTTGCGA
+>seq_2532	len 160	site #1	f 98
+TGATTTGCGA
+>seq_2534	len 160	site #1	f 139
+TGATTTGCGA
+>seq_2538	len 160	site #1	f 128
+TGATTTGCGA
+>seq_2547	len 160	site #1	f 17
+TGATTTGCGA
+>seq_2550	len 160	site #1	f 58
+TGATTTGCGA
+>seq_2564	len 160	site #1	f 3
+TGATTTGCGA
+>seq_2565	len 160	site #1	f 38
+TGATTTGCGA
+>seq_2597	len 160	site #1	f 63
+TCCTTTGCGA
+>seq_2599	len 160	site #1	f 131
+TGATTTGCGA
+>seq_2609	len 160	site #1	f 131
+TGATTTGCGA
+>seq_2626	len 160	site #1	f 127
+TGATTTGCGA
+>seq_2639	len 160	site #1	f 128
+TGATTTGCGA
+>seq_2647	len 160	site #1	f 55
+TGCTTTGCGA
+>seq_2657	len 160	site #1	f 112
+TGATTTGCGA
+>seq_2662	len 160	site #1	f 148
+TGATTTGCGA
+>seq_2665	len 160	site #1	f 147
+TGATTTGCGA
+>seq_2672	len 160	site #1	f 82
+TGATTTGCGA
+>seq_2688	len 160	site #1	f 16
+TGATATGAGA
+>seq_2695	len 160	site #1	f 77
+TGATTTGCGA
+>seq_2704	len 160	site #1	f 94
+TGATTTGCGA
+>seq_2714	len 160	site #1	f 118
+TGATTTGCGT
+>seq_2715	len 160	site #1	f 63
+CCATTTGCGA
+>seq_2727	len 160	site #1	f 13
+TGATTTGCGA
+>seq_2727	len 160	site #2	f 54
+TGATTTGCGA
+>seq_2741	len 160	site #1	f 15
+TGATTTGCGA
+>seq_2743	len 160	site #1	f 41
+TGATTTGCGA
+>seq_2753	len 160	site #1	f 140
+TGATCTGCGA
+>seq_2762	len 160	site #1	f 96
+TGATTTGCGA
+>seq_2785	len 160	site #1	f 30
+TCCTTTGCGA
+>seq_2789	len 160	site #1	f 127
+TGATTTGCGA
+>seq_2798	len 160	site #1	f 27
+TGATTTGCGA
+>seq_2800	len 160	site #1	f 27
+TGATTTGCGA
+>seq_2804	len 160	site #1	f 99
+TGATTTGCGA
+>seq_2807	len 160	site #1	f 96
+TGATTTGCGA
+>seq_2817	len 160	site #1	f 113
+TGATTTGCGA
+>seq_2827	len 160	site #1	f 73
+TGATTTGCGA
+>seq_2840	len 160	site #1	f 10
+TGATCCGCGA
+>seq_2843	len 160	site #1	f 41
+TCCTTTGCGA
+>seq_2848	len 160	site #1	f 76
+TGATTTGCGA
+>seq_2851	len 160	site #1	f 123
+TGATTCGAGA
+>seq_2866	len 160	site #1	f 59
+TGATTTGCGA
+>seq_2869	len 160	site #1	f 77
+TGATTTGCGA
+>seq_2895	len 160	site #1	f 2
+TGATTTGCGA
+>seq_2898	len 160	site #1	f 57
+TGATTTGCGA
+>seq_2909	len 160	site #1	f 148
+TGATCCGCGA
+>seq_2915	len 160	site #1	f 139
+TGATTTGCGA
+>seq_2936	len 160	site #1	f 28
+TGATTTGCGA
+>seq_2952	len 160	site #1	f 105
+TGATTTGCGA
+>seq_2956	len 160	site #1	f 9
+CGATTTGCTA
+>seq_2958	len 160	site #1	f 11
+TGATTTGCGA
+>seq_2969	len 160	site #1	f 46
+TGATTTGCGA
+>seq_2970	len 160	site #1	f 79
+TGATTTGCGA
+>seq_2974	len 160	site #1	f 31
+TGATTTGCGA
+>seq_2974	len 160	site #2	f 146
+TGATTTGCGA
+>seq_2980	len 160	site #1	f 151
+TGATTTGCGA
+>seq_2981	len 160	site #1	f 148
+TGATTTGCGA
+>seq_2986	len 160	site #1	f 136
+TGATTTGCGA
+>seq_2993	len 160	site #1	f 27
+TGATTTGCGA
+>seq_2994	len 160	site #1	f 89
+TGATTTGCGA
+>seq_3011	len 160	site #1	f 50
+TGATTTGCGA
+>seq_3015	len 160	site #1	f 45
+TGATTTGCGA
+>seq_3015	len 160	site #2	f 99
+TGATTTGCGA
+>seq_3029	len 160	site #1	f 79
+TGATTTGCGA
+>seq_3047	len 160	site #1	f 109
+CGTTTTGCGA
+>seq_3048	len 160	site #1	f 133
+TGATTTGCGA
+>seq_3051	len 160	site #1	f 7
+TGATTTGCGA
+>seq_3057	len 160	site #1	f 36
+TGATTTGCGA
+>seq_3057	len 160	site #2	f 68
+TGATTTGCGA
+>seq_3081	len 160	site #1	f 93
+TGATTTGCGA
+>seq_3095	len 160	site #1	f 33
+TGATTTGCGA
+>seq_3103	len 160	site #1	f 82
+TGATTTGCGA
+>seq_3124	len 160	site #1	f 88
+TGATTTGCGA
+>seq_3126	len 160	site #1	f 67
+TGATTTGCGA
+>seq_3141	len 160	site #1	f 65
+TGATTTGCGA
+>seq_3145	len 160	site #1	f 147
+TGATTTGCGA
+>seq_3160	len 160	site #1	f 105
+TGATTTGCGA
+>seq_3163	len 160	site #1	f 122
+TGATTTGCGA
+>seq_3183	len 160	site #1	f 51
+TGATTTGCGA
+>seq_3198	len 160	site #1	f 52
+TCATTTCCGA
+>seq_3200	len 160	site #1	f 29
+TGATTTGCGA
+>seq_3203	len 160	site #1	f 96
+TGATATGAGA
+>seq_3219	len 160	site #1	f 91
+TGATTCGCGT
+>seq_3224	len 160	site #1	f 110
+TGATTTGCGA
+>seq_3226	len 160	site #1	f 31
+TGATTTGCGA
+>seq_3233	len 160	site #1	f 28
+TGATTTGCGA
+>seq_3251	len 160	site #1	r 142
+AGATTTCCGA
+>seq_3254	len 160	site #1	f 150
+TGATTTGCGA
+>seq_3258	len 160	site #1	f 49
+TGATTTGCGA
+>seq_3261	len 160	site #1	f 86
+TGATTTGCGA
+>seq_3267	len 160	site #1	f 60
+TGATTTGCGA
+>seq_3275	len 160	site #1	f 114
+TGATTTGCGA
+>seq_3276	len 160	site #1	f 90
+TGATTTGCGA
+>seq_3287	len 160	site #1	f 83
+TGATTTGCGA
+>seq_3288	len 160	site #1	r 26
+TTATTTGCGA
+>seq_3291	len 160	site #1	f 42
+TGATTTGCGA
+>seq_3304	len 160	site #1	f 119
+TGATTTGCGA
+>seq_3305	len 160	site #1	f 95
+TGATTTGCGA
+>seq_3306	len 160	site #1	r 62
+CGATATGCGA
+>seq_3322	len 160	site #1	f 37
+TGATTTGCGA
+>seq_3324	len 160	site #1	r 39
+CGATTCGGAA
+>seq_3353	len 160	site #1	f 23
+TGATTTGCGA
+>seq_3355	len 160	site #1	f 100
+TGATTTGCGA
+>seq_3355	len 160	site #2	r 76
+TGTTATGCGA
+>seq_3365	len 160	site #1	f 132
+TGATTTGCGA
+>seq_3366	len 160	site #1	f 78
+TGATTTGCGA
+>seq_3374	len 160	site #1	f 14
+TGATTTGCGA
+>seq_3379	len 160	site #1	f 136
+TGATTTGCGA
+>seq_3381	len 160	site #1	f 81
+TGATTTGCGA
+>seq_3382	len 160	site #1	f 133
+TCATTTGGGA
+>seq_3391	len 160	site #1	f 92
+TGATTTGCGA
+>seq_3409	len 160	site #1	f 98
+CGATTCGCGA
+>seq_3411	len 160	site #1	f 54
+AGCTTTGCGA
+>seq_3415	len 160	site #1	f 31
+TGATTTGCGA
+>seq_3420	len 160	site #1	f 141
+TGATTTGCGA
+>seq_3424	len 160	site #1	f 127
+TGATTTGCGA
+>seq_3429	len 160	site #1	f 116
+TGATTTGCGA
+>seq_3434	len 160	site #1	f 105
+TGATTTGCGA
+>seq_3454	len 160	site #1	f 64
+TGATTTGCGA
+>seq_3473	len 160	site #1	f 89
+TGATTTGCGA
+>seq_3481	len 160	site #1	f 62
+TGATTTGCGA
+>seq_3484	len 160	site #1	f 88
+TGAATTGCGA
+>seq_3507	len 160	site #1	f 62
+TGATTTGGGA
+>seq_3512	len 160	site #1	f 61
+TGATATGCGT
+>seq_3524	len 160	site #1	f 116
+TGATTTGCGA
+>seq_3528	len 160	site #1	f 132
+TGATTTGCGA
+>seq_3532	len 160	site #1	f 90
+TGATTTGCGA
+>seq_3546	len 160	site #1	f 101
+TGATTTGCGA
+>seq_3550	len 160	site #1	r 106
+TCATCTGCGA
+>seq_3555	len 160	site #1	f 38
+TGATTTGCGA
+>seq_3588	len 160	site #1	f 147
+TGATTTGCGA
+>seq_3590	len 160	site #1	f 74
+TGATTTGCGA
+>seq_3591	len 160	site #1	f 100
+TGATTTGCGA
+>seq_3613	len 160	site #1	f 136
+TGATTTGCGA
+>seq_3627	len 160	site #1	f 61
+TGATTTGCGA
+>seq_3645	len 160	site #1	f 88
+TGATTTGCGA
+>seq_3645	len 160	site #2	f 109
+TGATTTGCGA
+>seq_3647	len 160	site #1	f 130
+TGATTTGCGA
+>seq_3654	len 160	site #1	r 29
+TGATTTGCTA
+>seq_3659	len 160	site #1	f 48
+TGATTTGCGA
+>seq_3659	len 160	site #2	f 116
+TGATTTGCGA
+>seq_3669	len 160	site #1	f 61
+TGATTTGCGA
+>seq_3672	len 160	site #1	f 133
+TGATTTGCGA
+>seq_3681	len 160	site #1	f 19
+TGATTTGCGA
+>seq_3690	len 160	site #1	f 6
+TCATCTGCGA
+>seq_3707	len 160	site #1	f 78
+TGATTTGCGA
+>seq_3708	len 160	site #1	f 35
+TGATTTGCGA
+>seq_3739	len 160	site #1	f 134
+TGATTTGCGA
+>seq_3740	len 160	site #1	f 125
+TGATTTGCGA
+>seq_3751	len 160	site #1	f 135
+TGATTTGCGA
+>seq_3753	len 160	site #1	f 91
+TGATTTGCGA
+>seq_3771	len 160	site #1	f 64
+TGATTTGCGA
+>seq_3773	len 160	site #1	r 123
+TGCTTTGCGT
+>seq_3784	len 160	site #1	f 137
+TCATTCGCGA
+>seq_3787	len 160	site #1	f 52
+TGATTTGCGA
+>seq_3794	len 160	site #1	f 36
+TGATTTGCGA
+>seq_3799	len 160	site #1	f 122
+TGATTTGCGA
+>seq_3805	len 160	site #1	r 101
+TGATTCCCGA
+>seq_3807	len 160	site #1	f 45
+TGATTTGCGA
+>seq_3822	len 160	site #1	f 108
+TGATTTGCGA
+>seq_3829	len 160	site #1	r 68
+TGATCTGAGA
+>seq_3836	len 160	site #1	f 5
+TGATTTGCGA
+>seq_3868	len 160	site #1	r 33
+TGTTTCGCGA
+>seq_3873	len 160	site #1	f 73
+TGATTTGCGA
+>seq_3888	len 160	site #1	f 119
+TGATTTGCGA
+>seq_3892	len 160	site #1	f 65
+TGATTTGCGA
+>seq_3892	len 160	site #2	f 142
+TGATTTGCGA
+>seq_3894	len 160	site #1	f 33
+TGATTTGCGA
+>seq_3897	len 160	site #1	f 78
+TGATTTGCGA
+>seq_3899	len 160	site #1	f 37
+TGATTTGCGA
+>seq_3911	len 160	site #1	f 117
+TGATTTGCGA
+>seq_3926	len 160	site #1	r 27
+AGATCTGCGA
+>seq_3938	len 160	site #1	f 59
+TGATTTGCGA
+>seq_3944	len 160	site #1	f 45
+TGATTTGCGA
+>seq_3945	len 160	site #1	f 52
+TGATTCGAGA
+>seq_3947	len 160	site #1	f 131
+CGATTTGCGT
+>seq_3954	len 160	site #1	f 36
+TGATTTGCGA
+>seq_3972	len 160	site #1	f 62
+TGATTTGCGA
+>seq_3979	len 160	site #1	f 135
+TGATTTGCGA
+>seq_3980	len 160	site #1	f 148
+TGATTTGCGA
+>seq_3982	len 160	site #1	f 46
+TGATTTGCGA
+>seq_3993	len 160	site #1	f 110
+TGATTTGCGA
+>seq_3994	len 160	site #1	r 34
+TGCTTTCCGA
+>seq_3999	len 160	site #1	r 79
+AGATTTGCGT
+>seq_4004	len 160	site #1	f 37
+TGATTTGCGA
+>seq_4004	len 160	site #2	f 90
+TGATTTGCGA
+>seq_4004	len 160	site #3	f 130
+TGATTTGCGA
+>seq_4011	len 160	site #1	f 120
+TGATTTGCGA
+>seq_4018	len 160	site #1	f 64
+TGATTTGCGA
+>seq_4023	len 160	site #1	r 121
+CGATTTGCGT
+>seq_4031	len 160	site #1	f 52
+TGATTTGCGA
+>seq_4044	len 160	site #1	f 89
+TGATTTGCGA
+>seq_4054	len 160	site #1	r 105
+AGATTTGAGA
+>seq_4060	len 160	site #1	f 88
+TGATTTGCGA
+>seq_4074	len 160	site #1	f 81
+TGATTTGCGA
+>seq_4084	len 160	site #1	f 115
+TGATTTGCGA
+>seq_4089	len 160	site #1	f 93
+TGTTTCGCGA
+>seq_4099	len 160	site #1	f 43
+TGATTTGCGA
+>seq_4103	len 160	site #1	f 136
+TGATTTGCGA
+>seq_4112	len 160	site #1	r 100
+TGATCTGAGA
+>seq_4116	len 160	site #1	f 117
+TGATTTGCGA
+>seq_4121	len 160	site #1	f 21
+TGATTTGCGA
+>seq_4129	len 160	site #1	f 97
+TGATTTGCGA
+>seq_4153	len 160	site #1	f 55
+TGATTTGCGA
+>seq_4160	len 160	site #1	f 47
+TGATTTGCGA
+>seq_4167	len 160	site #1	f 13
+TGATTTGCGA
+>seq_4171	len 160	site #1	f 147
+TGATTTGCGA
+>seq_4171	len 160	site #2	r 105
+TGATATGAGA
+>seq_4178	len 160	site #1	f 138
+TGATTTGCGA
+>seq_4182	len 160	site #1	r 153
+CGATTTGCTA
+>seq_4187	len 160	site #1	r 19
+CGATTTGCTA
+>seq_4188	len 160	site #1	f 55
+TGATTTGCGA
+>seq_4191	len 160	site #1	f 127
+TGATTTGCGA
+>seq_4197	len 160	site #1	f 136
+TGATTTGCGA
+>seq_4202	len 160	site #1	f 25
+TGATTTGCGA
+>seq_4215	len 160	site #1	r 145
+AGATTTCCGA
+>seq_4226	len 160	site #1	f 140
+TGATTTGCGA
+>seq_4234	len 160	site #1	f 90
+TGATCTCCGA
+>seq_4244	len 160	site #1	r 62
+TGATTTGATA
+>seq_4253	len 160	site #1	f 142
+TGATTTGCGA
+>seq_4270	len 160	site #1	r 11
+CGATTTGCGA
+>seq_4278	len 160	site #1	r 52
+TGATTCGCTA
+>seq_4296	len 160	site #1	f 129
+TGATTTGCGA
+>seq_4302	len 160	site #1	f 47
+TGATTTGCGA
+>seq_4306	len 160	site #1	f 109
+TGATTTGCGA
+>seq_4309	len 160	site #1	f 5
+TGATTTGCGA
+>seq_4316	len 160	site #1	f 15
+TGATTTGCGA
+>seq_4327	len 160	site #1	f 99
+TGATTTGCGA
+>seq_4331	len 160	site #1	f 81
+TGATTTGCGA
+>seq_4347	len 160	site #1	f 36
+TGATTTGCGA
+>seq_4355	len 160	site #1	f 61
+TGATTTGCGA
+>seq_4362	len 160	site #1	f 91
+TGATTTGCGA
+>seq_4386	len 160	site #1	r 65
+TGATTTGAGT
+>seq_4390	len 160	site #1	f 16
+TGATTTGCGA
+>seq_4390	len 160	site #2	f 134
+TGATTTGCGA
+>seq_4406	len 160	site #1	f 32
+TGATTTGCGA
+>seq_4423	len 160	site #1	f 141
+TGATTTGCGA
+>seq_4438	len 160	site #1	f 80
+TGATCTGCGT
+>seq_4462	len 160	site #1	f 45
+TGATTTGCGA
+>seq_4494	len 160	site #1	f 73
+TGATTTGCGA
+>seq_4499	len 160	site #1	f 43
+TGATTTGCGA
+>seq_4504	len 160	site #1	f 112
+TGCTTTCCGA
+>seq_4515	len 160	site #1	f 87
+TGATTTGCGA
+>seq_4515	len 160	site #2	f 3
+TGTTTTGCTA
+>seq_4518	len 160	site #1	f 60
+TGATTTGCGA
+>seq_4525	len 160	site #1	f 135
+TGATTTGCGA
+>seq_4531	len 160	site #1	f 56
+TGATTTGCGA
+>seq_4538	len 160	site #1	f 31
+TGATTTGCGA
+>seq_4552	len 160	site #1	f 56
+TGATTTGCGA
+>seq_4556	len 160	site #1	f 142
+TGATTTGCGA
+>seq_4557	len 160	site #1	r 74
+TGATTTTCGA
+>seq_4575	len 160	site #1	f 58
+TGCTTTGCTA
+>seq_4580	len 160	site #1	f 79
+TGATTTGCGA
+>seq_4581	len 160	site #1	f 70
+TGATTTGCGA
+>seq_4581	len 160	site #2	f 81
+TGATTTGGGA
+>seq_4597	len 160	site #1	f 51
+TGATTTGCGA
+>seq_4598	len 160	site #1	f 42
+TGATTTGCGA
+>seq_4599	len 160	site #1	f 31
+TGATTTGCGA
+>seq_4607	len 160	site #1	r 78
+AGATTTGCGT
+>seq_4631	len 160	site #1	f 40
+TGATTTGCGA
+>seq_4632	len 160	site #1	f 24
+CGATTCGCGA
+>seq_4648	len 160	site #1	r 135
+AGATTTGCGT
+>seq_4649	len 160	site #1	f 33
+CGATTTCCGA
+>seq_4655	len 160	site #1	f 123
+TGATTTGCGA
+>seq_4656	len 160	site #1	f 83
+TGATTTGCGA
+>seq_4659	len 160	site #1	f 126
+TGATTTGCGA
+>seq_4663	len 160	site #1	f 70
+TGATTTGCGA
+>seq_4671	len 160	site #1	f 139
+TGATTTGCGA
+>seq_4672	len 160	site #1	f 145
+TGATTTGCGA
+>seq_4683	len 160	site #1	f 106
+TGATTTGCGA
+>seq_4686	len 160	site #1	r 47
+TGATACGCGA
+>seq_4693	len 160	site #1	f 37
+TGATTTGCGA
+>seq_4705	len 160	site #1	f 125
+TGATTTGCGA
+>seq_4750	len 160	site #1	f 44
+TGATTTGCGA
+>seq_4761	len 160	site #1	f 139
+TGATTTGCGA
+>seq_4763	len 160	site #1	f 86
+TGATTTGGGA
+>seq_4766	len 160	site #1	f 56
+TGATTTGCGA
+>seq_4769	len 160	site #1	f 135
+TGATTTGCGA
+>seq_4773	len 160	site #1	f 21
+TGATTTGCGA
+>seq_4774	len 160	site #1	f 48
+TGATTTGCGA
+>seq_4775	len 160	site #1	f 43
+TGATTTGCGA
+>seq_4802	len 160	site #1	f 46
+TGATTTGCGA
+>seq_4805	len 160	site #1	r 78
+TGCTTTGCGT
+>seq_4807	len 160	site #1	f 52
+TGATTTGCGA
+>seq_4814	len 160	site #1	f 79
+TCATATGCGA
+>seq_4817	len 160	site #1	f 31
+CGATTTGCGA
+>seq_4820	len 160	site #1	f 88
+TGATTTGCGA
+>seq_4824	len 160	site #1	r 132
+TGCTTTGCGA
+>seq_4825	len 160	site #1	f 125
+TGATTTGCGA
+>seq_4825	len 160	site #2	r 100
+CGATTCGCGA
+>seq_4833	len 160	site #1	f 77
+TGATTTGCGA
+>seq_4833	len 160	site #2	f 98
+TGATTTGCGA
+>seq_4835	len 160	site #1	f 82
+TGATTTGCGA
+>seq_4835	len 160	site #2	f 131
+TGATTTGCGA
+>seq_4837	len 160	site #1	f 29
+TGATTTGCGA
+>seq_4841	len 160	site #1	f 10
+TGATTTGCGA
+>seq_4855	len 160	site #1	f 29
+TGATTTGCGA
+>seq_4857	len 160	site #1	f 118
+TGATTTGCGA
+>seq_4860	len 160	site #1	f 23
+TGATTTGCGA
+>seq_4865	len 160	site #1	f 88
+TGATTTGCGA
+>seq_4893	len 160	site #1	f 19
+TGATTTGCGA
+>seq_4895	len 160	site #1	f 116
+TGATTTGCGA
+>seq_4900	len 160	site #1	r 140
+TGTTTTGCTA
+>seq_4914	len 160	site #1	f 58
+TGATTTGCGA
+>seq_4919	len 160	site #1	f 123
+TGATTTGCGA
+>seq_4919	len 160	site #2	f 33
+TGATATGCGA
+>seq_4930	len 160	site #1	f 76
+TGATTTGCGA
+>seq_4931	len 160	site #1	f 95
+TGATTTGCGA
+>seq_4940	len 160	site #1	f 4
+TGATTTGCGA
+>seq_4948	len 160	site #1	r 93
+TGCTTTCCGA
+>seq_4953	len 160	site #1	f 92
+TGATTTGCGA
+>seq_4965	len 160	site #1	f 119
+TGATTTGCGA
+>seq_4969	len 160	site #1	f 113
+TGATCTGGGA
+>seq_4977	len 160	site #1	f 42
+TGATTTGCGA
+>seq_4985	len 160	site #1	f 16
+AGATTTGCGA
+>seq_4987	len 160	site #1	f 23
+TGATTTGCGA
+>seq_4990	len 160	site #1	f 111
+TGATTTGCGA
+>seq_4995	len 160	site #1	f 132
+TGATTTGCGA
+>seq_4998	len 160	site #1	f 118
+TGATTTGCGA
+>seq_4999	len 160	site #1	f 45
+TGATTTGCGA
+>seq_5007	len 160	site #1	f 29
+TGATTTGCGA
+>seq_5017	len 160	site #1	f 76
+TGTTTCGCGA
+>seq_5031	len 160	site #1	f 116
+TGATTTGCGA
+>seq_5040	len 160	site #1	r 151
+AGATCTGCGA
+>seq_5061	len 160	site #1	f 108
+TGATTTGCGA
+>seq_5062	len 160	site #1	f 77
+TGATTTGCGA
+>seq_5079	len 160	site #1	f 65
+AGTTTTGCGA
+>seq_5080	len 160	site #1	f 104
+TGATTTGCGA
+>seq_5087	len 160	site #1	f 11
+TGATTTGCGA
+>seq_5089	len 160	site #1	f 50
+TGATTTGCGA
+>seq_5103	len 160	site #1	f 106
+TGATTTGCGA
+>seq_5105	len 160	site #1	f 44
+TGATTTGCGA
+>seq_5112	len 160	site #1	f 17
+TGATTTGCGA
+>seq_5119	len 160	site #1	f 44
+TGATTTGCGA
+>seq_5131	len 160	site #1	f 89
+TGATTTGCGA
+>seq_5135	len 160	site #1	f 61
+TGATTTGCGA
+>seq_5137	len 160	site #1	f 128
+TGATTTGCGA
+>seq_5153	len 160	site #1	f 75
+TGATTTGCGA
+>seq_5163	len 160	site #1	f 101
+TGATTTGCGA
+>seq_5168	len 160	site #1	f 20
+TGATTTGCGA
+>seq_5174	len 160	site #1	f 99
+TGATTTGCGA
+>seq_5211	len 160	site #1	f 91
+TGATTTGCGA
+>seq_5211	len 160	site #2	f 114
+TGATTTGCGA
+>seq_5214	len 160	site #1	f 59
+TGATTTGCGA
+>seq_5214	len 160	site #2	f 134
+TGATTTGCGA
+>seq_5219	len 160	site #1	f 47
+TGATTTGCGA
+>seq_5228	len 160	site #1	f 36
+TGATTTGCGA
+>seq_5281	len 160	site #1	f 44
+TGATTTGCGA
+>seq_5283	len 160	site #1	f 16
+TGATTTGCGA
+>seq_5293	len 160	site #1	f 27
+TGATTTGCGA
+>seq_5301	len 160	site #1	f 30
+TGATTTGCGA
+>seq_5304	len 160	site #1	f 51
+TGATTTGCGA
+>seq_5319	len 160	site #1	f 117
+TGATTTGCGA
+>seq_5324	len 160	site #1	f 83
+TGATTTGCGA
+>seq_5329	len 160	site #1	f 69
+TGATTTGCGA
+>seq_5331	len 160	site #1	f 8
+TGATTTGCGA
+>seq_5343	len 160	site #1	f 110
+TGATTTGCGA
+>seq_5344	len 160	site #1	f 17
+TGATTTGCGA
+>seq_5351	len 160	site #1	f 137
+TGATTTGCGA
+>seq_5369	len 160	site #1	f 109
+TGATTTGCGA
+>seq_5370	len 160	site #1	f 18
+TGATTTGCGA
+>seq_5378	len 160	site #1	f 69
+TGCTTTCCGA
+>seq_5381	len 160	site #1	f 110
+TGATTTGCGA
+>seq_5396	len 160	site #1	f 82
+TGATTTGCGA
+>seq_5416	len 160	site #1	f 37
+TGATTTGCGA
+>seq_5417	len 160	site #1	f 104
+TGATTTGCGA
+>seq_5417	len 160	site #2	f 126
+TGATTTGCGA
+>seq_5431	len 160	site #1	f 18
+TGATTTGCGA
+>seq_5441	len 160	site #1	f 28
+TGATTTGCGA
+>seq_5445	len 160	site #1	r 115
+CGCTTTGCGA
+>seq_5464	len 160	site #1	f 148
+TGATTCGCGA
+>seq_5471	len 160	site #1	f 141
+TGATTTGCGA
+>seq_5491	len 160	site #1	f 119
+TGATTTGCGA
+>seq_5496	len 160	site #1	f 123
+TGATTTGCGA
+>seq_5516	len 160	site #1	f 132
+TGATTTGCGA
+>seq_5518	len 160	site #1	f 55
+TGATTTGCGA
+>seq_5522	len 160	site #1	f 47
+TGATTTGCGA
+>seq_5529	len 160	site #1	f 71
+TGATTTGCGA
+>seq_5540	len 160	site #1	f 53
+TGATTTGCGA
+>seq_5547	len 160	site #1	f 40
+TGATTTGCGA
+>seq_5552	len 160	site #1	f 47
+TGATTTGCGA
+>seq_5552	len 160	site #2	r 126
+TCATATGCGA
+>seq_5558	len 160	site #1	f 107
+TGATTTGCGA
+>seq_5569	len 160	site #1	f 39
+TGATTTGCGA
+>seq_5585	len 160	site #1	f 132
+TGATTTGCGA
+>seq_5591	len 160	site #1	f 41
+TGATTTGCGA
+>seq_5626	len 160	site #1	r 143
+TCATCTGCGA
+>seq_5642	len 160	site #1	f 79
+TGATTTGCGA
+>seq_5644	len 160	site #1	f 1
+TGATTTGCGA
+>seq_5660	len 160	site #1	f 137
+TGATTTGCGT
+>seq_5666	len 160	site #1	f 22
+TGATTTGCGA
+>seq_5671	len 160	site #1	f 27
+TGATCTGAGA
+>seq_5678	len 160	site #1	f 63
+TGATTTGCGA
+>seq_5681	len 160	site #1	f 141
+TGATTTGCGA
+>seq_5693	len 160	site #1	f 71
+TGATTTGAGT
+>seq_5707	len 160	site #1	f 7
+TGCTCTGCGA
+>seq_5711	len 160	site #1	f 30
+TGATTTGCGA
+>seq_5716	len 160	site #1	f 85
+TGATTTGCGA
+>seq_5729	len 160	site #1	f 56
+CCATTTGCGA
+>seq_5738	len 160	site #1	f 60
+TGATTTGCGA
+>seq_5755	len 160	site #1	f 62
+AGATTTCCGA
+>seq_5761	len 160	site #1	f 136
+TGATTTGCGA
+>seq_5776	len 160	site #1	f 87
+TGATTTGCGA
+>seq_5778	len 160	site #1	r 110
+TGATTTGCAA
+>seq_5779	len 160	site #1	f 29
+TGATTTGCGA
+>seq_5786	len 160	site #1	f 128
+CGATCTGCGA
+>seq_5793	len 160	site #1	f 122
+TCATTCGCGA
+>seq_5795	len 160	site #1	f 27
+TGATTTGCGA
+>seq_5801	len 160	site #1	f 17
+TGATTTGCGA
+>seq_5811	len 160	site #1	f 60
+TGATTTGCGA
+>seq_5828	len 160	site #1	f 127
+TGATTTGCGA
+>seq_5834	len 160	site #1	f 76
+TGATTTGCGA
+>seq_5840	len 160	site #1	f 7
+TGATTTGCGA
+>seq_5842	len 160	site #1	r 69
+TGATTAGCGA
+>seq_5852	len 160	site #1	r 53
+TCATTTCCGA
+>seq_5855	len 160	site #1	r 27
+TGATCTGCTA
+>seq_5864	len 160	site #1	r 117
+ACATTTGCGA
+>seq_5873	len 160	site #1	f 28
+TGATTTGCGA
+>seq_5874	len 160	site #1	f 47
+TGATTTGCGA
+>seq_5875	len 160	site #1	f 13
+TGATTTGCGA
+>seq_5876	len 160	site #1	f 15
+TGATTTGCGA
+>seq_5883	len 160	site #1	f 89
+TGATTTGCGA
+>seq_5884	len 160	site #1	f 100
+TGATTTGCGA
+>seq_5889	len 160	site #1	f 73
+TCTTTTGCGA
+>seq_5891	len 160	site #1	f 90
+TCTTTTGCGA
+>seq_5895	len 160	site #1	f 45
+TGATTTGCGA
+>seq_5897	len 160	site #1	r 145
+TGTTTTGCTA
+>seq_5900	len 160	site #1	f 91
+TGATTTGCGA
+>seq_5903	len 160	site #1	f 150
+TGATTTGCGA
+>seq_5906	len 160	site #1	f 38
+TGATTTGCGA
+>seq_5909	len 160	site #1	f 70
+TGATTTGAGA
+>seq_5917	len 160	site #1	f 129
+TGATTTGCGA
+>seq_5920	len 160	site #1	f 47
+TGATTTGCGA
+>seq_5935	len 160	site #1	f 95
+TGATTTGCGA
+>seq_5943	len 160	site #1	f 37
+TGATTTGCGA
+>seq_5955	len 160	site #1	r 122
+TGAATTGCGA
+>seq_5958	len 160	site #1	f 68
+TGATTTGCGA
+>seq_5959	len 160	site #1	f 65
+TGATTTGCGA
+>seq_5960	len 160	site #1	f 32
+TGATTTGCGA
+>seq_5964	len 160	site #1	r 116
+TGATTTCCGT
+>seq_5966	len 160	site #1	f 55
+TGATTTGCGA
+>seq_5972	len 160	site #1	f 136
+TGATTTGCGA
+>seq_5979	len 160	site #1	f 120
+TGATTTGCGA
+>seq_5980	len 160	site #1	f 26
+TGATTTGCGA
+>seq_5995	len 160	site #1	r 140
+TCATTTGCTA
+>seq_5997	len 160	site #1	f 96
+TGCTTTGAGA
+>seq_6003	len 160	site #1	f 15
+TGATTTGCGA
+>seq_6033	len 160	site #1	f 94
+TGATTTGCGA
+>seq_6037	len 160	site #1	f 2
+TGATTTGCGA
+>seq_6039	len 160	site #1	f 89
+TGATTTGCGA
+>seq_6042	len 160	site #1	r 23
+AGATTTGCGT
+>seq_6047	len 160	site #1	f 109
+TGATTTGCGA
+>seq_6048	len 160	site #1	f 106
+TGCTTTGCTA
+>seq_6050	len 160	site #1	f 88
+TGATTTGCGA
+>seq_6053	len 160	site #1	f 140
+TGATTTGCGA
+>seq_6061	len 160	site #1	f 83
+TGATTTGCGA
+>seq_6077	len 160	site #1	f 134
+TGATTTGCGA
+>seq_6080	len 160	site #1	f 79
+TGATTTGCGA
+>seq_6104	len 160	site #1	f 133
+TGATTTGCGA
+>seq_6108	len 160	site #1	f 102
+TGATTTGCGA
+>seq_6111	len 160	site #1	f 54
+TGATTTGCGA
+>seq_6115	len 160	site #1	f 26
+TGATTTGCGA
+>seq_6117	len 160	site #1	f 105
+TGATATGAGA
+>seq_6118	len 160	site #1	f 133
+TGATTTGCGA
+>seq_6119	len 160	site #1	f 46
+TGATTTGCGA
+>seq_6123	len 160	site #1	r 31
+TGATATGCGA
+>seq_6127	len 160	site #1	f 125
+TGATTTGCGA
+>seq_6135	len 160	site #1	f 132
+TGCTCTGCGA
+>seq_6138	len 160	site #1	f 106
+TGATTTGCGA
+>seq_6143	len 160	site #1	f 27
+TGATTTGCGA
+>seq_6150	len 160	site #1	f 148
+TGATTTGCGA
+>seq_6151	len 160	site #1	f 109
+TGATTTGCGA
+>seq_6151	len 160	site #2	f 130
+TGATTTGCGA
+>seq_6152	len 160	site #1	f 123
+AGATTTCCGA
+>seq_6154	len 160	site #1	f 35
+TGATTTGCGA
+>seq_6173	len 160	site #1	f 33
+TGATTTGCGA
+>seq_6178	len 160	site #1	f 116
+TGATTTGCGA
+>seq_6194	len 160	site #1	f 2
+TGATTTGCGA
+>seq_6203	len 160	site #1	f 75
+TGATTTGCGA
+>seq_6207	len 160	site #1	r 27
+TGTTTTGAGA
+>seq_6212	len 160	site #1	f 15
+TGATTTGCGA
+>seq_6214	len 160	site #1	r 94
+TGATCTGAGA
+>seq_6220	len 160	site #1	f 39
+TGATTTGCGA
+>seq_6223	len 160	site #1	f 11
+TGATTTGCGA
+>seq_6223	len 160	site #2	f 108
+TGATTTGCGA
+>seq_6223	len 160	site #3	f 49
+TGTTTTGCGT
+>seq_6225	len 160	site #1	f 8
+TGATTTGCGA
+>seq_6231	len 160	site #1	f 58
+TGATTTGCGA
+>seq_6236	len 160	site #1	f 39
+TGATTTGCGA
+>seq_6238	len 160	site #1	f 117
+TGATTTGCGA
+>seq_6273	len 160	site #1	f 68
+AGATTCGCGA
+>seq_6276	len 160	site #1	f 129
+TGATTTGCGA
+>seq_6281	len 160	site #1	f 107
+TGATTTGCGA
+>seq_6315	len 160	site #1	f 4
+TGTTCTGCGA
+>seq_6319	len 160	site #1	f 39
+TGATTTGCGA
+>seq_6322	len 160	site #1	f 60
+TGATTTGCGA
+>seq_6326	len 160	site #1	f 70
+TGATTTGCGA
+******************************
+
+Total time 0:25:47.
